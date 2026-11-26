@@ -1,0 +1,22 @@
+name: Entpacken
+on:
+  push:
+    paths: [".github/workflows/entpacken.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          unzip -q trading-center.zip -d /tmp/x
+          rm -rf /tmp/x/trading-center/.github
+          cp -r /tmp/x/trading-center/. .
+          git rm -q trading-center.zip
+          git config user.name "trading-center-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Projekt entpackt"
+          git push
