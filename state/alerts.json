@@ -922,5 +922,139 @@
   "delivered": [
    "dashboard"
   ]
+ },
+ {
+  "id": "sig|ALV.DE|short|BUY|2026-11-26|2026-11-26T17:55:10Z",
+  "dedupe": "sig|ALV.DE|short|BUY|2026-11-26",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "ALV.DE",
+  "name": "Allianz SE",
+  "title": "AKTIENALARM – Allianz SE",
+  "headline": "Neues Kaufszenario (kurzfristig): HOLD → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "ALV.DE",
+   "price": 460.0,
+   "currency": "EUR",
+   "time": "2026-11-26T16:15:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 453.5
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Trend aufwärts: Kurs 4,6 % über SMA 50, 12,2 % über SMA 200, SMA 20 bei 458,31; RSI 55: positives Momentum ohne Überhitzung; Relative Stärke 6 Monate: +22,9 % gegenüber dem Vergleichsindex. Dagegen: Letzte Quartalszahlen (2026-11-12): EPS 7.41 vs. Erwartung 8.17 (-9,3 % Überraschung).",
+  "risk": "Letzte Quartalszahlen (2026-11-12): EPS 7.41 vs. Erwartung 8.17 (-9,3 % Überraschung).; Nächster Zahlentermin laut Yahoo: 2026-11-12 – Gap-Risiko.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-26T16:15:00Z",
+  "created": "2026-11-26T17:55:10Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "sig|BAYN.DE|short|BUY|2026-11-26|2026-11-26T17:55:10Z",
+  "dedupe": "sig|BAYN.DE|short|BUY|2026-11-26",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "BAYN.DE",
+  "name": "Bayer Aktiengesellschaft",
+  "title": "AKTIENALARM – Bayer Aktiengesellschaft",
+  "headline": "Neues Kaufszenario (kurzfristig): HOLD → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "BAYN.DE",
+   "price": 52.900001525878906,
+   "currency": "EUR",
+   "time": "2026-11-26T16:15:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 50.68000030517578
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Trend aufwärts: Kurs 7,1 % über SMA 50, 18,8 % über SMA 200, SMA 20 bei 54,38; RSI 52: positives Momentum ohne Überhitzung; Relative Stärke 6 Monate: +50,5 % gegenüber dem Vergleichsindex. Dagegen: Kurs direkt unter Widerstand 53,92 – Ausbruch noch nicht bestätigt.",
+  "risk": "Kurs direkt unter Widerstand 53,92 – Ausbruch noch nicht bestätigt.; Nächster Zahlentermin laut Yahoo: 2026-11-03 – Gap-Risiko.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-26T16:15:00Z",
+  "created": "2026-11-26T17:55:10Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "mv|BMW.DE|2026-11-26|up|2026-11-26T17:55:10Z",
+  "dedupe": "mv|BMW.DE|2026-11-26|up",
+  "kind": "strong_move",
+  "priority": "LOW",
+  "symbol": "BMW.DE",
+  "name": "Bayerische Motoren Werke Aktiengesellschaft",
+  "title": "AKTIENALARM – Bayerische Motoren Werke Aktiengesellschaft",
+  "headline": "Starke Kursbewegung: +4,2 % zum Vortag",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "BMW.DE",
+   "price": 57.560001373291016,
+   "currency": "EUR",
+   "time": "2026-11-26T16:15:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 55.2400016784668
+  },
+  "reason": "Jüngste Meldung: „I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?“ (MarketWatch).",
+  "risk": "Starke Bewegungen setzen sich nicht zwingend fort; Kurslücken möglich.",
+  "todo": "Ursache in den Nachrichten prüfen, nicht impulsiv handeln.",
+  "source": "Yahoo Finance",
+  "info_time": "2026-11-26T16:15:00Z",
+  "created": "2026-11-26T17:55:10Z",
+  "tag": "BESTÄTIGTE DATEN",
+  "link": null,
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "mv|VOW3.DE|2026-11-26|up|2026-11-26T17:55:10Z",
+  "dedupe": "mv|VOW3.DE|2026-11-26|up",
+  "kind": "strong_move",
+  "priority": "LOW",
+  "symbol": "VOW3.DE",
+  "name": "Volkswagen AG",
+  "title": "AKTIENALARM – Volkswagen AG",
+  "headline": "Starke Kursbewegung: +4,6 % zum Vortag",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "VOW3.DE",
+   "price": 68.23999786376953,
+   "currency": "EUR",
+   "time": "2026-11-26T16:15:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 65.23999786376953
+  },
+  "reason": "Jüngste Meldung: „European stocks end lower as rate hike fears, AI doubts hammer banks and tech“ (Reuters).",
+  "risk": "Starke Bewegungen setzen sich nicht zwingend fort; Kurslücken möglich.",
+  "todo": "Ursache in den Nachrichten prüfen, nicht impulsiv handeln.",
+  "source": "Yahoo Finance",
+  "info_time": "2026-11-26T16:15:00Z",
+  "created": "2026-11-26T17:55:10Z",
+  "tag": "BESTÄTIGTE DATEN",
+  "link": null,
+  "delivered": [
+   "dashboard"
+  ]
  }
 ]
