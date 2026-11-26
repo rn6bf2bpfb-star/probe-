@@ -1,0 +1,62 @@
+# Trading Center – zentrale Einstellungen
+# Alle Werte sind Simulationsannahmen und frei änderbar.
+
+timezone: Europe/Berlin
+base_currency: EUR
+
+depot:
+  start_capital: 10000.0        # Startkapital in EUR
+  fee_fixed: 1.00               # Fixgebühr je Order in EUR (z. B. Neobroker)
+  fee_percent: 0.0              # zusätzliche Gebühr in % des Ordervolumens
+  fx_fee_percent: 0.0           # Aufschlag beim Währungstausch in %
+  slippage_bps: 5               # Slippage je Ausführung in Basispunkten (0,05 %)
+  order_validity_days: 90       # Gültigkeit von Limit-/Stop-Orders
+  allow_fractional: true        # Bruchstücke erlauben
+  taxes:
+    enabled: true               # vereinfachte deutsche Abgeltungsteuer simulieren
+    rate: 0.25                  # Abgeltungsteuer
+    soli: 0.055                 # Solidaritätszuschlag auf die Steuer
+    church: 0.0                 # Kirchensteuer, z. B. 0.08 oder 0.09
+    allowance: 1000.0           # Sparerpauschbetrag je Kalenderjahr
+    etf_partial_exemption: 0.30 # Teilfreistellung Aktien-ETFs
+
+signals:
+  # Score-Grenzen für die Einstufung (0–100)
+  strong_buy: 75
+  buy: 62
+  sell: 38
+  strong_sell: 25
+  min_confirming_groups: 3      # nie aufgrund eines einzelnen Indikators
+  track_horizons_short: [5, 20]     # Handelstage für kurzfristige Signale
+  track_horizons_long: [60, 120]    # Handelstage für langfristige Signale
+  roundtrip_cost_percent: 0.30      # Kostenannahme für die Trefferquote
+
+alerts:
+  channels: [dashboard, telegram, push, email]   # nicht konfigurierte Kanäle werden übersprungen
+  min_priority_to_send: MEDIUM                  # LOW nur im Dashboard
+  dedupe_hours: 20
+  strong_move_percent: 4.0
+  volume_spike_rvol: 2.5
+
+risk:
+  max_position_weight: 0.20
+  max_sector_weight: 0.40
+  max_risk_per_trade: 0.02
+  high_volatility: 0.60          # annualisiert
+  losing_streak: 3
+  max_trades_per_week: 10
+  drawdown_warn: 0.10
+  drawdown_alarm: 0.20
+
+reports:
+  keep_days: 30
+  llm:
+    enabled: auto                # auto = nur wenn ANTHROPIC_API_KEY gesetzt ist
+    model: claude-sonnet-5-5
+    max_tokens: 900
+
+data:
+  history_period: 2y
+  intraday_interval: 15m
+  fundamentals_refresh_hours: 20
+  news_max_age_days: 7

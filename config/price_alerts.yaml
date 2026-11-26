@@ -1,0 +1,4 @@
+# Eigene Kursmarken. Über die Website änderbar (landet dann in state/price_alerts.json).
+# direction: above = Alarm bei Kurs >= Marke, below = Alarm bei Kurs <= Marke
+price_alerts: []
+#  - {ticker: SAP.DE, direction: below, level: 200.0, note: "Nachkaufzone prüfen"}

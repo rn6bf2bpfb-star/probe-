@@ -1,0 +1,130 @@
+# Beobachtungsuniversum (Yahoo-Finance-Symbole). Frei anpassbar.
+# Suffixe: .DE XETRA, .F Frankfurt, .L London (Kurse in Pence), .PA Paris, .AS Amsterdam,
+# .SW Schweiz, .MI Mailand, .CO Kopenhagen, ohne Suffix = USA.
+# Ein Symbol, das bei Yahoo nicht (mehr) existiert, erscheint als "nicht verfügbar".
+
+market_overview:
+  - {symbol: "^GDAXI", name: "DAX", kind: index}
+  - {symbol: "^MDAXI", name: "MDAX", kind: index}
+  - {symbol: "^GSPC", name: "S&P 500", kind: index}
+  - {symbol: "^NDX", name: "NASDAQ 100", kind: index}
+  - {symbol: "^DJI", name: "Dow Jones", kind: index}
+  - {symbol: "EUNL.DE", name: "MSCI World", kind: etf_proxy, note: "iShares Core MSCI World ETF (XETRA) als Stellvertreter, der Index selbst ist frei nicht verfügbar"}
+  - {symbol: "GC=F", name: "Gold", kind: commodity, note: "COMEX-Future, USD je Feinunze"}
+  - {symbol: "SI=F", name: "Silber", kind: commodity, note: "COMEX-Future, USD je Feinunze"}
+  - {symbol: "BZ=F", name: "Öl (Brent)", kind: commodity, note: "ICE-Future, USD je Barrel"}
+  - {symbol: "BTC-EUR", name: "Bitcoin", kind: crypto}
+  - {symbol: "ETH-EUR", name: "Ethereum", kind: crypto}
+
+sentiment_instruments:
+  vix: "^VIX"
+  us10y: "^TNX"          # Rendite x10 bei Yahoo → wird durch 10 geteilt
+  us3m: "^IRX"           # 13-Wochen-T-Bill, Näherung für den Geldmarktzins
+  eurusd: "EURUSD=X"
+
+overnight:
+  - {symbol: "^N225", name: "Nikkei 225"}
+  - {symbol: "^HSI", name: "Hang Seng"}
+  - {symbol: "000001.SS", name: "Shanghai Composite"}
+  - {symbol: "ES=F", name: "S&P-500-Future"}
+  - {symbol: "NQ=F", name: "Nasdaq-100-Future"}
+
+benchmarks:
+  default: "EUNL.DE"
+  by_suffix: {".DE": "^GDAXI", ".F": "^GDAXI", "": "^GSPC", ".L": "^FTSE", ".PA": "^FCHI", ".AS": "^AEX", ".SW": "^SSMI"}
+
+fx:
+  USD: "EURUSD=X"
+  GBP: "EURGBP=X"
+  CHF: "EURCHF=X"
+  DKK: "EURDKK=X"
+
+stocks:
+  # Deutschland
+  - SAP.DE
+  - SIE.DE
+  - ALV.DE
+  - DTE.DE
+  - AIR.DE
+  - MBG.DE
+  - BMW.DE
+  - VOW3.DE
+  - BAS.DE
+  - BAYN.DE
+  - MUV2.DE
+  - DBK.DE
+  - CBK.DE
+  - IFX.DE
+  - RHM.DE
+  - ADS.DE
+  - DHL.DE
+  - EOAN.DE
+  - RWE.DE
+  - MRK.DE
+  - HEN3.DE
+  - DB1.DE
+  - ENR.DE
+  - MTX.DE
+  - HNR1.DE
+  - VNA.DE
+  - BEI.DE
+  - CON.DE
+  - FRE.DE
+  - SY1.DE
+  - ZAL.DE
+  - HEI.DE
+  - PUM.DE
+  - LHA.DE
+  - HAG.DE
+  # Europa
+  - ASML.AS
+  - MC.PA
+  - TTE.PA
+  - NOVO-B.CO
+  - NESN.SW
+  - ROG.SW
+  - NOVN.SW
+  - AZN.L
+  - SHEL.L
+  - HSBA.L
+  - ULVR.L
+  # USA
+  - AAPL
+  - MSFT
+  - NVDA
+  - AMZN
+  - GOOGL
+  - META
+  - TSLA
+  - AVGO
+  - AMD
+  - ORCL
+  - CRM
+  - ADBE
+  - NFLX
+  - JPM
+  - V
+  - MA
+  - LLY
+  - UNH
+  - JNJ
+  - PG
+  - KO
+  - PEP
+  - COST
+  - WMT
+  - XOM
+
+etfs:
+  - {symbol: "EUNL.DE", name: "iShares Core MSCI World"}
+  - {symbol: "VWCE.DE", name: "Vanguard FTSE All-World (acc)"}
+  - {symbol: "SXR8.DE", name: "iShares Core S&P 500"}
+  - {symbol: "EXS1.DE", name: "iShares Core DAX"}
+  - {symbol: "EQQQ.DE", name: "Invesco Nasdaq-100"}
+  - {symbol: "IS3N.DE", name: "iShares Core MSCI EM IMI"}
+
+# Deine Watchlist (wird zusätzlich überwacht). Über die Website änderbar.
+watchlist:
+  - NVDA
+  - SAP.DE
+  - RHM.DE
