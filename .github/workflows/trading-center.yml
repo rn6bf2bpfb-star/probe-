@@ -1,0 +1,106 @@
+name: Trading Center
+on:
+  schedule:
+    - cron: "7 6-20 * * 1-5"
+    - cron: "20 21 * * 1-5"
+    - cron: "7 10 * * 0,6"
+  workflow_dispatch:
+    inputs:
+      command:
+        description: "Befehl als JSON (optional)"
+        required: false
+        default: ""
+      report:
+        description: "Bericht erzwingen"
+        type: choice
+        options: [auto, morning, intraday, evening, none]
+        default: auto
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  inbox:
+    if: github.event_name == 'workflow_dispatch' && inputs.command != ''
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Befehl ablegen
+        env:
+          COMMAND: ${{ inputs.command }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, uuid, datetime
+          cmd = json.loads(os.environ["COMMAND"])
+          assert isinstance(cmd, dict) and cmd.get("type")
+          cmd.setdefault("created_at", datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"))
+          os.makedirs("state/inbox", exist_ok=True)
+          name = f"state/inbox/{datetime.datetime.utcnow():%Y%m%dT%H%M%S}_{uuid.uuid4().hex[:6]}.json"
+          open(name, "w", encoding="utf-8").write(json.dumps(cmd, ensure_ascii=False))
+          EOF
+      - run: |
+          git config user.name "trading-center-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/inbox
+          git commit -m "Befehl eingegangen" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && exit 0; sleep $((i*3)); done
+          exit 1
+  run:
+    needs: inbox
+    if: ${{ !cancelled() && needs.inbox.result != 'failure' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    concurrency:
+      group: trading-center
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: backend/requirements.txt
+      - run: pip install -r backend/requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: state/cache/*.pkl
+          key: tc-prices-${{ github.run_id }}
+          restore-keys: tc-prices-
+      - name: Lauf
+        working-directory: backend
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python -m tc run --report "${{ inputs.report || 'auto' }}"
+      - name: Zustand sichern
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "trading-center-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A state
+          git commit -m "Lauf $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase && git push && exit 0; sleep $((i*3)); done
+          exit 1
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
