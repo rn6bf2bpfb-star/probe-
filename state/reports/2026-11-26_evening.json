@@ -1,0 +1,114 @@
+{
+ "kind": "evening",
+ "title": "Abendbericht",
+ "date": "2026-11-26",
+ "time": "2026-11-26T22:15:10Z",
+ "sections": [
+  {
+   "title": "Zusammenfassung des Handelstages",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "DAX: +2,14 % (Woche -0,92 %)",
+    "MDAX: +2,52 % (Woche -0,64 %)",
+    "S&P 500: -0,25 % (Woche -1,92 %)",
+    "NASDAQ 100: -0,63 % (Woche -3,93 %)",
+    "Dow Jones: +0,32 % (Woche -0,04 %)",
+    "MSCI World: +2,92 % (Woche -0,77 %)",
+    "Gold: +2,39 % (Woche -1,77 %)",
+    "Silber: +5,08 % (Woche -5,04 %)",
+    "Öl (Brent): -3,64 % (Woche -0,88 %)",
+    "Bitcoin: +0,21 % (Woche +0,66 %)",
+    "Ethereum: +0,27 % (Woche +0,76 %)"
+   ]
+  },
+  {
+   "title": "Gewinner",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Volkswagen AG: +4,60 %",
+    "Rheinmetall AG: +4,53 %",
+    "Siemens Energy AG: +4,45 %",
+    "Bayer Aktiengesellschaft: +4,38 %",
+    "Bayerische Motoren Werke Aktiengesellschaft: +4,20 %"
+   ]
+  },
+  {
+   "title": "Verlierer",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Oracle Corporation: -5,12 %",
+    "NVIDIA Corporation: -3,93 %",
+    "Amazon.com, Inc.: -3,19 %",
+    "Commerzbank AG: -2,90 %",
+    "Alphabet Inc.: -2,18 %"
+   ]
+  },
+  {
+   "title": "Dein virtuelles Depot",
+   "tag": "BESTÄTIGTE DATEN (Planspiel)",
+   "items": [
+    "Depotwert 10.000,00 € (+0,00 % seit Start), heute +0,00 €",
+    "Cash 10.000,00 €, 0 Positionen"
+   ]
+  },
+  {
+   "title": "Bewertung früherer Signale",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Heute wurden keine Signale fällig."
+   ]
+  },
+  {
+   "title": "Interessant für den nächsten Handelstag",
+   "tag": "EIGENE MODELLINTERPRETATION",
+   "items": [
+    "Unilever PLC (ULVR.L): BUY, Score 72, CRV 1.69, Unsicherheit mittel",
+    "Merck KGaA (MRK.DE): BUY, Score 68, CRV 2.0, Unsicherheit niedrig",
+    "Beiersdorf Aktiengesellschaft (BEI.DE): BUY, Score 67, CRV 2.0, Unsicherheit niedrig",
+    "Bayer Aktiengesellschaft (BAYN.DE): BUY, Score 66, CRV 1.32, Unsicherheit mittel",
+    "Apple Inc. (AAPL): BUY, Score 66, CRV 2.0, Unsicherheit niedrig",
+    "The Procter & Gamble Company (PG): BUY, Score 66, CRV 1.47, Unsicherheit niedrig"
+   ]
+  }
+ ],
+ "environment": {
+  "verdict": "negativ",
+  "points": -1.54,
+  "explanation": "Das Umfeld ist angespannt: schwache Trends oder hohe Unsicherheit. Risiko reduzieren und Signale strenger prüfen.",
+  "reasons": [
+   {
+    "text": "Eigener Stimmungsindikator bei 44/100 (Angst).",
+    "tag": "EIGENE MODELLINTERPRETATION",
+    "dir": "-"
+   },
+   {
+    "text": "DAX: Trend seitwärts, Monat -1,8 %.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "="
+   },
+   {
+    "text": "S&P 500: Trend seitwärts, Monat -7,0 %.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "="
+   },
+   {
+    "text": "VIX 26,8 – Volatilität erhöht.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "-"
+   },
+   {
+    "text": "EZB-Einlagesatz 2,50 % (Stand 2026-09-16, zuletzt erhöht).",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "-"
+   },
+   {
+    "text": "Inflation Euroraum 1,9 % (Ziel der EZB: 2 %, Stand 2025-12).",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "+"
+   }
+  ],
+  "tag": "EIGENE MODELLINTERPRETATION"
+ },
+ "demo": false,
+ "sources": []
+}
