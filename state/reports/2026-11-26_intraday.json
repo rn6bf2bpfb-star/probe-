@@ -2,7 +2,7 @@
  "kind": "intraday",
  "title": "Zwischenbericht",
  "date": "2026-11-26",
- "time": "2026-11-26T18:57:35Z",
+ "time": "2026-11-26T20:04:06Z",
  "sections": [
   {
    "title": "Auffällige Kursbewegungen",
@@ -22,7 +22,36 @@
    "title": "Neue Unternehmensnachrichten",
    "tag": "BESTÄTIGTE NACHRICHT",
    "items": [
-    "Keine neuen Meldungen für Depot und Watchlist."
+    {
+     "text": "NVDA: Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?",
+     "url": "https://www.fool.com/investing/2026/11/26/anthropic-stock-is-now-trading-as-ant-should-you-buy-today-or-wait/",
+     "source": "Motley Fool"
+    },
+    {
+     "text": "NVDA: I'd Buy Anthropic Stock Early — but Only If I Liked the Answers to These 3 Questions",
+     "url": "https://www.fool.com/investing/2026/11/26/id-buy-anthropic-stock-on-day-1-but-only-if-you-can-answer-these-3-questions/",
+     "source": "Motley Fool"
+    },
+    {
+     "text": "NVDA: Caterpillar's $78 Billion Backlog, Explained",
+     "url": "https://www.fool.com/investing/2026/11/26/caterpillar-s-usd78-billion-backlog-explained/",
+     "source": "Motley Fool"
+    },
+    {
+     "text": "NVDA: Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies",
+     "url": "https://www.fool.com/investing/2026/11/26/better-defense-stock-to-own-in-2027-lockheed-martin-vs-l3harris-technologies/",
+     "source": "Motley Fool"
+    },
+    {
+     "text": "NVDA: Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips",
+     "url": "https://www.yahoo.com/news/articles/kazakhstan-boosts-ai-cooperation-russia-184835193.html",
+     "source": "Reuters"
+    },
+    {
+     "text": "NVDA: This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street",
+     "url": "https://www.fool.com/investing/2026/11/26/this-oversold-artificial-intelligence-ai-stock-will-skyrocket-123-in-2027-according-to-wall-street/",
+     "source": "Motley Fool"
+    }
    ]
   },
   {

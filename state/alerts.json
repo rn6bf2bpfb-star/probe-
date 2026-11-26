@@ -1056,5 +1056,271 @@
   "delivered": [
    "dashboard"
   ]
+ },
+ {
+  "id": "news|93a9a7ca00e1|2026-11-26T20:04:06Z",
+  "dedupe": "news|93a9a7ca00e1",
+  "kind": "news",
+  "priority": "LOW",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "title": "AKTIENALARM – NVIDIA Corporation",
+  "headline": "Nachricht (Unternehmen): Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "NVDA",
+   "price": 149.27000427246094,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 155.3800048828125
+  },
+  "reason": "Tech stock IPOs have a long history of disappointing early investors.",
+  "risk": "Tonalität laut Stichwortanalyse neutral – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "Motley Fool via Yahoo Finance",
+  "info_time": "2026-11-26T19:50:02Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://www.fool.com/investing/2026/11/26/anthropic-stock-is-now-trading-as-ant-should-you-buy-today-or-wait/",
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "news|1ad7485bc5f4|2026-11-26T20:04:06Z",
+  "dedupe": "news|1ad7485bc5f4",
+  "kind": "news",
+  "priority": "MEDIUM",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "title": "AKTIENALARM – NVIDIA Corporation",
+  "headline": "Nachricht (Quartalszahlen): I'd Buy Anthropic Stock Early — but Only If I Liked the Answers to These 3 Questions",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "NVDA",
+   "price": 149.27000427246094,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 155.3800048828125
+  },
+  "reason": "The AI lab's revenue is soaring, but the outlook for its profitability and valuation will determine whether the stock is worth buying at current prices.",
+  "risk": "Tonalität laut Stichwortanalyse positiv – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "Motley Fool via Yahoo Finance",
+  "info_time": "2026-11-26T19:37:02Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://www.fool.com/investing/2026/11/26/id-buy-anthropic-stock-on-day-1-but-only-if-you-can-answer-these-3-questions/",
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "news|1f68abb22e84|2026-11-26T20:04:06Z",
+  "dedupe": "news|1f68abb22e84",
+  "kind": "news",
+  "priority": "MEDIUM",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "title": "AKTIENALARM – NVIDIA Corporation",
+  "headline": "Nachricht (Quartalszahlen): Caterpillar's $78 Billion Backlog, Explained",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "NVDA",
+   "price": 149.27000427246094,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 155.3800048828125
+  },
+  "reason": "Caterpillar's order backlog nearly doubled over the past year, yet shares are trading at just 16.5 times forward earnings. See how this $78 billion unfilled order list sets up the industrial giant for long-term sales growth.",
+  "risk": "Tonalität laut Stichwortanalyse positiv – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "Motley Fool via Yahoo Finance",
+  "info_time": "2026-11-26T18:57:02Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://www.fool.com/investing/2026/11/26/caterpillar-s-usd78-billion-backlog-explained/",
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "news|e9ba59218a1e|2026-11-26T20:04:06Z",
+  "dedupe": "news|e9ba59218a1e",
+  "kind": "news",
+  "priority": "LOW",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "title": "AKTIENALARM – NVIDIA Corporation",
+  "headline": "Nachricht (Unternehmen): Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "NVDA",
+   "price": 149.27000427246094,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 155.3800048828125
+  },
+  "reason": "Lockheed Martin and L3Harris Technologies are defense contractors with huge backlogs.",
+  "risk": "Tonalität laut Stichwortanalyse positiv – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "Motley Fool via Yahoo Finance",
+  "info_time": "2026-11-26T18:52:02Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://www.fool.com/investing/2026/11/26/better-defense-stock-to-own-in-2027-lockheed-martin-vs-l3harris-technologies/",
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "news|a22be38bf6d9|2026-11-26T20:04:06Z",
+  "dedupe": "news|a22be38bf6d9",
+  "kind": "news",
+  "priority": "LOW",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "title": "AKTIENALARM – NVIDIA Corporation",
+  "headline": "Nachricht (International): Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "NVDA",
+   "price": 149.27000427246094,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 155.3800048828125
+  },
+  "reason": "By Gleb Bryanski MOSCOW, Nov 26 (Reuters) - Kazakhstan's President Kassym-Jomart Tokayev advanced his country's AI ambitions at Russia's main AI conference on Thursday, telling President Vladimir",
+  "risk": "Tonalität laut Stichwortanalyse neutral – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "Reuters via Yahoo Finance",
+  "info_time": "2026-11-26T18:48:35Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://www.yahoo.com/news/articles/kazakhstan-boosts-ai-cooperation-russia-184835193.html",
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "news|17a5290f60b9|2026-11-26T20:04:06Z",
+  "dedupe": "news|17a5290f60b9",
+  "kind": "news",
+  "priority": "LOW",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "title": "AKTIENALARM – NVIDIA Corporation",
+  "headline": "Nachricht (Unternehmen): This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "NVDA",
+   "price": 149.27000427246094,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 155.3800048828125
+  },
+  "reason": "DigitalOcean's improving growth trajectory should translate into a big jump in the stock price next year.",
+  "risk": "Tonalität laut Stichwortanalyse positiv – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "Motley Fool via Yahoo Finance",
+  "info_time": "2026-11-26T18:47:02Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://www.fool.com/investing/2026/11/26/this-oversold-artificial-intelligence-ai-stock-will-skyrocket-123-in-2027-according-to-wall-street/",
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "news|43e44ea6aa3b|2026-11-26T20:04:06Z",
+  "dedupe": "news|43e44ea6aa3b",
+  "kind": "news",
+  "priority": "LOW",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "title": "AKTIENALARM – NVIDIA Corporation",
+  "headline": "Nachricht (Unternehmen): Arista Networks Stocks Fall 2.71% as AI Networking Gets Caught in Chip Rout",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "NVDA",
+   "price": 149.27000427246094,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 155.3800048828125
+  },
+  "reason": "The data center switch maker slipped with semiconductors, while GuruFocus still rates it a perfect 100 and modestly undervalued.",
+  "risk": "Tonalität laut Stichwortanalyse negativ – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "GuruFocus.com via Yahoo Finance",
+  "info_time": "2026-11-26T18:38:06Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stocks-fall-2-183806415.html",
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "news|f49396218836|2026-11-26T20:04:06Z",
+  "dedupe": "news|f49396218836",
+  "kind": "news",
+  "priority": "LOW",
+  "symbol": "SAP.DE",
+  "name": "SAP SE",
+  "title": "AKTIENALARM – SAP SE",
+  "headline": "Nachricht (Unternehmen): SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "SAP.DE",
+   "price": 193.55999755859375,
+   "currency": "EUR",
+   "time": "2026-11-26T16:15:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 189.82000732421875
+  },
+  "reason": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter.",
+  "risk": "Tonalität laut Stichwortanalyse negativ – Inhalt in der Originalquelle prüfen.",
+  "todo": "Originalmeldung lesen und Auswirkungen auf deine These prüfen.",
+  "source": "Bloomberg via Yahoo Finance",
+  "info_time": "2026-11-26T16:15:48Z",
+  "created": "2026-11-26T20:04:06Z",
+  "tag": "BESTÄTIGTE NACHRICHT",
+  "link": "https://finance.yahoo.com/technology/ai/articles/sap-weighs-cutting-least-10-161548594.html",
+  "delivered": [
+   "dashboard"
+  ]
  }
 ]

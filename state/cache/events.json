@@ -2,6 +2,14 @@
  "SAP.DE": {
   "news": [
    {
+    "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sap-weighs-cutting-least-10-161548594.html",
+    "published": "2026-11-26T16:15:48Z",
+    "publisher": "Bloomberg",
+    "summary": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter.",
+    "via": "Yahoo Finance"
+   },
+   {
     "title": "Will Autonomous Retail Pilot Change SAP's (XTRA:SAP) Narrative",
     "url": "https://finance.yahoo.com/technology/ai/articles/autonomous-retail-pilot-change-saps-171625672.html",
     "published": "2026-11-24T17:16:25Z",
@@ -71,14 +79,6 @@
     "published": "2026-11-17T17:34:11Z",
     "publisher": "Schaeffer's Investment Research",
     "summary": "Options traders are targeting NTNX and SAP",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "SAP SE (SAP): Post-Earnings Rally Signals Growing Investor Confidence in Cloud Growth Runway",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sap-se-sap-post-earnings-153105684.html",
-    "published": "2026-11-16T15:31:05Z",
-    "publisher": "Insider Monkey",
-    "summary": "Hotchkis & Wiley, an investment management company, released its third-quarter 2026 investor letter for the “Focused Global Value Fund.” The letter can be downloaded here. US quarterly earnings increased over 30% year-over-year, a strong performance amid a non-recessionary recovery, while internatio",
     "via": "Yahoo Finance"
    }
   ],
@@ -239,7 +239,7 @@
    "earnings_date": "2027-01-28",
    "ex_dividend_date": "2026-05-06"
   },
-  "_fetched": "2026-11-26T16:23:52Z"
+  "_fetched": "2026-11-26T20:03:57Z"
  },
  "SIE.DE": {
   "news": [
@@ -3590,7 +3590,7 @@
    "earnings_date": "2026-11-05",
    "ex_dividend_date": "2026-05-13"
   },
-  "_fetched": "2026-11-26T16:24:11Z"
+  "_fetched": "2026-11-26T20:03:58Z"
  },
  "ADS.DE": {
   "news": [
@@ -11276,59 +11276,59 @@
     "via": "Yahoo Finance"
    },
    {
-    "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
-    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
-    "published": "2026-11-26T16:17:03Z",
-    "publisher": "Investor's Business Daily",
-    "summary": "Futures are rising with U.S. markets shut after a wild session in which the Nasdaq rallied off lows while the Dow Jones and Anthropic reversed higher.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
-    "url": "https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/",
-    "published": "2026-11-26T16:06:22Z",
-    "publisher": "24/7 Wall St.",
-    "summary": "A CEO resignation, a credit rating on watch, and export rules scrambling China-bound GPUs have rattled the AI trade's biggest name. Two very different futures now compete for NVIDIA shares, and the next catalysts could tip the balance.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead",
-    "url": "https://www.fool.com/investing/2026/11/26/sp-500-sell-off-heres-why-im-not-panicking-and-what-im-doing-instead/",
-    "published": "2026-11-26T16:05:02Z",
+    "title": "Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?",
+    "url": "https://www.fool.com/investing/2026/11/26/anthropic-stock-is-now-trading-as-ant-should-you-buy-today-or-wait/",
+    "published": "2026-11-26T19:50:02Z",
     "publisher": "Motley Fool",
-    "summary": "History shows why it's important to stay invested.",
+    "summary": "Tech stock IPOs have a long history of disappointing early investors.",
     "via": "Yahoo Finance"
    },
    {
-    "title": "Semiconductor Sales Will Soar to $2.6 Trillion in 2027. Buy This Top Stock Before It Skyrockets Next Year",
-    "url": "https://www.fool.com/investing/2026/11/26/semiconductor-sales-will-soar-to-usd2-6-trillion-in-2027-buy-this-top-stock-before-it-skyrockets-next-year/",
-    "published": "2026-11-26T15:52:01Z",
+    "title": "I'd Buy Anthropic Stock Early — but Only If I Liked the Answers to These 3 Questions",
+    "url": "https://www.fool.com/investing/2026/11/26/id-buy-anthropic-stock-on-day-1-but-only-if-you-can-answer-these-3-questions/",
+    "published": "2026-11-26T19:37:02Z",
     "publisher": "Motley Fool",
-    "summary": "Strong memory demand will push semiconductor sales higher in 2027, and that's great news for Lam Research investors.",
+    "summary": "The AI lab's revenue is soaring, but the outlook for its profitability and valuation will determine whether the stock is worth buying at current prices.",
     "via": "Yahoo Finance"
    },
    {
-    "title": "Worried About a Market Crash? 2 Gold Mining Stocks to Buy Before 2026 Ends.",
-    "url": "https://www.fool.com/investing/2026/11/26/worried-about-a-market-crash-2-gold-mining-stocks-to-buy-before-2026-ends/",
-    "published": "2026-11-26T15:50:02Z",
+    "title": "Caterpillar's $78 Billion Backlog, Explained",
+    "url": "https://www.fool.com/investing/2026/11/26/caterpillar-s-usd78-billion-backlog-explained/",
+    "published": "2026-11-26T18:57:02Z",
     "publisher": "Motley Fool",
-    "summary": "Agnico Eagle Mines and Franco-Nevada are two of the best stocks to buy in advance of a market crash.",
+    "summary": "Caterpillar's order backlog nearly doubled over the past year, yet shares are trading at just 16.5 times forward earnings. See how this $78 billion unfilled order list sets up the industrial giant for long-term sales growth.",
     "via": "Yahoo Finance"
    },
    {
-    "title": "S&P’s NVIDIA Warning is Backward Looking Governance Theater That Gives Everyone an Opportunity to Buy at $150",
-    "url": "https://247wallst.com/investing/2026/11/26/sps-nvidia-warning-is-backward-looking-governance-theater-that-gives-everyone-an-opportunity-to-buy-at-150/",
-    "published": "2026-11-26T15:45:38Z",
-    "publisher": "24/7 Wall St.",
-    "summary": "NVIDIA lost its CEO, drew a credit warning, and watched its stock slide nearly a third in a month. So why does one investor keep buying more every week, and which three numbers convinced him the real story lies elsewhere?",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Rocket Lab Stock Just Fell to Its Lowest Price in About a Year. Is It a Buy Now?",
-    "url": "https://www.fool.com/investing/2026/11/26/rocket-lab-stock-just-fell-to-its-lowest-price-in-about-a-year-is-it-a-buy-now/",
-    "published": "2026-11-26T15:43:02Z",
+    "title": "Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies",
+    "url": "https://www.fool.com/investing/2026/11/26/better-defense-stock-to-own-in-2027-lockheed-martin-vs-l3harris-technologies/",
+    "published": "2026-11-26T18:52:02Z",
     "publisher": "Motley Fool",
-    "summary": "Shares are back where they were a year ago, but the business behind them is much bigger.",
+    "summary": "Lockheed Martin and L3Harris Technologies are defense contractors with huge backlogs.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips",
+    "url": "https://www.yahoo.com/news/articles/kazakhstan-boosts-ai-cooperation-russia-184835193.html",
+    "published": "2026-11-26T18:48:35Z",
+    "publisher": "Reuters",
+    "summary": "By Gleb Bryanski MOSCOW, Nov 26 (Reuters) - Kazakhstan's President Kassym-Jomart Tokayev advanced his country's AI ambitions at Russia's main AI conference on Thursday, telling President Vladimir",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street",
+    "url": "https://www.fool.com/investing/2026/11/26/this-oversold-artificial-intelligence-ai-stock-will-skyrocket-123-in-2027-according-to-wall-street/",
+    "published": "2026-11-26T18:47:02Z",
+    "publisher": "Motley Fool",
+    "summary": "DigitalOcean's improving growth trajectory should translate into a big jump in the stock price next year.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Arista Networks Stocks Fall 2.71% as AI Networking Gets Caught in Chip Rout",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stocks-fall-2-183806415.html",
+    "published": "2026-11-26T18:38:06Z",
+    "publisher": "GuruFocus.com",
+    "summary": "The data center switch maker slipped with semiconductors, while GuruFocus still rates it a perfect 100 and modestly undervalued.",
     "via": "Yahoo Finance"
    }
   ],
@@ -11561,7 +11561,7 @@
    "ex_dividend_date": "2026-12-02",
    "dividend_date": "2026-12-23"
   },
-  "_fetched": "2026-11-26T16:24:57Z"
+  "_fetched": "2026-11-26T20:03:59Z"
  },
  "AMZN": {
   "news": [
