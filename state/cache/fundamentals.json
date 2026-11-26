@@ -1,0 +1,6512 @@
+{
+ "SAP.DE": {
+  "name": "SAP SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "Germany",
+  "market_cap": 224123387904,
+  "pe": 28.060692,
+  "forward_pe": 22.88226,
+  "pb": 4.859967,
+  "peg": 1.5908,
+  "eps": 6.92,
+  "revenue": 39387000832,
+  "revenue_growth": 0.132,
+  "earnings_growth": 0.134,
+  "profit_margin": 0.20413,
+  "operating_margin": 0.29121,
+  "roe": 0.18178,
+  "debt_to_equity": 0.22789,
+  "total_debt": 10588000256,
+  "total_cash": 10997000192,
+  "free_cashflow": 10038750208,
+  "operating_cashflow": 9882999808,
+  "dividend_yield": 0.0132,
+  "payout_ratio": 0.36180001,
+  "beta": 0.702,
+  "analyst_target_mean": 243.54222,
+  "analyst_target_low": 198.84,
+  "analyst_target_high": 290.0,
+  "analyst_count": 27,
+  "recommendation_mean": 1.55172,
+  "recommendation_key": "buy",
+  "website": "https://www.sap.com",
+  "summary": "SAP SE, together with its subsidiaries, provides enterprise application and business solutions worldwide. It offers SAP Business AI; SAP S/4HANA that provides software capabilities for finance, risk and project management, procurement, manufacturing, supply chain and asset management, and research and development; SAP SuccessFactors solutions for human resources, including HR, time, payroll, talent and employee experience management, and analytics and planning; and spend management solutions that covers direct and indirect spend, travel and expense, and external workforce management. The compa",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 36800000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 34176000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 31207000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 29519000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 7161000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 3124000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 6139000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 2284000000.0
+   }
+  ],
+  "equity_ratio": 0.6336658992069583,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 8417000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 4410000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5461000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4770000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:32Z"
+ },
+ "SIE.DE": {
+  "name": "Siemens Aktiengesellschaft",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Germany",
+  "market_cap": 192391069696,
+  "pe": 23.462255,
+  "forward_pe": 18.999598,
+  "pb": 2.8034208,
+  "peg": 2.706,
+  "eps": 10.73,
+  "revenue": 83371999232,
+  "revenue_growth": 0.105,
+  "earnings_growth": 0.357,
+  "profit_margin": 0.10181,
+  "operating_margin": 0.13487001,
+  "roe": 0.12983,
+  "debt_to_equity": 0.61777,
+  "total_debt": 47222001664,
+  "total_cash": 12906000384,
+  "free_cashflow": 3870500096,
+  "operating_cashflow": 14666000384,
+  "dividend_yield": 0.021,
+  "payout_ratio": 0.4986,
+  "beta": 1.336,
+  "analyst_target_mean": 311.66293,
+  "analyst_target_low": 240.0,
+  "analyst_target_high": 345.0,
+  "analyst_count": 24,
+  "recommendation_mean": 2.0,
+  "recommendation_key": "buy",
+  "website": "https://www.siemens.com",
+  "summary": "Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization across the world. It operates through Digital Industries, Smart Infrastructure, Mobility, Siemens Healthineers, and Siemens Financial Services (SFS) segments. The Digital Industries segment provides automation systems and software for factories, numerical control systems, servo motors, drives and inverters, and integrated automation systems for machine tools and production machines; process control systems, machine-to-machine communication products, sensors and radio frequency identification",
+  "revenue_history": [
+   {
+    "date": "2026-09-30",
+    "value": 83372000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 78914000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 75930000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 74882000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-09-30",
+    "value": 8488000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 9620000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 8301000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 7949000000.0
+   }
+  ],
+  "equity_ratio": 0.40761541450319666,
+  "fcf_history": [
+   {
+    "date": "2026-09-30",
+    "value": 12096000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 10812000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 9577000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 10093000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:33Z"
+ },
+ "ALV.DE": {
+  "name": "Allianz SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "country": "Germany",
+  "market_cap": 172411338752,
+  "pe": 15.104849,
+  "forward_pe": 13.703045,
+  "pb": 2.845398,
+  "peg": 3.0928,
+  "eps": 30.52,
+  "revenue": 119581999104,
+  "revenue_growth": 0.082,
+  "earnings_growth": 0.002,
+  "profit_margin": 0.098120004,
+  "operating_margin": 0.16047001,
+  "roe": 0.19393998,
+  "debt_to_equity": null,
+  "total_debt": 0,
+  "total_cash": 25653999616,
+  "free_cashflow": null,
+  "operating_cashflow": null,
+  "dividend_yield": 0.037599999999999995,
+  "payout_ratio": 0.5603,
+  "beta": 0.671,
+  "analyst_target_mean": 455.48486,
+  "analyst_target_low": 365.0,
+  "analyst_target_high": 684.0,
+  "analyst_count": 17,
+  "recommendation_mean": 2.88235,
+  "recommendation_key": "hold",
+  "website": "https://www.allianz.com",
+  "summary": "Allianz SE, together with its subsidiaries, provides property-casualty insurance, life/health insurance, and asset management products and services worldwide. The company's Property-Casualty segment offers various insurance products, including motor liability, accident, fire and property, general liability, credit, and travel, and assistance services to private and corporate customers. Its Life/Health segment provides a range of life and health insurance products on an individual and a group basis, such as annuities, endowment and term insurance, and unit-linked and investment-oriented product",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 137450000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 139947000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 119667000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 79860000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 10775000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 9931000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 8541000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 6421000000.0
+   }
+  ],
+  "equity_ratio": 0.06123544825808669,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 30944000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 29988000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 22322000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 16334000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:34Z"
+ },
+ "DTE.DE": {
+  "name": "Deutsche Telekom AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "country": "Germany",
+  "market_cap": 129991352320,
+  "pe": 14.612904,
+  "forward_pe": 10.604429,
+  "pb": 2.0854754,
+  "peg": 1.9268,
+  "eps": 1.86,
+  "revenue": 122662002688,
+  "revenue_growth": 0.075,
+  "earnings_growth": 0.155,
+  "profit_margin": 0.073189996,
+  "operating_margin": 0.2215,
+  "roe": 0.15404001,
+  "debt_to_equity": 1.60346,
+  "total_debt": 145693999104,
+  "total_cash": 8220000256,
+  "free_cashflow": 28694249472,
+  "operating_cashflow": 40988000256,
+  "dividend_yield": 0.0373,
+  "payout_ratio": 0.5376,
+  "beta": 0.344,
+  "analyst_target_mean": 35.53333,
+  "analyst_target_low": 28.1,
+  "analyst_target_high": 43.0,
+  "analyst_count": 18,
+  "recommendation_mean": 1.58824,
+  "recommendation_key": "buy",
+  "website": "https://www.telekom.com",
+  "summary": "Deutsche Telekom AG, together with its subsidiaries, provides integrated telecommunication services worldwide. It operates through Germany, United States, Europe, Systems Solutions, and Group Development segments. The company offers fixed-network services, including voice and data communication services based on fixed-network and broadband technology; and sells terminal equipment and other hardware products, as well as services to resellers. It also provides mobile voice and data services to consumers and business customers; sells mobile devices and other hardware products; and sells mobile se",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 118343000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 115111000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 111308000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 113608000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 9609000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 11209000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 17788000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 8001000000.0
+   }
+  ],
+  "equity_ratio": 0.21455366170984475,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 21371000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 20703000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 19432000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 11705000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:35Z"
+ },
+ "AIR.DE": {
+  "name": "Airbus SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Netherlands",
+  "market_cap": 154056146944,
+  "pe": 25.028204,
+  "forward_pe": 40.75574,
+  "pb": 5.760911,
+  "peg": 1.3802,
+  "eps": 7.8,
+  "revenue": 76629000192,
+  "revenue_growth": -0.02,
+  "earnings_growth": 0.206,
+  "profit_margin": 0.08048,
+  "operating_margin": 0.08767,
+  "roe": 0.23534,
+  "debt_to_equity": 0.51538,
+  "total_debt": 13825999872,
+  "total_cash": 11900999680,
+  "free_cashflow": 978875008,
+  "operating_cashflow": 7894000128,
+  "dividend_yield": 0.0165,
+  "payout_ratio": 0.4103,
+  "beta": 0.861,
+  "analyst_target_mean": null,
+  "analyst_target_low": null,
+  "analyst_target_high": null,
+  "analyst_count": null,
+  "recommendation_mean": null,
+  "recommendation_key": "none",
+  "website": "https://www.airbus.com",
+  "summary": "Airbus SE, together with its subsidiaries, engages in the design, manufacture, and delivery of aeronautics and aerospace products, services, and solutions worldwide. It operates through three segments: Airbus, Airbus Helicopters, and Airbus Defence and Space. The Airbus segment develops, manufactures, markets, and sells commercial jet passenger aircraft, freighter aircraft, regional turboprop aircraft, and aircraft components, as well as provides aircraft conversion and related services. The Airbus Helicopters segment develops, manufactures, markets, and sells civil and military helicopters; a",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 73420000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 69230000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 65446000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 58763000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 5221000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 4232000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 3789000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4247000000.0
+   }
+  ],
+  "equity_ratio": 0.19345037387263875,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 4031000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 3733000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 3204000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 3824000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:36Z"
+ },
+ "MBG.DE": {
+  "name": "Mercedes-Benz Group AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Germany",
+  "market_cap": 36497981440,
+  "pe": 6.652249,
+  "forward_pe": 6.592359,
+  "pb": 0.3814787,
+  "peg": 0.5888,
+  "eps": 5.78,
+  "revenue": 128051003392,
+  "revenue_growth": -0.045,
+  "earnings_growth": 0.344,
+  "profit_margin": 0.04198,
+  "operating_margin": 0.0684,
+  "roe": 0.05875,
+  "debt_to_equity": 1.02738,
+  "total_debt": 96859996160,
+  "total_cash": 19484000256,
+  "free_cashflow": -879000000,
+  "operating_cashflow": 10387000320,
+  "dividend_yield": 0.09369999999999999,
+  "payout_ratio": 0.614,
+  "beta": 0.736,
+  "analyst_target_mean": 49.1525,
+  "analyst_target_low": 32.0,
+  "analyst_target_high": 65.0,
+  "analyst_count": 20,
+  "recommendation_mean": 2.38095,
+  "recommendation_key": "buy",
+  "website": "https://group.mercedes-benz.com",
+  "summary": "Mercedes-Benz Group AG operates as an automotive company in Europe, Germany, North America, the United States, Asia, China, and internationally. It operates through Mercedes-Benz Cars, Mercedes-Benz Vans, and Mercedes-Benz Financial Services segments. The company develops, manufactures, and sells cars and vans under the Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach, G-Class brands, as well as related spare parts and accessories. It also provides financing, leasing, vehicle subscription and rental, fleet management, insurance, and digital services related to charging electric vehicles. The comp",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 132214000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 145594000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 152390000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 150017000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 5141000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 10207000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 14261000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 14501000000.0
+   }
+  ],
+  "equity_ratio": 0.36504662068533583,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 8264000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 9070000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 6257000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 9995000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:38Z"
+ },
+ "BMW.DE": {
+  "name": "Bayerische Motoren Werke Aktiengesellschaft",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Germany",
+  "market_cap": 33907429376,
+  "pe": 5.6735907,
+  "forward_pe": 7.155912,
+  "pb": 0.35256803,
+  "peg": 1.196,
+  "eps": 10.11,
+  "revenue": 126171996160,
+  "revenue_growth": -0.058,
+  "earnings_growth": null,
+  "profit_margin": 0.048270002,
+  "operating_margin": 0.05653,
+  "roe": 0.06252,
+  "debt_to_equity": 1.20725,
+  "total_debt": 118646996992,
+  "total_cash": 15932000256,
+  "free_cashflow": 3478267904,
+  "operating_cashflow": 4696000000,
+  "dividend_yield": 0.08259999999999999,
+  "payout_ratio": 0.4352,
+  "beta": 0.809,
+  "analyst_target_mean": 66.77368,
+  "analyst_target_low": 52.0,
+  "analyst_target_high": 82.5,
+  "analyst_count": 19,
+  "recommendation_mean": 2.65,
+  "recommendation_key": "hold",
+  "website": "https://www.bmwgroup.com",
+  "summary": "Bayerische Motoren Werke Aktiengesellschaft develops, manufactures, and sells automobiles and motorcycles, spare parts, and accessories worldwide. It operates through Automotive, Motorcycles, and Financial Services segments. The company offers automobiles under the BMW, MINI, and Rolls-Royce brands. It also develops, manufactures, and sells scooters, and motorcycles for private use and special-purpose vehicles for operational use under the BMW Motorrad brand. In addition, the company provides car rentals; credit financing; leasing that include insurance and service products; financing for deal",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 133453000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 142380000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 155498000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 142610000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 7294000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7290000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 11290000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 17941000000.0
+   }
+  ],
+  "equity_ratio": 0.3598077957039783,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -2735000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -4639000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 6661000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 14473000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:39Z"
+ },
+ "VOW3.DE": {
+  "name": "Volkswagen AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "Germany",
+  "market_cap": 33977792512,
+  "pe": 32.123222,
+  "forward_pe": 3.5399468,
+  "pb": 0.19902514,
+  "peg": 0.485,
+  "eps": 2.11,
+  "revenue": 316622012416,
+  "revenue_growth": -0.063,
+  "earnings_growth": null,
+  "profit_margin": 0.00535,
+  "operating_margin": 0.04987,
+  "roe": 0.0039500003,
+  "debt_to_equity": 1.42989,
+  "total_debt": 280827002880,
+  "total_cash": 67136999424,
+  "free_cashflow": 10050654208,
+  "operating_cashflow": 15438000128,
+  "dividend_yield": 0.0843,
+  "payout_ratio": 2.4929,
+  "beta": 0.963,
+  "analyst_target_mean": 98.15556,
+  "analyst_target_low": 67.3,
+  "analyst_target_high": 120.0,
+  "analyst_count": 18,
+  "recommendation_mean": 2.10526,
+  "recommendation_key": "buy",
+  "website": "https://www.volkswagen-group.com",
+  "summary": "Volkswagen AG manufactures automobiles and commercial vehicles in Europe, Germany, North America, South America, the Asia-Pacific, and internationally. It operates through three segments: Passenger Cars and Light Commercial Vehicles; Commercial Vehicles; and Financial Services. The Passenger Cars and Light Commercial Vehicles segment develops vehicles, engines and motors, vehicle software, and vehicle batteries; produces and sells passenger cars and light commercial vehicles, and the parts. This segment also offers compact cars, luxury vehicles, and motorcycles, as well as mobility solutions. ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 321913000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 324655000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 322284000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 279050000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 7323000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 11351000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 16532000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 15457000000.0
+   }
+  ],
+  "equity_ratio": 0.29214374048632435,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -9337000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -10295000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -6439000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5825000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:40Z"
+ },
+ "BAS.DE": {
+  "name": "BASF SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "country": "Germany",
+  "market_cap": 44348911616,
+  "pe": 22.288889,
+  "forward_pe": 15.870756,
+  "pb": 1.1757398,
+  "peg": 0.537,
+  "eps": 2.25,
+  "revenue": 63617998848,
+  "revenue_growth": 0.142,
+  "earnings_growth": -0.053,
+  "profit_margin": 0.090959996,
+  "operating_margin": 0.0378,
+  "roe": 0.060939997,
+  "debt_to_equity": 0.59925,
+  "total_debt": 22610999296,
+  "total_cash": 4120999936,
+  "free_cashflow": 3037499904,
+  "operating_cashflow": 4458999808,
+  "dividend_yield": 0.0458,
+  "payout_ratio": 0.9375,
+  "beta": 0.755,
+  "analyst_target_mean": 53.91667,
+  "analyst_target_low": 42.0,
+  "analyst_target_high": 69.0,
+  "analyst_count": 18,
+  "recommendation_mean": 2.5,
+  "recommendation_key": "buy",
+  "website": "https://www.basf.com",
+  "summary": "BASF SE operates as a chemical company worldwide. It operates through six segments: Chemicals, Materials, Industrial Solutions, Surface Technologies, Nutrition & Care, and Agricultural Solutions. The Chemicals segment provides petrochemicals and intermediates. The Materials segment offers advanced materials and their precursors for applications and systems comprising isocyanates, polyamides, and inorganic basic products, as well as specialties for the plastics and plastics processing industries. The Industrial Solutions segment develops and markets ingredients and additives for industrial appl",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 59656000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 61443000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 68902000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 87327000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1619000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1298000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 225000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -627000000.0
+   }
+  ],
+  "equity_ratio": 0.43576548428597683,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1343000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 748000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2716000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 3334000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:41Z"
+ },
+ "BAYN.DE": {
+  "name": "Bayer Aktiengesellschaft",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Germany",
+  "market_cap": 52048826368,
+  "pe": null,
+  "forward_pe": 10.917026,
+  "pb": 1.7840185,
+  "peg": null,
+  "eps": -1.47,
+  "revenue": 45767999488,
+  "revenue_growth": 0.041,
+  "earnings_growth": null,
+  "profit_margin": -0.03162,
+  "operating_margin": 0.16527,
+  "roe": -0.045640003,
+  "debt_to_equity": 1.3443399999999999,
+  "total_debt": 43425001472,
+  "total_cash": 12602000384,
+  "free_cashflow": 5840000000,
+  "operating_cashflow": 3728999936,
+  "dividend_yield": 0.21,
+  "payout_ratio": 1.6216,
+  "beta": 0.808,
+  "analyst_target_mean": 61.08333,
+  "analyst_target_low": 48.5,
+  "analyst_target_high": 70.0,
+  "analyst_count": 18,
+  "recommendation_mean": 1.88889,
+  "recommendation_key": "buy",
+  "website": "https://www.bayer.com",
+  "summary": "Bayer Aktiengesellschaft operates as a life science company in Europe, the Middle East, Africa, Germany, Switzerland, North America, the United States, the Asia Pacific, China, Latin America, and Brazil. It operates through Pharmaceuticals, Consumer Health, and Crop Science segments. The Pharmaceuticals segment provides prescription products primarily for cardiology and women's health care; specialty therapeutics in the areas of oncology, hematology, and ophthalmology; and diagnostic imaging equipment and contrast agents, as well as cell and gene therapy. The Consumer Health segment offers non",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 45575000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 46606000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 47637000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 50739000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": -3620000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -2552000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -2941000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4150000000.0
+   }
+  ],
+  "equity_ratio": 0.24819927109937728,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 3443000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 4590000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2366000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4144000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:42Z"
+ },
+ "MUV2.DE": {
+  "name": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Financial Services",
+  "industry": "Insurance - Reinsurance",
+  "country": "Germany",
+  "market_cap": 74205372416,
+  "pe": 11.044943,
+  "forward_pe": 11.432594,
+  "pb": 2.2236297,
+  "peg": 2.0309,
+  "eps": 53.4,
+  "revenue": 63334998016,
+  "revenue_growth": 0.117,
+  "earnings_growth": -0.099,
+  "profit_margin": 0.10441,
+  "operating_margin": 0.14521,
+  "roe": 0.20106001,
+  "debt_to_equity": 0.22366,
+  "total_debt": 7463000064,
+  "total_cash": 6118000128,
+  "free_cashflow": null,
+  "operating_cashflow": null,
+  "dividend_yield": 0.0409,
+  "payout_ratio": 0.4504,
+  "beta": 0.266,
+  "analyst_target_mean": 559.125,
+  "analyst_target_low": 480.0,
+  "analyst_target_high": 644.0,
+  "analyst_count": 16,
+  "recommendation_mean": 3.0625,
+  "recommendation_key": "hold",
+  "website": "https://www.munichre.com",
+  "summary": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München engages in the insurance and reinsurance businesses worldwide. The company operates through six segments: Life and Health Reinsurance, Property-Casualty Reinsurance, Global Specialty Insurance, ERGO Life and Health Germany, ERGO Property-Casualty Germany, and ERGO International. The company offers life and health reinsurance solutions, such as digital underwriting and advanced analytics solutions, health insurance management system, financial market risks, financing, portfolio risk management, digitalized investment-linked ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 62310000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 64424000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 59515000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 57546000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 6118000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 5704000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 4606000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5313000000.0
+   }
+  ],
+  "equity_ratio": 0.11715975908607029,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 4606000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2827000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2197000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 3623000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:43Z"
+ },
+ "DBK.DE": {
+  "name": "Deutsche Bank Aktiengesellschaft",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Germany",
+  "market_cap": 55548833792,
+  "pe": 8.734694,
+  "forward_pe": 7.558918,
+  "pb": 0.6995587,
+  "peg": 1.5603,
+  "eps": 3.43,
+  "revenue": 30676000768,
+  "revenue_growth": 0.028,
+  "earnings_growth": 0.056,
+  "profit_margin": 0.22669001,
+  "operating_margin": 0.32276002,
+  "roe": 0.08979,
+  "debt_to_equity": null,
+  "total_debt": 561774002176,
+  "total_cash": 657327980544,
+  "free_cashflow": null,
+  "operating_cashflow": null,
+  "dividend_yield": 0.0334,
+  "payout_ratio": 0.30040002,
+  "beta": 1.045,
+  "analyst_target_mean": 35.58306,
+  "analyst_target_low": 10.9,
+  "analyst_target_high": 47.75,
+  "analyst_count": 18,
+  "recommendation_mean": 2.22222,
+  "recommendation_key": "buy",
+  "website": "https://www.db.com",
+  "summary": "Deutsche Bank Aktiengesellschaft, a stock corporation, provides corporate and investment banking, private clients, and asset management products and services in Germany, the United Kingdom, the rest of Europe, the Americas, the Asia-Pacific, the Middle East, and Africa. It operates through Corporate Bank, Investment Bank, Private Bank, and Asset Management segments. The Corporate Bank segment offers cash management services, such as integrated payments and FX solutions; trade finance and lending offerings, including documentary and guarantee business, and structured trade finance and lending; ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 32099000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 30047000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 28875000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 26656000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 6931000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 3366000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 4772000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5525000000.0
+   }
+  ],
+  "equity_ratio": 0.05479953200791322,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 46621000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -29112000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5184000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -2450000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:44Z"
+ },
+ "CBK.DE": {
+  "name": "Commerzbank AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "country": "Germany",
+  "market_cap": 36046249984,
+  "pe": 11.2668915,
+  "forward_pe": 8.550119,
+  "pb": 1.3540947,
+  "peg": 0.7288,
+  "eps": 2.96,
+  "revenue": 12115000320,
+  "revenue_growth": 0.085,
+  "earnings_growth": 0.525,
+  "profit_margin": 0.28114,
+  "operating_margin": 0.43137002,
+  "roe": 0.1033,
+  "debt_to_equity": null,
+  "total_debt": 20743999488,
+  "total_cash": 99433996288,
+  "free_cashflow": null,
+  "operating_cashflow": null,
+  "dividend_yield": 0.030899999999999997,
+  "payout_ratio": 0.3833,
+  "beta": 0.703,
+  "analyst_target_mean": 42.38333,
+  "analyst_target_low": 39.0,
+  "analyst_target_high": 47.0,
+  "analyst_count": 12,
+  "recommendation_mean": 2.46154,
+  "recommendation_key": "buy",
+  "website": "https://www.commerzbank.de",
+  "summary": "Commerzbank AG provides banking and capital market products and services to private and small business customers, corporate, financial service providers, and institutional clients in Germany, rest of Europe, the Americas, and Asia. It operates through two segments, Private and Small-Business Customers, and Corporate Clients. The company offers current, money market, checking, business accounts; insurance products; credit and debit cards; pension scheme; card payment terminal; and various loans. It also offers installment loans; renovation loans, debt structuring, car loan, overdraft facility; ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 12934000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 12362000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 11812000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 10390000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 2625000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2677000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2224000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1435000000.0
+   }
+  ],
+  "equity_ratio": 0.05732834879984816,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -7874000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -21442000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 19284000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 25184000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:46Z"
+ },
+ "IFX.DE": {
+  "name": "Infineon Technologies AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "Germany",
+  "market_cap": 55674552320,
+  "pe": 37.548244,
+  "forward_pe": 10.999841,
+  "pb": 3.0977712,
+  "peg": 0.4074,
+  "eps": 1.14,
+  "revenue": 16353000448,
+  "revenue_growth": 0.193,
+  "earnings_growth": 1.296,
+  "profit_margin": 0.09246001,
+  "operating_margin": 0.13539,
+  "roe": 0.08483,
+  "debt_to_equity": 0.39435000000000003,
+  "total_debt": 7325000192,
+  "total_cash": 2136999936,
+  "free_cashflow": 922000000,
+  "operating_cashflow": 4160000000,
+  "dividend_yield": 0.008,
+  "payout_ratio": 0.3804,
+  "beta": 1.947,
+  "analyst_target_mean": 80.16,
+  "analyst_target_low": 50.0,
+  "analyst_target_high": 124.0,
+  "analyst_count": 25,
+  "recommendation_mean": 1.36,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.infineon.com",
+  "summary": "Infineon Technologies AG develops, manufactures, and markets semiconductors and semiconductor-based solutions in Germany, Europe, the Middle East, Africa, Mainland China, Hong Kong, Taiwan, the Asia-Pacific, Japan, the United States, and the Americas. The Automotive segment offers automotive and industrial microcontrollers; analog and memory ICs; ethernet; power diodes and modules; power switches; sensors; transceivers; and voltage regulators for assistance and safety systems, comfort electronics, infotainment, powertrain, and security applications. Its Green Industrial Power segment provides ",
+  "revenue_history": [
+   {
+    "date": "2025-09-30",
+    "value": 14662000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 14955000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 16309000000.0
+   },
+   {
+    "date": "2022-09-30",
+    "value": 14218000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-09-30",
+    "value": 1015000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 1301000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 3137000000.0
+   },
+   {
+    "date": "2022-09-30",
+    "value": 2179000000.0
+   }
+  ],
+  "equity_ratio": 0.5595996061700033,
+  "fcf_history": [
+   {
+    "date": "2025-09-30",
+    "value": 1123000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 61000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 966000000.0
+   },
+   {
+    "date": "2022-09-30",
+    "value": 1670000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:47Z"
+ },
+ "RHM.DE": {
+  "name": "Rheinmetall AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Germany",
+  "market_cap": 35925073920,
+  "pe": 27.086557,
+  "forward_pe": 15.73057,
+  "pb": 6.725552,
+  "peg": 0.3567,
+  "eps": 28.42,
+  "revenue": 12254000128,
+  "revenue_growth": 0.364,
+  "earnings_growth": 0.927,
+  "profit_margin": 0.07018,
+  "operating_margin": 0.16941,
+  "roe": 0.26709,
+  "debt_to_equity": 0.57465,
+  "total_debt": 3536999936,
+  "total_cash": 636000000,
+  "free_cashflow": 806515008,
+  "operating_cashflow": 1412999936,
+  "dividend_yield": 0.015700000000000002,
+  "payout_ratio": 0.3976,
+  "beta": 0.449,
+  "analyst_target_mean": 1282.591,
+  "analyst_target_low": 900.0,
+  "analyst_target_high": 1780.0,
+  "analyst_count": 22,
+  "recommendation_mean": 1.72727,
+  "recommendation_key": "buy",
+  "website": "https://www.rheinmetall.com",
+  "summary": "Rheinmetall AG provides mobility and security technologies in Germany, Rest of Europe, North, Middle, and South America, Asia and the Near East, and internationally. The company operates through the Vehicle Systems, Weapon and Ammunition, and Electronic Solutions segments. Its Vehicle Systems segment offers combat, logistics, support, and special vehicles, including armored tracked vehicles, CBRN protection systems, artillery, turret systems, and wheeled logistics and tactical vehicles. The Weapon and Ammunition segment provides firepower and protection solutions, such as weapons and ammunitio",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 9935000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7715000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 7176000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 6410000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 696000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 717000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 535000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 474000000.0
+   }
+  ],
+  "equity_ratio": 0.2987717624612449,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1415000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 988000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 345000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -175000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:48Z"
+ },
+ "ADS.DE": {
+  "name": "adidas AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "country": "Germany",
+  "market_cap": 29400033280,
+  "pe": 19.583332,
+  "forward_pe": 14.800415,
+  "pb": 4.7932744,
+  "peg": 0.6585,
+  "eps": 8.88,
+  "revenue": 26663000064,
+  "revenue_growth": 0.094,
+  "earnings_growth": 0.581,
+  "profit_margin": 0.06091,
+  "operating_margin": 0.091809995,
+  "roe": 0.26327,
+  "debt_to_equity": 0.8985,
+  "total_debt": 5984000000,
+  "total_cash": 1651000064,
+  "free_cashflow": 1745549952,
+  "operating_cashflow": 2996999936,
+  "dividend_yield": 0.0167,
+  "payout_ratio": 0.3021,
+  "beta": 1.134,
+  "analyst_target_mean": 199.66667,
+  "analyst_target_low": 157.0,
+  "analyst_target_high": 245.0,
+  "analyst_count": 30,
+  "recommendation_mean": 1.84375,
+  "recommendation_key": "buy",
+  "website": "https://www.adidas-group.com",
+  "summary": "adidas AG, together with its subsidiaries, designs, develops, produces, and markets a range of athletic and sports lifestyle products in Europe, Greater China, Japan, South Korea, Latin America, North America, and internationally. The company offers footwear and apparel, as well as accessories and gear, including bags, balls, sunglasses, and fitness equipment under the adidas brand; golf footwear and apparel under the adidas Golf brand; and outdoor footwear under the Five Ten brand. It sells its products through its own retail stores, mono-branded franchise stores, shop-in-shops, joint venture",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 24811000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 23683000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 21427000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 22511000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1340000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 764000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -75000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 612000000.0
+   }
+  ],
+  "equity_ratio": 0.28506564011450003,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 274000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2370000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2046000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -1174000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:49Z"
+ },
+ "DHL.DE": {
+  "name": "DHL AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "country": "Germany",
+  "market_cap": 63864020992,
+  "pe": 17.186749,
+  "forward_pe": 14.457099,
+  "pb": 2.7072165,
+  "peg": 2.5278,
+  "eps": 3.32,
+  "revenue": 88115003392,
+  "revenue_growth": 0.126,
+  "earnings_growth": 0.095,
+  "profit_margin": 0.04296,
+  "operating_margin": 0.070760004,
+  "roe": 0.17865999,
+  "debt_to_equity": 1.18045,
+  "total_debt": 28056999936,
+  "total_cash": 5175000064,
+  "free_cashflow": 4691874816,
+  "operating_cashflow": 9927000064,
+  "dividend_yield": 0.0337,
+  "payout_ratio": 0.5689,
+  "beta": 1.115,
+  "analyst_target_mean": 59.02046,
+  "analyst_target_low": 45.0,
+  "analyst_target_high": 70.0,
+  "analyst_count": 19,
+  "recommendation_mean": 2.61905,
+  "recommendation_key": "hold",
+  "website": "https://group.dhl.com",
+  "summary": "DHL AG provides logistics and mail communication services in Germany and Internationally. The company operates through five segments: Express, Global Forwarding, Supply Chain, eCommerce, and Post and Parcel Germany. Its Express segment offers time-definite courier and express delivery services for business and private customers, including Time Definite International cross-border transport with standardized transit times, medical express temperature-controlled shipment solutions, general cargo air freight, door-to-door courier services, and customs clearance, operating a global air freight netw",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 82855000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 84188000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 81758000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 94436000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 3501000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 3332000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 3675000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5359000000.0
+   }
+  ],
+  "equity_ratio": 0.3129769917485708,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 6324000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 5786000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5877000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 7053000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:50Z"
+ },
+ "EOAN.DE": {
+  "name": "E.ON SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "Germany",
+  "market_cap": 49240047616,
+  "pe": 11.346385,
+  "forward_pe": 15.104612,
+  "pb": 2.1903708,
+  "peg": 0.8586,
+  "eps": 1.66,
+  "revenue": 76222996480,
+  "revenue_growth": 0.062,
+  "earnings_growth": null,
+  "profit_margin": 0.057729997,
+  "operating_margin": 0.106479995,
+  "roe": 0.19067,
+  "debt_to_equity": 1.5021,
+  "total_debt": 44088000512,
+  "total_cash": 4036000000,
+  "free_cashflow": -4284400128,
+  "operating_cashflow": 6858999808,
+  "dividend_yield": 0.030699999999999998,
+  "payout_ratio": 0.3393,
+  "beta": 0.804,
+  "analyst_target_mean": 20.88489,
+  "analyst_target_low": 18.5,
+  "analyst_target_high": 22.7,
+  "analyst_count": 18,
+  "recommendation_mean": 1.83333,
+  "recommendation_key": "buy",
+  "website": "https://www.eon.com",
+  "summary": "E.ON SE operates as an energy company in Germany, the United Kingdom, Sweden, the Netherlands, rest of Europe, and internationally. The company operates through Energy Networks, Energy Infrastructure Solutions, and Energy Retail segments. The Energy Networks segment operates power and gas distribution networks; and offers maintenance, repair, and related services for its power and gas networks. Its Energy Infrastructure Solutions provides integrated and sustainable energy solutions for cities, municipalities, and industrial and commercial customers comprising district heating and cooling; heat",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 78704000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 80119000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 93686000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 115660000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1734000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 4531000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 517000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1831000000.0
+   }
+  ],
+  "equity_ratio": 0.17400731806477843,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -937000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -1298000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -356000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5469000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:52Z"
+ },
+ "RWE.DE": {
+  "name": "RWE Aktiengesellschaft",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "country": "Germany",
+  "market_cap": 44381155328,
+  "pe": 59.89474,
+  "forward_pe": 16.589985,
+  "pb": 1.0654035,
+  "peg": 33.6556,
+  "eps": 0.95,
+  "revenue": 16876999680,
+  "revenue_growth": 0.456,
+  "earnings_growth": null,
+  "profit_margin": 0.040349998,
+  "operating_margin": -0.05979,
+  "roe": 0.02685,
+  "debt_to_equity": 0.5386299999999999,
+  "total_debt": 25092999168,
+  "total_cash": 10451000320,
+  "free_cashflow": -11799124992,
+  "operating_cashflow": 6062000128,
+  "dividend_yield": 0.021099999999999997,
+  "payout_ratio": 1.2632,
+  "beta": 0.558,
+  "analyst_target_mean": 70.42222,
+  "analyst_target_low": 60.0,
+  "analyst_target_high": 77.5,
+  "analyst_count": 18,
+  "recommendation_mean": 1.55556,
+  "recommendation_key": "buy",
+  "website": "https://www.rwe.com",
+  "summary": "RWE Aktiengesellschaft generates and supplies electricity from renewable and conventional sources in Germany, the United Kingdom, rest of Europe, North America, and internationally. It operates through five segments: Offshore Wind; Onshore Wind/Solar; Flexible Generation; Supply & Trading; and Phaseout Technologies. The company generates wind, hydro, solar, gas, lignite, and biomass electricity. It also trades in electricity, gas, and energy commodities; operates gas storage facilities; and engages in battery storage activities, as well as lignite mining and refining. The company serves commer",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 17628000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 24224000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 28521000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 38415000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 3131000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 5135000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1515000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 2717000000.0
+   }
+  ],
+  "equity_ratio": 0.3380064296037044,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -5060000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -2757000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -923000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -2078000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:53Z"
+ },
+ "MRK.DE": {
+  "name": "Merck KGaA",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "country": "Germany",
+  "market_cap": 64890601472,
+  "pe": 33.766968,
+  "forward_pe": 16.266516,
+  "pb": 2.0608096,
+  "peg": 2.3531,
+  "eps": 4.42,
+  "revenue": 21443999744,
+  "revenue_growth": 0.058,
+  "earnings_growth": -0.498,
+  "profit_margin": 0.089490004,
+  "operating_margin": 0.17035,
+  "roe": 0.06408,
+  "debt_to_equity": 0.38124,
+  "total_debt": 11992000512,
+  "total_cash": 4272000000,
+  "free_cashflow": 2230249984,
+  "operating_cashflow": 4374000128,
+  "dividend_yield": 0.0147,
+  "payout_ratio": 0.4977,
+  "beta": 0.814,
+  "analyst_target_mean": 160.0,
+  "analyst_target_low": 135.0,
+  "analyst_target_high": 180.0,
+  "analyst_count": 14,
+  "recommendation_mean": 2.21429,
+  "recommendation_key": "buy",
+  "website": "https://www.merckgroup.com",
+  "summary": "Merck KGaA operates as a science and technology company in Europe, North America, Latin America, Middle East and Africa, and the Asia Pacific. The Life Science segment offers products, solutions, and services to academic, research and diagnostic labs, biotech, and pharmaceutical companies, as well as the industrial sector; reagents, consumables, devices, instruments, software, and services for research, production, and testing to lab water instruments, microbiology and biomonitoring products, test assays, analytical reagents, and flow cytometry kits and instruments. This segment also provides ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 21102000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 21156000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 20993000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 22232000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 2608000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2777000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2824000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 3326000000.0
+   }
+  ],
+  "equity_ratio": 0.5548935509538688,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1974000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2402000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1761000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 2453000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:54Z"
+ },
+ "HEN3.DE": {
+  "name": "Henkel AG & Co. KGaA",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "Germany",
+  "market_cap": 35748335616,
+  "pe": 19.030174,
+  "forward_pe": 14.814641,
+  "pb": 1.7066431,
+  "peg": 3.4565,
+  "eps": 4.64,
+  "revenue": 20440999936,
+  "revenue_growth": -0.005,
+  "earnings_growth": -0.081,
+  "profit_margin": 0.09359,
+  "operating_margin": 0.13879,
+  "roe": 0.09395,
+  "debt_to_equity": 0.32159,
+  "total_debt": 6776000000,
+  "total_cash": 4421000192,
+  "free_cashflow": 1401874944,
+  "operating_cashflow": 2726000128,
+  "dividend_yield": 0.023799999999999998,
+  "payout_ratio": 0.4404,
+  "beta": 0.538,
+  "analyst_target_mean": 83.14222,
+  "analyst_target_low": 70.0,
+  "analyst_target_high": 105.0,
+  "analyst_count": 18,
+  "recommendation_mean": 2.78947,
+  "recommendation_key": "hold",
+  "website": "https://www.henkel.com",
+  "summary": "Henkel AG & Co. KGaA, together with its subsidiaries, engages in the adhesive technologies and consumer brands businesses in Europe, India, the Middle East, Africa, North America, Latin America, the Asia Pacific. It offers adhesives, sealants, and functional coatings for various business areas, including packaging and consumer goods; mobility and electronics; and craftsmen, construction, and professional industries. The company also provides hair styling, hair colorants, and hair care products; and body care products, as well as distributes its products through brick-and-mortar stores, hair sa",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 20495000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 21586000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 21514000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 22397000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 2035000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2007000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1318000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1259000000.0
+   }
+  ],
+  "equity_ratio": 0.6299449789444564,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1842000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2494000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2647000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 654000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:55Z"
+ },
+ "DB1.DE": {
+  "name": "Deutsche Börse AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "country": "Germany",
+  "market_cap": 56200388608,
+  "pe": 26.044592,
+  "forward_pe": 22.82383,
+  "pb": 5.1616917,
+  "peg": 2.8794,
+  "eps": 12.11,
+  "revenue": 8034999808,
+  "revenue_growth": 0.162,
+  "earnings_growth": 0.198,
+  "profit_margin": 0.27392998,
+  "operating_margin": 0.41033,
+  "roe": 0.20336,
+  "debt_to_equity": 0.72225,
+  "total_debt": 8242999808,
+  "total_cash": null,
+  "free_cashflow": null,
+  "operating_cashflow": null,
+  "dividend_yield": 0.013300000000000001,
+  "payout_ratio": 0.3468,
+  "beta": 0.272,
+  "analyst_target_mean": 320.64285,
+  "analyst_target_low": 252.0,
+  "analyst_target_high": 378.0,
+  "analyst_count": 14,
+  "recommendation_mean": 2.5,
+  "recommendation_key": "buy",
+  "website": "https://deutsche-boerse.com",
+  "summary": "Deutsche Börse AG operates as an international exchange organization in Germany, rest of Europe, the United States, and the Asia-Pacific. The company operates through four segments: Investment Management Solutions, Trading & Clearing, Fund Services, and Securities Services. The Investment Management Solutions segment offers financial data, analytics, and software-as-a-service solutions including research, data collection, data analysis, and the provision of indices, analytics and investment management software to institutional investors, banks, and corporate clients. The Trading & Clearing seg",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 7381000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7023000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 6096100000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5225300000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1995000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1948000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1724000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1494400000.0
+   }
+  ],
+  "equity_ratio": 0.03806754701234368,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 2430000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2050000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 2281200000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 2158400000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:56Z"
+ },
+ "ENR.DE": {
+  "name": "Siemens Energy AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "country": "Germany",
+  "market_cap": 100315045888,
+  "pe": 28.89706,
+  "forward_pe": 13.289568,
+  "pb": 8.857336,
+  "peg": 0.3055,
+  "eps": 4.08,
+  "revenue": 44243001344,
+  "revenue_growth": 0.23,
+  "earnings_growth": 6.738,
+  "profit_margin": 0.08550999,
+  "operating_margin": 0.11541,
+  "roe": 0.36879003,
+  "debt_to_equity": 0.25393,
+  "total_debt": 2975000064,
+  "total_cash": 11155999744,
+  "free_cashflow": 6375875072,
+  "operating_cashflow": 9957999616,
+  "dividend_yield": 0.0059,
+  "payout_ratio": 0.1602,
+  "beta": 1.865,
+  "analyst_target_mean": 191.53178,
+  "analyst_target_low": 100.0,
+  "analyst_target_high": 260.0,
+  "analyst_count": 28,
+  "recommendation_mean": 1.75,
+  "recommendation_key": "buy",
+  "website": "https://www.siemens-energy.com",
+  "summary": "Siemens Energy AG operates as an energy technology company worldwide. It operates through Gas Services, Grid Technologies, Transformation of Industry, and Siemens Gamesa segments. The company provides gas and steam turbines, generators, and heat pumps, as well as performance enhancement, maintenance, digitalization, and consulting services for central and distributed power generation; and high voltage direct current transmission systems, offshore wind farm grid connections, transformers, flexible alternating current transmission systems, high voltage substations, air and gas-insulated switchge",
+  "revenue_history": [
+   {
+    "date": "2026-09-30",
+    "value": 44243000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 39077000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 34465000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 31119000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-09-30",
+    "value": 3783000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 1414000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 1184000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": -4532000000.0
+   }
+  ],
+  "equity_ratio": 0.17075549324962666,
+  "fcf_history": [
+   {
+    "date": "2026-09-30",
+    "value": 7988000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 4097000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 1375000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 394000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:57Z"
+ },
+ "MTX.DE": {
+  "name": "MTU Aero Engines AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Germany",
+  "market_cap": 18617686016,
+  "pe": 20.034782,
+  "forward_pe": 16.655117,
+  "pb": 3.9059675,
+  "peg": 1.4856,
+  "eps": 17.25,
+  "revenue": 9523000320,
+  "revenue_growth": 0.136,
+  "earnings_growth": -0.097,
+  "profit_margin": 0.097449996,
+  "operating_margin": 0.12076,
+  "roe": 0.21056,
+  "debt_to_equity": 0.55567,
+  "total_debt": 2670000128,
+  "total_cash": 1563000064,
+  "free_cashflow": 294624992,
+  "operating_cashflow": 1196999936,
+  "dividend_yield": 0.0106,
+  "payout_ratio": 0.2087,
+  "beta": 0.846,
+  "analyst_target_mean": 408.35,
+  "analyst_target_low": 325.0,
+  "analyst_target_high": 530.0,
+  "analyst_count": 20,
+  "recommendation_mean": 2.45,
+  "recommendation_key": "buy",
+  "website": "https://www.mtu.de",
+  "summary": "MTU Aero Engines AG, together with its subsidiaries, engages in the development, manufacture, sale, and maintenance of commercial and military aircraft engines, and aero-derivative industrial gas turbines in Germany, other European countries, North America, Asia, and internationally. It operates through two segments: Original Equipment Manufacturing Business; and Maintenance, Repair, and Overhaul Business. The company offers commercial aircraft engines for wide body aircraft, narrow body, regional jets, helicopters, business jets, and turboprops; military aircraft engines for fighter jets, hel",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 8763000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7411000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5363000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5330000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1016000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 633000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -102000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 331000000.0
+   }
+  ],
+  "equity_ratio": 0.3391242826821791,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 333000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 74000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 365000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 347000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:58Z"
+ },
+ "HNR1.DE": {
+  "name": "Hannover Rück SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Financial Services",
+  "industry": "Insurance - Reinsurance",
+  "country": "Germany",
+  "market_cap": 35913826304,
+  "pe": 12.930959,
+  "forward_pe": 12.045332,
+  "pb": 2.6277938,
+  "peg": 5.421,
+  "eps": 23.03,
+  "revenue": 22792200192,
+  "revenue_growth": 0.022,
+  "earnings_growth": 0.067,
+  "profit_margin": 0.12185001,
+  "operating_margin": 0.14556,
+  "roe": 0.21363,
+  "debt_to_equity": 0.28146,
+  "total_debt": 4145999872,
+  "total_cash": 8427299840,
+  "free_cashflow": 4631374848,
+  "operating_cashflow": 6775199744,
+  "dividend_yield": 0.042,
+  "payout_ratio": 0.5428,
+  "beta": 0.09,
+  "analyst_target_mean": 286.8,
+  "analyst_target_low": 260.0,
+  "analyst_target_high": 340.0,
+  "analyst_count": 15,
+  "recommendation_mean": 2.64286,
+  "recommendation_key": "hold",
+  "website": "https://www.hannover-re.com",
+  "summary": "Hannover Rück SE, together with its subsidiaries, provides reinsurance products and services in Germany, the United Kingdom, France, Europe, the United States, Asia, Australia, Africa, and internationally. It operates through Property & Casualty Reinsurance; and Life & Health Reinsurance segments. The company provides property and casualty reinsurance solutions for agricultural, livestock, and bloodstock; aviation and space; natural catastrophe; credit, surety, and political risks; cyber; digital; marine and upstream energy; natural catastrophes; advanced and facultative business, insurance-li",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 24017800000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 23910800000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 21982600000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 22210200000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 2641500000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2328700000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1824800000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 780800000.0
+   }
+  ],
+  "equity_ratio": 0.18125929695725748,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 5686900000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 5681900000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5785500000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4947100000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:22:59Z"
+ },
+ "VNA.DE": {
+  "name": "Vonovia SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "country": "Germany",
+  "market_cap": 15004994560,
+  "pe": 9.825,
+  "forward_pe": 10.447064,
+  "pb": 0.54804915,
+  "peg": 24.627,
+  "eps": 1.8,
+  "revenue": 5956599808,
+  "revenue_growth": -0.006,
+  "earnings_growth": -0.921,
+  "profit_margin": 0.29456,
+  "operating_margin": 0.36246,
+  "roe": 0.06573,
+  "debt_to_equity": 1.3296299999999999,
+  "total_debt": 42685599744,
+  "total_cash": 1362499968,
+  "free_cashflow": 256924992,
+  "operating_cashflow": 2035800064,
+  "dividend_yield": 0.0732,
+  "payout_ratio": 0.64769995,
+  "beta": 1.493,
+  "analyst_target_mean": 22.31333,
+  "analyst_target_low": 14.0,
+  "analyst_target_high": 45.0,
+  "analyst_count": 15,
+  "recommendation_mean": 2.3125,
+  "recommendation_key": "buy",
+  "website": "https://www.vonovia.com",
+  "summary": "Vonovia SE operates as an integrated residential real estate company in Europe. The company operates through Rental, Value-Add, Recurring Sales, and Development segments. It offers property management services; property-related services; and value-added services, including maintenance and modernization of properties, craftsmen and residential environment organization, multimedia, energy supply, metering, condominium administration, and insurance services. The company is also involved in the sale of individual condominiums and single-family houses; and project development activities to build ne",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 5331400000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 5939100000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5228500000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5482900000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 3723000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -896000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -6285100000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -643800000.0
+   }
+  ],
+  "equity_ratio": 0.294531249162246,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 2448300000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2401600000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1901200000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 2084300000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:00Z"
+ },
+ "BEI.DE": {
+  "name": "Beiersdorf Aktiengesellschaft",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "Germany",
+  "market_cap": 18207399936,
+  "pe": 19.376743,
+  "forward_pe": 20.889746,
+  "pb": 2.018851,
+  "peg": 5.4168,
+  "eps": 4.3,
+  "revenue": 9616000000,
+  "revenue_growth": -0.045,
+  "earnings_growth": 0.019,
+  "profit_margin": 0.097550005,
+  "operating_margin": 0.13613,
+  "roe": 0.10887,
+  "debt_to_equity": 0.01221,
+  "total_debt": 110000000,
+  "total_cash": 2841999872,
+  "free_cashflow": 559750016,
+  "operating_cashflow": 1021000000,
+  "dividend_yield": 0.0124,
+  "payout_ratio": 0.2326,
+  "beta": 0.455,
+  "analyst_target_mean": 81.95238,
+  "analyst_target_low": 68.0,
+  "analyst_target_high": 95.0,
+  "analyst_count": 21,
+  "recommendation_mean": 2.95238,
+  "recommendation_key": "hold",
+  "website": "https://www.beiersdorf.com",
+  "summary": "Beiersdorf Aktiengesellschaft, together with its subsidiaries, manufactures and distributes consumer goods in Europe, the United States, Africa, Asia, and Australia. The company operates through two segments: Consumer Business and Tesa Business. The Consumer Business Segment offers skin and body care products. The Tesa Business segment provides adhesive tapes and self-adhesive solutions for industries, craft businesses, and consumers. This segment also offers its system solutions to the automotive, consumer electronics, printing and packaging, and electrical systems sectors. It operates an onl",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 9852000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 9850000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 9447000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 8799000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 939000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 912000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 736000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 755000000.0
+   }
+  ],
+  "equity_ratio": 0.6741652296598213,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 322000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 794000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 424000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 249000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:02Z"
+ },
+ "CON.DE": {
+  "name": "Continental Aktiengesellschaft",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "country": "Germany",
+  "market_cap": 14024420352,
+  "pe": 18.308096,
+  "forward_pe": 10.365161,
+  "pb": 3.0183806,
+  "peg": 6.3555,
+  "eps": 3.83,
+  "revenue": 18371000320,
+  "revenue_growth": -0.114,
+  "earnings_growth": null,
+  "profit_margin": 0.04572,
+  "operating_margin": 0.13968,
+  "roe": 0.18716,
+  "debt_to_equity": 1.41733,
+  "total_debt": 6806000128,
+  "total_cash": 818000000,
+  "free_cashflow": -223875008,
+  "operating_cashflow": 1778000000,
+  "dividend_yield": 0.0393,
+  "payout_ratio": 0.649,
+  "beta": 1.279,
+  "analyst_target_mean": 80.58333,
+  "analyst_target_low": 74.0,
+  "analyst_target_high": 90.0,
+  "analyst_count": 12,
+  "recommendation_mean": 1.69231,
+  "recommendation_key": "buy",
+  "website": "https://www.continental.com",
+  "summary": "Continental Aktiengesellschaft manufactures tire and develops and produces solutions for automotive manufacturers, industrial, and end customers worldwide. It provides tires for cars, trucks, buses, two-wheel, and specialist vehicles, as well as digital tire monitoring and management systems; and engages in the retail of tires. The company also develops solutions for industrial applications made from rubber, metal, and textiles; hoses, conveyor belts, air springs, and drive belts; and surface materials for energy, mining, agriculture, construction, as well as interior and exterior design, and ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 19676000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 20077000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 41421000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 39408900000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": -165000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1168000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1156000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 66600000.0
+   }
+  ],
+  "equity_ratio": 0.22111061151079137,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1118000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1878000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1186000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 126400000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:03Z"
+ },
+ "FRE.DE": {
+  "name": "Fresenius SE & Co. KGaA",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "country": "Germany",
+  "market_cap": 29812148224,
+  "pe": 18.637325,
+  "forward_pe": 13.537396,
+  "pb": 1.4536018,
+  "peg": 0.9107,
+  "eps": 2.84,
+  "revenue": 23608999936,
+  "revenue_growth": 0.059,
+  "earnings_growth": 0.065,
+  "profit_margin": 0.06561,
+  "operating_margin": 0.099259995,
+  "roe": 0.082650006,
+  "debt_to_equity": 0.57044,
+  "total_debt": 11840000000,
+  "total_cash": 1715000064,
+  "free_cashflow": 352750016,
+  "operating_cashflow": 2710000128,
+  "dividend_yield": 0.02,
+  "payout_ratio": 0.3723,
+  "beta": 0.771,
+  "analyst_target_mean": 58.83571,
+  "analyst_target_low": 52.0,
+  "analyst_target_high": 65.0,
+  "analyst_count": 14,
+  "recommendation_mean": 1.57143,
+  "recommendation_key": "buy",
+  "website": "https://www.fresenius.com",
+  "summary": "Fresenius SE & Co. KGaA, a health care company, provides products and services for chronically ill patients in North America, Europe, the Asia-Pacific, Latin America, and Africa. It operates through Fresenius Kabi and Fresenius Helios segments. The Fresenius Kabi segment offers products for therapy and care of critically and chronically ill patients, including biopharmaceuticals, clinical nutrition, MedTech products, intravenously administered generic drugs, and IV fluids. It also provides biosimilar drugs; enteral and parenteral nutrition products; and medical technologies that include dispos",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 22873000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 21954000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 21067000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 21532000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1264000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 471000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -594000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1372000000.0
+   }
+  ],
+  "equity_ratio": 0.4615050126826912,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1077000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1387000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 3170000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 3005000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:04Z"
+ },
+ "SY1.DE": {
+  "name": "Symrise AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "country": "Germany",
+  "market_cap": 13418964992,
+  "pe": 55.265537,
+  "forward_pe": 21.960407,
+  "pb": 3.593945,
+  "peg": 2.9533,
+  "eps": 1.77,
+  "revenue": 4914876928,
+  "revenue_growth": -0.006,
+  "earnings_growth": -0.004,
+  "profit_margin": 0.05007,
+  "operating_margin": 0.12606,
+  "roe": 0.06708,
+  "debt_to_equity": 0.60613,
+  "total_debt": 2276738048,
+  "total_cash": 451076992,
+  "free_cashflow": 227486128,
+  "operating_cashflow": 887958976,
+  "dividend_yield": 0.0131,
+  "payout_ratio": 0.7062,
+  "beta": 0.592,
+  "analyst_target_mean": 104.83333,
+  "analyst_target_low": 93.5,
+  "analyst_target_high": 119.0,
+  "analyst_count": 15,
+  "recommendation_mean": 2.0,
+  "recommendation_key": "buy",
+  "website": "https://www.symrise.com",
+  "summary": "Symrise AG operates as a supplier of fragrances, flavorings, cosmetic base materials and active ingredients, and functional ingredients and solutions in Europe, Africa, the Middle East, North America, the Asia Pacific, and Latin America. It operates in two segments, Taste, Nutrition & Health; and Scent & Care. The Taste, Nutrition & Health segment provides functional ingredients and product solutions used in the production of food and beverages; savory flavors; sweets, chocolate, chewing gum, baked goods, cereals, ice cream, milk, yogurt and milk alternatives; natural and sustainable ingredien",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 4929283000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 4998513000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 4730187000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4618476000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 249333000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 478224000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 340473000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 280007000.0
+   }
+  ],
+  "equity_ratio": 0.47061255717344097,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 560928000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 652067000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 449305000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 109940000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:05Z"
+ },
+ "ZAL.DE": {
+  "name": "Zalando SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "Germany",
+  "market_cap": 7209466368,
+  "pe": 128.34782,
+  "forward_pe": 15.196285,
+  "pb": 2.9561386,
+  "peg": 0.4843,
+  "eps": 0.23,
+  "revenue": 13666199552,
+  "revenue_growth": 0.051,
+  "earnings_growth": null,
+  "profit_margin": 0.00453,
+  "operating_margin": 0.0319,
+  "roe": 0.022739999,
+  "debt_to_equity": 0.52241,
+  "total_debt": 1341500032,
+  "total_cash": 1294800000,
+  "free_cashflow": 834362496,
+  "operating_cashflow": 859500032,
+  "dividend_yield": 0.0,
+  "payout_ratio": 0.0,
+  "beta": 1.556,
+  "analyst_target_mean": 35.47826,
+  "analyst_target_low": 25.0,
+  "analyst_target_high": 53.0,
+  "analyst_count": 23,
+  "recommendation_mean": 1.70833,
+  "recommendation_key": "buy",
+  "website": "https://corporate.zalando.com",
+  "summary": "Zalando SE operates an online platform for fashion and lifestyle products in Germany and internationally. The company operates through Business-to-Business and Business-to-Consumer segments. It engages in the development, sourcing, marketing, retail, and commission sale of various type of goods, including shoes, apparel, accessories, and beauty products with free delivery and returns, as well as various payment options. The company sells its products through Lounge by Zalando and its outlets. Zalando SE was founded in 2008 and is headquartered in Berlin, Germany.",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 12346200000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 10572500000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 10143100000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 10344800000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 215100000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 251100000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 83000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 16800000.0
+   }
+  ],
+  "equity_ratio": 0.30523780204586454,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 903800000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 447300000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 686300000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 108300000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:06Z"
+ },
+ "HEI.DE": {
+  "name": "Heidelberg Materials AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "country": "Germany",
+  "market_cap": 32892536832,
+  "pe": 16.340612,
+  "forward_pe": 12.851732,
+  "pb": 1.7651943,
+  "peg": 1.6993,
+  "eps": 11.45,
+  "revenue": 21734100992,
+  "revenue_growth": 0.017,
+  "earnings_growth": 0.088,
+  "profit_margin": 0.091680005,
+  "operating_margin": 0.14088,
+  "roe": 0.11698,
+  "debt_to_equity": 0.50409,
+  "total_debt": 9983099904,
+  "total_cash": 2192199936,
+  "free_cashflow": 1235725056,
+  "operating_cashflow": 3175300096,
+  "dividend_yield": 0.020499999999999997,
+  "payout_ratio": 0.31440002,
+  "beta": 0.884,
+  "analyst_target_mean": 207.33333,
+  "analyst_target_low": 140.0,
+  "analyst_target_high": 282.0,
+  "analyst_count": 18,
+  "recommendation_mean": 1.77778,
+  "recommendation_key": "buy",
+  "website": "https://www.heidelbergmaterials.de",
+  "summary": "Heidelberg Materials AG, together with its subsidiaries, produces and distributes cement, aggregates, ready-mixed concrete, and asphalt worldwide. The company provides cement products; natural stone aggregates, including sand and gravel; crushed aggregates comprising stone chippings and crushed stones; and ready-mixed concrete for use in the construction of tunnels or bridges, office buildings, or schools, as well as to produce precast concrete parts, such as stairs, ceiling elements, or structural components. It also offers asphalt; and trades in cement, clinker, secondary cementitious materi",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 21460200000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 21156400000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 21177600000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 21095100000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1940900000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1781800000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1928900000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1596600000.0
+   }
+  ],
+  "equity_ratio": 0.5026315061291126,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1840200000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1821600000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1875400000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1085000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:07Z"
+ },
+ "PUM.DE": {
+  "name": "PUMA SE",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "country": "Germany",
+  "market_cap": 3499155968,
+  "pe": null,
+  "forward_pe": 93.94143,
+  "pb": 1.9660877,
+  "peg": 0.8155,
+  "eps": -2.97,
+  "revenue": 6895600128,
+  "revenue_growth": -0.05,
+  "earnings_growth": null,
+  "profit_margin": -0.06349,
+  "operating_margin": -0.030450001,
+  "roe": -0.22702,
+  "debt_to_equity": 1.4670500000000002,
+  "total_debt": 2611500032,
+  "total_cash": 352900000,
+  "free_cashflow": null,
+  "operating_cashflow": null,
+  "dividend_yield": 0.0,
+  "payout_ratio": 0.6357,
+  "beta": 1.024,
+  "analyst_target_mean": 28.75278,
+  "analyst_target_low": 22.0,
+  "analyst_target_high": 40.5,
+  "analyst_count": 18,
+  "recommendation_mean": 2.4,
+  "recommendation_key": "buy",
+  "website": "https://www.about.puma.com",
+  "summary": "PUMA SE, together with its subsidiaries, engages in the development and sale of sports and sports lifestyle products in Europe, Middle East, Africa, India, North America, Latin America, Greater China, Rest of Asia-Pacific, and internationally. It offers sports lifestyle products for football, handball, rugby, cricket, volleyball, track and field, motor sports, golf, and basketball. The company also issues licenses to independent partners to design, develop, manufacture, and sell glasses, safety shoes, workwear, and gaming accessories. It sells its products under the PUMA and Cobra Golf brands ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 7296200000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 8398000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 8601700000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 8465100000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": -645500000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 281600000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 304900000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 353500000.0
+   }
+  ],
+  "equity_ratio": 0.2728131874941902,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -525600000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 431800000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 353200000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 154700000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:08Z"
+ },
+ "LHA.DE": {
+  "name": "Deutsche Lufthansa AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Airlines",
+  "country": "Germany",
+  "market_cap": 10520314880,
+  "pe": 10.94,
+  "forward_pe": 7.000816,
+  "pb": 0.7473315,
+  "peg": 0.794,
+  "eps": 0.8,
+  "revenue": 42140999680,
+  "revenue_growth": 0.093,
+  "earnings_growth": 0.296,
+  "profit_margin": 0.0228,
+  "operating_margin": 0.028900001,
+  "roe": 0.0769,
+  "debt_to_equity": 1.06468,
+  "total_debt": 15061999616,
+  "total_cash": 9168000000,
+  "free_cashflow": -4887000064,
+  "operating_cashflow": 3505999872,
+  "dividend_yield": 0.0377,
+  "payout_ratio": 0.4104,
+  "beta": 1.193,
+  "analyst_target_mean": 9.37368,
+  "analyst_target_low": 6.0,
+  "analyst_target_high": 21.0,
+  "analyst_count": 19,
+  "recommendation_mean": 2.78947,
+  "recommendation_key": "hold",
+  "website": "https://www.lufthansagroup.com",
+  "summary": "Deutsche Lufthansa AG operates as an aviation company in Europe, North America, Central and South America, Aisa/Pacific, the Middle East, and Africa. It operates in three segments: Passenger Airlines; Logistics; and Maintenance, Repair and Overhaul (MRO). The Passenger Airlines segment offers products and services to passengers of Lufthansa Airlines, SWISS, Austrian Airlines, Brussels Airlines, and Eurowings. The Logistics segment provides airfreight container management, time-critical shipments, and customs clearance services; and digital and modular logistics solutions for cross-border e-com",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 39597000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 37581000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 35442000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 30895000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 1339000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1380000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1673000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 791000000.0
+   }
+  ],
+  "equity_ratio": 0.24071165847005827,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -438000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -6000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 895000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 2660000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:10Z"
+ },
+ "HAG.DE": {
+  "name": "Hensoldt AG",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "country": "Germany",
+  "market_cap": 9236535296,
+  "pe": 57.532375,
+  "forward_pe": 31.325773,
+  "pb": 7.993803,
+  "peg": 0.964,
+  "eps": 1.39,
+  "revenue": 2782000128,
+  "revenue_growth": 0.176,
+  "earnings_growth": 3.721,
+  "profit_margin": 0.05787,
+  "operating_margin": 0.107480004,
+  "roe": 0.1658,
+  "debt_to_equity": 1.57559,
+  "total_debt": 1678000000,
+  "total_cash": 593000000,
+  "free_cashflow": 265624992,
+  "operating_cashflow": 586000000,
+  "dividend_yield": 0.0070999999999999995,
+  "payout_ratio": 0.3957,
+  "beta": 0.435,
+  "analyst_target_mean": 93.5,
+  "analyst_target_low": 70.0,
+  "analyst_target_high": 105.0,
+  "analyst_count": 16,
+  "recommendation_mean": 2.0,
+  "recommendation_key": "buy",
+  "website": "https://www.hensoldt.net",
+  "summary": "Hensoldt AG, together with its subsidiaries, provides sensor solutions for defense and security applications worldwide. It operates through Sensors and Optronics segments. It offers mobile and stationary radar, and identification friend or foe systems used for surveillance, reconnaissance, civil air traffic control, and air defense; systems for secure data connections for air, sea and land platforms; electronic systems for the acquisition and evaluation of radar and radio signals and jammers; defensive cyber solutions; and situational awareness systems, mission computers, and flight data recor",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 2454000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2241000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1846000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1708000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 89000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 108000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 56000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 78000000.0
+   }
+  ],
+  "equity_ratio": 0.1826054910632025,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 244000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 112000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 152000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 149000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:11Z"
+ },
+ "ASML.AS": {
+  "name": "ASML Holding N.V.",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Technology",
+  "industry": "Semiconductor Equipment & Materials",
+  "country": "Netherlands",
+  "market_cap": 454792904704,
+  "pe": 36.737236,
+  "forward_pe": 20.909313,
+  "pb": 20.488602,
+  "peg": 0.6841,
+  "eps": 32.12,
+  "revenue": 39473500160,
+  "revenue_growth": 0.552,
+  "earnings_growth": 1.359,
+  "profit_margin": 0.34135,
+  "operating_margin": 0.38551998,
+  "roe": 0.65636003,
+  "debt_to_equity": 0.08897000000000001,
+  "total_debt": 1963000064,
+  "total_cash": 12735099904,
+  "free_cashflow": 10374124544,
+  "operating_cashflow": 22725300224,
+  "dividend_yield": 0.0063,
+  "payout_ratio": 0.2225,
+  "beta": 1.333,
+  "analyst_target_mean": 2095.9395,
+  "analyst_target_low": 1288.0,
+  "analyst_target_high": 2507.0,
+  "analyst_count": 33,
+  "recommendation_mean": 1.36585,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.asml.com",
+  "summary": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wa",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 32667300000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 28262900000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 27558500000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 21173400000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 9609400000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7571600000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 7839000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5624200000.0
+   }
+  ],
+  "equity_ratio": 0.38784889630704855,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 11027300000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 9083100000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 3247200000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 7167500000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:12Z"
+ },
+ "MC.PA": {
+  "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+  "currency": "EUR",
+  "financial_currency": "EUR",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "country": "France",
+  "market_cap": 197650366464,
+  "pe": 18.130064,
+  "forward_pe": 16.852314,
+  "pb": 2.9171739,
+  "peg": 1.8988,
+  "eps": 22.22,
+  "revenue": 79641001984,
+  "revenue_growth": -0.029,
+  "earnings_growth": 0.008,
+  "profit_margin": 0.13658,
+  "operating_margin": 0.21823,
+  "roe": 0.16586,
+  "debt_to_equity": 0.53306,
+  "total_debt": 37150998528,
+  "total_cash": 12213999616,
+  "free_cashflow": 11537125376,
+  "operating_cashflow": 18639998976,
+  "dividend_yield": 0.0329,
+  "payout_ratio": 0.5925,
+  "beta": 0.896,
+  "analyst_target_mean": 490.6148,
+  "analyst_target_low": 415.0,
+  "analyst_target_high": 590.0,
+  "analyst_count": 27,
+  "recommendation_mean": 2.0,
+  "recommendation_key": "buy",
+  "website": "https://www.lvmh.com",
+  "summary": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne, together with its subsidiaries, operates as a luxury goods company worldwide. It offers wine and spirit products under the Ao Yun, Ardbeg, Armand de Brignac, Belvedere, Bodega Numanthia, Chandon, Cheval des Andes, Château Cheval Blanc, Château Galoupet, Château d'Yquem, Château d'Esclans, Cloudy Bay, Colgin Cellars, Dom Pérignon, Domaine des Lambrays, Eminente, Glenmorangie, Hennessy, Joseph Phelps, Krug, Mercier, Minuty, Moët & Chandon, Newton Vineyard, Ruinart, SirDavis, Terrazas de los Andes, Veuve Clicquot, Volcan de mi Tierra, and Wo",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 80807000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 84682000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 86153000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 79183000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 10878000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 12550000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 15174000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 14084000000.0
+   }
+  ],
+  "equity_ratio": 0.4750311538542774,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 14205000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 13373000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 10596000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 12753000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:13Z"
+ },
+ "TTE.PA": {
+  "name": "TotalEnergies SE",
+  "currency": "EUR",
+  "financial_currency": "USD",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "France",
+  "market_cap": 172003885056,
+  "pe": 8.862303,
+  "forward_pe": 7.4881186,
+  "pb": 1.4668818,
+  "peg": 0.6425,
+  "eps": 8.86,
+  "revenue": 214396993536,
+  "revenue_growth": 0.411,
+  "earnings_growth": 1.232,
+  "profit_margin": 0.10456,
+  "operating_margin": 0.16996,
+  "roe": 0.17828,
+  "debt_to_equity": 0.46122,
+  "total_debt": 63170998272,
+  "total_cash": 37802999808,
+  "free_cashflow": 13983625216,
+  "operating_cashflow": 40079998976,
+  "dividend_yield": 0.0463,
+  "payout_ratio": 0.4,
+  "beta": 0.04,
+  "analyst_target_mean": 92.06678,
+  "analyst_target_low": 83.84033,
+  "analyst_target_high": 101.71975,
+  "analyst_count": 22,
+  "recommendation_mean": 1.81818,
+  "recommendation_key": "buy",
+  "website": "https://totalenergies.com",
+  "summary": "TotalEnergies SE, an integrated energy company, produces and markets oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables, and electricity in France, the United States, Europe, Africa, and internationally. It operates through Exploration & Production, Integrated LNG, Integrated Power, Refining & Chemicals, and Marketing & Services segments. The Exploration & Production segment engages in the activities of exploration and production of oil and natural gas, as well as carbon storage. The Integrated LNG segment is involved in the upstream and midstream LNG activities, as well",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 182344000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 195610000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 218945000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 263310000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 13127000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 15758000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 21384000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 20526000000.0
+   }
+  ],
+  "equity_ratio": 0.3947123395921733,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 10390000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 15945000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 22957000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 31677000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:14Z"
+ },
+ "NOVO-B.CO": {
+  "name": "Novo Nordisk A/S",
+  "currency": "DKK",
+  "financial_currency": "DKK",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Denmark",
+  "market_cap": 1221631410176,
+  "pe": 10.876815,
+  "forward_pe": 12.271006,
+  "pb": 5.612689,
+  "peg": 4.0618,
+  "eps": 25.49,
+  "revenue": 333650001920,
+  "revenue_growth": 0.056,
+  "earnings_growth": -0.158,
+  "profit_margin": 0.33921,
+  "operating_margin": 0.50778997,
+  "roe": 0.58384,
+  "debt_to_equity": 0.61744,
+  "total_debt": 134480003072,
+  "total_cash": 46351998976,
+  "free_cashflow": 32748875776,
+  "operating_cashflow": 127325003776,
+  "dividend_yield": 0.042699999999999995,
+  "payout_ratio": 0.45900002,
+  "beta": 0.368,
+  "analyst_target_mean": 299.9075,
+  "analyst_target_low": 221.0,
+  "analyst_target_high": 448.0,
+  "analyst_count": 24,
+  "recommendation_mean": 3.03846,
+  "recommendation_key": "hold",
+  "website": "https://www.novonordisk.com",
+  "summary": "Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products. It operates through two segments, Obesity and Diabetes Care, and Rare Disease. The Obesity and Diabetes care segment provides products for diabetes, obesity, cardiovascular, and other emerging therapy areas. The Rare Disease segment offers products in the areas of rare blood disorders, rare endocrine disorders, and hormone replacement therapy. The company also provides NovoPen 6 and NovoPen Echo Plus, smart insulin pens; Dose Check, an insulin dos",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 309064000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 290403000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 232261000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 176954000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 102434000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 100988000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 83683000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 55525000000.0
+   }
+  ],
+  "equity_ratio": 0.35742546536944053,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 28989000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 69659000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 70012000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 64134000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:15Z"
+ },
+ "NESN.SW": {
+  "name": "Nestlé S.A.",
+  "currency": "CHF",
+  "financial_currency": "CHF",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "country": "Switzerland",
+  "market_cap": 225789460480,
+  "pe": 30.373701,
+  "forward_pe": 18.380396,
+  "pb": 7.727113,
+  "peg": 2.121,
+  "eps": 2.89,
+  "revenue": 88775000064,
+  "revenue_growth": -0.025,
+  "earnings_growth": -0.315,
+  "profit_margin": 0.083809994,
+  "operating_margin": 0.15484,
+  "roe": 0.26244,
+  "debt_to_equity": 2.1300499999999998,
+  "total_debt": 62845001728,
+  "total_cash": 6134000128,
+  "free_cashflow": 4374249984,
+  "operating_cashflow": 16373000192,
+  "dividend_yield": 0.0356,
+  "payout_ratio": 1.0727,
+  "beta": 0.477,
+  "analyst_target_mean": 89.21364,
+  "analyst_target_low": 72.0,
+  "analyst_target_high": 100.0,
+  "analyst_count": 22,
+  "recommendation_mean": 2.18182,
+  "recommendation_key": "buy",
+  "website": "https://www.nestle.com",
+  "summary": "Nestlé S.A., together with its subsidiaries, manufactures and distributes food and beverage, and nutritional science products in the United States, Brazil, Mexico, Greater China, the Philippines, India, the United Kingdom, France, Germany, Switzerland, and internationally. The company offers cereals, chocolate and confectionery, coffee, culinary, chilled and frozen food, dairy, drinks, food service, ice cream, nutrition and health, petcare, water, plant-based portfolio, and recipe products. It sells its products under the Nesquik Cereal, Fitness, Cheerios, Lion Cereals, Cini Minis, KitKat Cere",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 89885000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 91720000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 93351000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 94780000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 9033000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 10884000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 11209000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 9270000000.0
+   }
+  ],
+  "equity_ratio": 0.2580396536401601,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 10993000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 10712000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 9738000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 6546000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:16Z"
+ },
+ "NOVN.SW": {
+  "name": "Novartis AG",
+  "currency": "CHF",
+  "financial_currency": "USD",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "Switzerland",
+  "market_cap": 243028066304,
+  "pe": 30.858511,
+  "forward_pe": 15.562434,
+  "pb": 7.9195123,
+  "peg": 3.6024,
+  "eps": 4.17,
+  "revenue": 57364000768,
+  "revenue_growth": 0.047,
+  "earnings_growth": -0.688,
+  "profit_margin": 0.17487,
+  "operating_margin": 0.33983,
+  "roe": 0.24328,
+  "debt_to_equity": 1.28607,
+  "total_debt": 48310001664,
+  "total_cash": 8871999488,
+  "free_cashflow": 11266124800,
+  "operating_cashflow": 17325000704,
+  "dividend_yield": 0.028900000000000002,
+  "payout_ratio": 0.8707,
+  "beta": 0.453,
+  "analyst_target_mean": 127.858,
+  "analyst_target_low": 101.805756,
+  "analyst_target_high": 153.4989,
+  "analyst_count": 22,
+  "recommendation_mean": 2.78261,
+  "recommendation_key": "hold",
+  "website": "https://www.novartis.com",
+  "summary": "Novartis AG researches, develops, manufactures, distributes, markets, and sells pharmaceutical medicines in Switzerland and internationally. The company offers Entresto, an angiotensin receptorneprilysin inhibitor to treat symptomatic chronic heart failure; Cosentyx to treat plaque psoriasis, pso riatic arthritis, ankylosing spondylitis, and nonradiographic axial spondy loarthritis; Kisqali, a selective oral cyclin dependent inhibitor of kinases 4 and 6; Promacta/Revolade for immune thrombocytopenia (ITP), thrombocytopenia, and aplastic anemia patients; Tafinlar+Mekinist, an oral combination t",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 56674000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 51722000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 46660000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 43461000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 13984000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 11941000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 14850000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 6955000000.0
+   }
+  ],
+  "equity_ratio": 0.41577661808578714,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 15244000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 13805000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 11705000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 11997000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:17Z"
+ },
+ "AZN.L": {
+  "name": "AstraZeneca PLC",
+  "currency": "GBp",
+  "financial_currency": "USD",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United Kingdom",
+  "market_cap": 218090127360,
+  "pe": 26.683111,
+  "forward_pe": 16.56065,
+  "pb": 5.6474843,
+  "peg": 1.2673,
+  "eps": 5.27,
+  "revenue": 62384001024,
+  "revenue_growth": 0.067,
+  "earnings_growth": 0.235,
+  "profit_margin": 0.17681,
+  "operating_margin": 0.25803,
+  "roe": 0.22568001,
+  "debt_to_equity": 0.66247,
+  "total_debt": 34325000192,
+  "total_cash": 8166000128,
+  "free_cashflow": 5628000256,
+  "operating_cashflow": 13232000000,
+  "dividend_yield": 0.0172,
+  "payout_ratio": 0.45380002,
+  "beta": 0.155,
+  "analyst_target_mean": 16344.056,
+  "analyst_target_low": 12231.42,
+  "analyst_target_high": 20977.768,
+  "analyst_count": 22,
+  "recommendation_mean": 1.625,
+  "recommendation_key": "buy",
+  "website": "https://www.astrazeneca.com",
+  "summary": "AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi, Lynparza, Calquence, Enhertu, Orpathys, Truqap, Zoladex, Faslodex, Crestor, Andexxa, Onglyza, Symlin, XIGDUO XR, Atacand, Atacand HCT, Atacand Plus, Farxiga/Forxiga, Plendil, Modip, Splendil, Munobal, Flodil, Tenormin, Tenormine, Prenormine, Atenol, Zestril, Brilinta/Brilique, Komboglyze, Qtern, Wainua, Byetta, Lokelma, Seloken ZOK, Toprol-XL, Betaloc ZOK, XIGDUO, Accolate, Accoleit, Va",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 58739000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 54073000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 45811000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 44351000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 10225000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7035000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5955000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 3288000000.0
+   }
+  ],
+  "equity_ratio": 0.42662657573154267,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 8670000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7275000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 6567000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 7237000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:18Z"
+ },
+ "SHEL.L": {
+  "name": "Shell plc",
+  "currency": "GBp",
+  "financial_currency": "USD",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "United Kingdom",
+  "market_cap": 204160958464,
+  "pe": 8.423256,
+  "forward_pe": 8.18312,
+  "pb": 1.4007562,
+  "peg": 1.298,
+  "eps": 4.3,
+  "revenue": 321294991360,
+  "revenue_growth": 0.362,
+  "earnings_growth": 1.367,
+  "profit_margin": 0.1018,
+  "operating_margin": 0.1525,
+  "roe": 0.17432,
+  "debt_to_equity": 0.38130000000000003,
+  "total_debt": 76074999808,
+  "total_cash": 36424998912,
+  "free_cashflow": 29048250368,
+  "operating_cashflow": 57976000512,
+  "dividend_yield": 0.0335,
+  "payout_ratio": 0.2627,
+  "beta": -0.248,
+  "analyst_target_mean": 4241.2993,
+  "analyst_target_low": 3777.7065,
+  "analyst_target_high": 5048.636,
+  "analyst_count": 16,
+  "recommendation_mean": 2.21053,
+  "recommendation_key": "buy",
+  "website": "https://www.shell.com",
+  "summary": "Shell plc operates as an energy and petrochemical company in Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas. It operates through the following segments: Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions. The company explores for and extracts natural gas to produce liquefied natural gas or convert it into gas-to-liquids (GTL) fuels and other products; explores for and extracts crude oil, natural gas, and natural gas liquids; and operates marketing and transportation of oil, gas, and liquids, supported by the infra",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 266886000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 284312000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 316620000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 381314000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 17837000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 16094000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 19359000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 42309000000.0
+   }
+  ],
+  "equity_ratio": 0.470884298636425,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 23916000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 35086000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 31198000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 45814000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:19Z"
+ },
+ "HSBA.L": {
+  "name": "HSBC Holdings plc",
+  "currency": "GBp",
+  "financial_currency": "USD",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United Kingdom",
+  "market_cap": 213395308544,
+  "pe": 10.957894,
+  "forward_pe": 8.953692,
+  "pb": 1.6504276,
+  "peg": 0.7195,
+  "eps": 1.14,
+  "revenue": 67440001024,
+  "revenue_growth": 0.06,
+  "earnings_growth": 0.464,
+  "profit_margin": 0.41155,
+  "operating_margin": 0.49039,
+  "roe": 0.14219,
+  "debt_to_equity": null,
+  "total_debt": 851906002944,
+  "total_cash": 1188199006208,
+  "free_cashflow": null,
+  "operating_cashflow": null,
+  "dividend_yield": 0.025099999999999997,
+  "payout_ratio": 0.5334,
+  "beta": 0.566,
+  "analyst_target_mean": 1509.8944,
+  "analyst_target_low": 814.0358,
+  "analyst_target_high": 1897.8452,
+  "analyst_count": 17,
+  "recommendation_mean": 2.47059,
+  "recommendation_key": "buy",
+  "website": "https://www.hsbc.com",
+  "summary": "HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through four segments: Hong Kong, UK, Corporate and Institutional Banking, and International Wealth and Premier Banking. The Hong Kong segment is involved in the retail banking and wealth and commercial banking of HSBC Hong Kong and Hang Seng Bank. The UK segment engages in UK retail banking and wealth, as well as first direct and M&S Bank, UK Commercial Banking, and HSBC Innovation Bank. The Corporate and Institutional Banking segment is involved in transaction banking and capital ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 71020000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 67396000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 64528000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 53719000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 22285000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 23979000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 23533000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 15559000000.0
+   }
+  ],
+  "equity_ratio": 0.061312377166463455,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 25105000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 61419000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 35416000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 14946000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:20Z"
+ },
+ "ULVR.L": {
+  "name": "Unilever PLC",
+  "currency": "GBp",
+  "financial_currency": "EUR",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United Kingdom",
+  "market_cap": 109132644352,
+  "pe": 13.734417,
+  "forward_pe": 17.287682,
+  "pb": 8.034071,
+  "peg": 6.8355,
+  "eps": 3.69,
+  "revenue": 50619998208,
+  "revenue_growth": 0.005,
+  "earnings_growth": -0.056,
+  "profit_margin": 0.18319,
+  "operating_margin": 0.20030001,
+  "roe": 0.31869,
+  "debt_to_equity": 1.7539699999999998,
+  "total_debt": 32110000128,
+  "total_cash": 5943000064,
+  "free_cashflow": 6732624896,
+  "operating_cashflow": 8636999680,
+  "dividend_yield": 0.0308,
+  "payout_ratio": 0.4617,
+  "beta": 0.463,
+  "analyst_target_mean": 5344.9395,
+  "analyst_target_low": 4012.466,
+  "analyst_target_high": 6301.536,
+  "analyst_count": 15,
+  "recommendation_mean": 2.4,
+  "recommendation_key": "buy",
+  "website": "https://www.unilever.com",
+  "summary": "Unilever PLC operates as a fast-moving consumer goods company in the Asia Pacific, Africa, the Americas, and Europe. It operates through four segments: Beauty & Wellbeing, Personal Care, Home Care, and Foods. The Beauty & Wellbeing segment offers hair care, such as shampoo, conditioner, and styling; face, hand, and body moisturizer skin care products; and Prestige Beauty and Wellbeing products. The Personal Care segment provides soap and shower skin cleansing products; and deodorant and oral care, including toothpaste, toothbrush, and mouthwash products. The Home Care segment offers washing po",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 50503000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 52479000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 51680000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 60073000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 9469000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 5744000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 6487000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 7642000000.0
+   }
+  ],
+  "equity_ratio": 0.22037433838032666,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 6759000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7905000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 7991000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5573000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:22Z"
+ },
+ "AAPL": {
+  "name": "Apple Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "country": "United States",
+  "market_cap": 5167353167872,
+  "pe": 39.59688,
+  "forward_pe": 33.631805,
+  "pb": 46.101387,
+  "peg": 2.8397,
+  "eps": 8.98,
+  "revenue": 478833999872,
+  "revenue_growth": 0.117,
+  "earnings_growth": 0.141,
+  "profit_margin": 0.27604,
+  "operating_margin": 0.33009997,
+  "roe": 1.42257,
+  "debt_to_equity": 0.84286,
+  "total_debt": 94478999552,
+  "total_cash": 56722001920,
+  "free_cashflow": 105658376192,
+  "operating_cashflow": 145096998912,
+  "dividend_yield": 0.3,
+  "payout_ratio": 0.118,
+  "beta": 1.089,
+  "analyst_target_mean": 345.6313,
+  "analyst_target_low": 250.0,
+  "analyst_target_high": 425.0,
+  "analyst_count": 39,
+  "recommendation_mean": 2.17778,
+  "recommendation_key": "buy",
+  "website": "https://www.apple.com",
+  "summary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories, including Apple Watch, AirPods, Beats products, Apple Vision Pro, Apple TV 4K, HomePod, and Apple HomeView, as well as Apple branded and third-party accessories. It also provides advertising services comprising third-party licensing arrangements and own advertising platforms; AppleCare and cloud services; and payment ser",
+  "revenue_history": [
+   {
+    "date": "2026-09-30",
+    "value": 478834000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 416161000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 391035000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 383285000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-09-30",
+    "value": 132175000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 112010000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 93736000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 96995000000.0
+   }
+  ],
+  "equity_ratio": 0.2770820767869326,
+  "fcf_history": [
+   {
+    "date": "2026-09-30",
+    "value": 136056000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 98767000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 108807000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 99584000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:23Z"
+ },
+ "MSFT": {
+  "name": "Microsoft Corporation",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "market_cap": 3638315450368,
+  "pe": 25.57046,
+  "forward_pe": 20.241896,
+  "pb": 7.733579,
+  "peg": 1.4334,
+  "eps": 19.16,
+  "revenue": 346444988416,
+  "revenue_growth": 0.188,
+  "earnings_growth": 0.323,
+  "profit_margin": 0.41169998,
+  "operating_margin": 0.47104,
+  "roe": 0.34221,
+  "debt_to_equity": 0.28465,
+  "total_debt": 133930999808,
+  "total_cash": 64509001728,
+  "free_cashflow": 2994125056,
+  "operating_cashflow": 195877994496,
+  "dividend_yield": 0.008,
+  "payout_ratio": 0.19,
+  "beta": 1.045,
+  "analyst_target_mean": 637.3617,
+  "analyst_target_low": 440.0,
+  "analyst_target_high": 870.0,
+  "analyst_count": 54,
+  "recommendation_mean": 1.34483,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.microsoft.com",
+  "summary": "Microsoft Corporation, a technology company, develops and supports a portfolio of technology solutions for individuals and businesses worldwide. Its products include operating systems, server applications, business solution applications, software development tools, desktop and server management tools, and video games; and devices, such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories. The company's Productivity and Business Processes segment offers Microsoft 365 Commercial, Enterprise Mobility + Security, Power BI, Exchange, SharePoint, Mic",
+  "revenue_history": [
+   {
+    "date": "2026-06-30",
+    "value": 331839000000.0
+   },
+   {
+    "date": "2025-06-30",
+    "value": 281724000000.0
+   },
+   {
+    "date": "2024-06-30",
+    "value": 245122000000.0
+   },
+   {
+    "date": "2023-06-30",
+    "value": 211915000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-06-30",
+    "value": 133749000000.0
+   },
+   {
+    "date": "2025-06-30",
+    "value": 101832000000.0
+   },
+   {
+    "date": "2024-06-30",
+    "value": 88136000000.0
+   },
+   {
+    "date": "2023-06-30",
+    "value": 72361000000.0
+   }
+  ],
+  "equity_ratio": 0.5833346519404623,
+  "fcf_history": [
+   {
+    "date": "2026-06-30",
+    "value": 66987000000.0
+   },
+   {
+    "date": "2025-06-30",
+    "value": 71611000000.0
+   },
+   {
+    "date": "2024-06-30",
+    "value": 74071000000.0
+   },
+   {
+    "date": "2023-06-30",
+    "value": 59475000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:24Z"
+ },
+ "NVDA": {
+  "name": "NVIDIA Corporation",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "market_cap": 3605147156480,
+  "pe": 16.03652,
+  "forward_pe": 8.991117,
+  "pb": 13.496655,
+  "peg": 0.1519,
+  "eps": 9.31,
+  "revenue": 361808003072,
+  "revenue_growth": 1.032,
+  "earnings_growth": 1.077,
+  "profit_margin": 0.62535,
+  "operating_margin": 0.66082,
+  "roe": 1.17364,
+  "debt_to_equity": 0.14306,
+  "total_debt": 38148001792,
+  "total_cash": 97731002368,
+  "free_cashflow": 99241377792,
+  "operating_cashflow": 158862999552,
+  "dividend_yield": 0.0067,
+  "payout_ratio": 0.0354,
+  "beta": 2.247,
+  "analyst_target_mean": 242.4278,
+  "analyst_target_low": 130.0,
+  "analyst_target_high": 425.0,
+  "analyst_count": 59,
+  "recommendation_mean": 1.66667,
+  "recommendation_key": "buy",
+  "website": "https://www.nvidia.com",
+  "summary": "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's p",
+  "revenue_history": [
+   {
+    "date": "2026-01-31",
+    "value": 215938000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 130497000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 60922000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 26974000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-01-31",
+    "value": 120067000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 72880000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 29760000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 4368000000.0
+   }
+  ],
+  "equity_ratio": 0.7605934149891442,
+  "fcf_history": [
+   {
+    "date": "2026-01-31",
+    "value": 96676000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 60853000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 27021000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 3808000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:25Z"
+ },
+ "AMZN": {
+  "name": "Amazon.com, Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "country": "United States",
+  "market_cap": 2643055345664,
+  "pe": 19.759903,
+  "forward_pe": 22.371244,
+  "pb": 4.3066053,
+  "peg": 1.1455,
+  "eps": 12.37,
+  "revenue": 797455024128,
+  "revenue_growth": 0.121,
+  "earnings_growth": -0.031,
+  "profit_margin": 0.16900998,
+  "operating_margin": 0.13087,
+  "roe": 0.27416,
+  "debt_to_equity": 0.49681,
+  "total_debt": 304840998912,
+  "total_cash": 114226003968,
+  "free_cashflow": -34731749376,
+  "operating_cashflow": 168300003328,
+  "dividend_yield": 0.0,
+  "payout_ratio": 0.0,
+  "beta": 1.503,
+  "analyst_target_mean": 326.34033,
+  "analyst_target_low": 230.0,
+  "analyst_target_high": 405.0,
+  "analyst_count": 60,
+  "recommendation_mean": 1.32258,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.amazon.com",
+  "summary": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufactures and sells electronic devices, including Kindle, fire tablets, fire TVs, echo, ring, blink, and eero; and develops and produces media content. In addition, the company offers programs that enable sellers to sell their products in its stores; and programs that allow authors, independent publisher",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 716924000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 637959000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 574785000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 513983000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 77670000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 59248000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 30425000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -2722000000.0
+   }
+  ],
+  "equity_ratio": 0.5024986492136101,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 7695000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 32878000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 32217000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": -16893000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:26Z"
+ },
+ "GOOGL": {
+  "name": "Alphabet Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "United States",
+  "market_cap": 3357491331072,
+  "pe": 14.261097,
+  "forward_pe": 17.85552,
+  "pb": 5.0907803,
+  "peg": 0.9371,
+  "eps": 19.15,
+  "revenue": 471097999360,
+  "revenue_growth": 0.247,
+  "earnings_growth": -0.253,
+  "profit_margin": 0.50031,
+  "operating_margin": 0.33321,
+  "roe": 0.44286,
+  "debt_to_equity": 0.22187,
+  "total_debt": 150330998784,
+  "total_cash": 265098002432,
+  "free_cashflow": -1162499968,
+  "operating_cashflow": 179550994432,
+  "dividend_yield": 0.32,
+  "payout_ratio": 0.044899996,
+  "beta": 1.226,
+  "analyst_target_mean": 395.1078,
+  "analyst_target_low": 300.0,
+  "analyst_target_high": 500.0,
+  "analyst_count": 54,
+  "recommendation_mean": 1.38333,
+  "recommendation_key": "strong_buy",
+  "website": "https://abc.xyz",
+  "summary": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in Google Play and YouTube; and devices, as well as the provision of YouTube consumer subscription services",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 402836000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 350018000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 307394000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 282836000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 132170000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 100118000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 73795000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 59972000000.0
+   }
+  ],
+  "equity_ratio": 0.6975949173583568,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 73266000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 72764000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 69495000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 60010000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:27Z"
+ },
+ "META": {
+  "name": "Meta Platforms, Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "country": "United States",
+  "market_cap": 1559025942528,
+  "pe": 20.808258,
+  "forward_pe": 17.09565,
+  "pb": 5.7230663,
+  "peg": 0.729,
+  "eps": 29.31,
+  "revenue": 241605001216,
+  "revenue_growth": 0.261,
+  "earnings_growth": 2.648,
+  "profit_margin": 0.31145,
+  "operating_margin": 0.37777,
+  "roe": 0.32264,
+  "debt_to_equity": 0.42161000000000004,
+  "total_debt": 114842001408,
+  "total_cash": 82448998400,
+  "free_cashflow": 16848499712,
+  "operating_cashflow": 133087002624,
+  "dividend_yield": 0.34,
+  "payout_ratio": 0.0716,
+  "beta": 1.279,
+  "analyst_target_mean": 842.53656,
+  "analyst_target_low": 650.0,
+  "analyst_target_high": 1050.0,
+  "analyst_count": 58,
+  "recommendation_mean": 1.41935,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.meta.com",
+  "summary": "Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses in the United States, Canada, Europe, Asia-Pacific, and internationally. It operates through two segments, Family of Apps (FoA) and Reality Labs (RL). The FoA segment offers Facebook, which enables people to build community through feed, reels, stories, groups, marketplace, and other; Instagram that brings people closer through Instagram feed, stories, reels, live, and messaging; Mes",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 200966000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 164501000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 134902000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 116609000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 60458000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 62360000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 39098000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 23200000000.0
+   }
+  ],
+  "equity_ratio": 0.5935260545159977,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 46109000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 54072000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 44068000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 19289000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:28Z"
+ },
+ "TSLA": {
+  "name": "Tesla, Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "country": "United States",
+  "market_cap": 1502601543680,
+  "pe": 417.73627,
+  "forward_pe": 175.6833,
+  "pb": 16.82929,
+  "peg": 4.4952,
+  "eps": 0.91,
+  "revenue": 103569997824,
+  "revenue_growth": -0.002,
+  "earnings_growth": -0.436,
+  "profit_margin": 0.031070001,
+  "operating_margin": 0.03403,
+  "roe": 0.03844,
+  "debt_to_equity": 0.18295000000000003,
+  "total_debt": 16444999680,
+  "total_cash": 45447000064,
+  "free_cashflow": 5210999808,
+  "operating_cashflow": 18709999616,
+  "dividend_yield": 0.0,
+  "payout_ratio": 0.0,
+  "beta": 1.743,
+  "analyst_target_mean": 419.05,
+  "analyst_target_low": 128.11,
+  "analyst_target_high": 600.0,
+  "analyst_count": 41,
+  "recommendation_mean": 2.2,
+  "recommendation_key": "buy",
+  "website": "https://www.tesla.com",
+  "summary": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The company offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty maintenance services and collision, automotive insurance services, as well as part sales and retail merchandise sale. It also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Supercharge",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 94827000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 97690000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 96773000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 81462000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 3794000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7130000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 14999000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 12583000000.0
+   }
+  ],
+  "equity_ratio": 0.5960335544170791,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 6220000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 3581000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 4357000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 7552000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:30Z"
+ },
+ "AVGO": {
+  "name": "Broadcom Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "market_cap": 1436194177024,
+  "pe": 38.424007,
+  "forward_pe": 15.562379,
+  "pb": 14.407623,
+  "peg": 0.3008,
+  "eps": 7.83,
+  "revenue": 89103998976,
+  "revenue_growth": 0.855,
+  "earnings_growth": 2.153,
+  "profit_margin": 0.42944,
+  "operating_margin": 0.48815,
+  "roe": 0.44245,
+  "debt_to_equity": 0.59604,
+  "total_debt": 59419000832,
+  "total_cash": 23975000064,
+  "free_cashflow": 30596499456,
+  "operating_cashflow": 40653000704,
+  "dividend_yield": 0.0086,
+  "payout_ratio": 0.32439998,
+  "beta": 1.508,
+  "analyst_target_mean": 523.28064,
+  "analyst_target_low": 398.4699,
+  "analyst_target_high": 660.0,
+  "analyst_count": 47,
+  "recommendation_mean": 1.28,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.broadcom.com",
+  "summary": "Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software. The company offers networking connectivity, such as custom silicon solutions, ethernet switching & routing, ethernet NIC controllers, physical layer devices, and fiber optic components; wireless device connectivity, including RF semiconductor devices, connectivity solutions, custom touch controllers, and inductive charging ASICS; servers and storage system solutions, such as ",
+  "revenue_history": [
+   {
+    "date": "2025-10-31",
+    "value": 63887000000.0
+   },
+   {
+    "date": "2024-10-31",
+    "value": 51574000000.0
+   },
+   {
+    "date": "2023-10-31",
+    "value": 35819000000.0
+   },
+   {
+    "date": "2022-10-31",
+    "value": 33203000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-10-31",
+    "value": 23126000000.0
+   },
+   {
+    "date": "2024-10-31",
+    "value": 5895000000.0
+   },
+   {
+    "date": "2023-10-31",
+    "value": 14082000000.0
+   },
+   {
+    "date": "2022-10-31",
+    "value": 11495000000.0
+   }
+  ],
+  "equity_ratio": 0.4751361840413345,
+  "fcf_history": [
+   {
+    "date": "2025-10-31",
+    "value": 26914000000.0
+   },
+   {
+    "date": "2024-10-31",
+    "value": 19414000000.0
+   },
+   {
+    "date": "2023-10-31",
+    "value": 17633000000.0
+   },
+   {
+    "date": "2022-10-31",
+    "value": 16312000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:31Z"
+ },
+ "AMD": {
+  "name": "Advanced Micro Devices, Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "country": "United States",
+  "market_cap": 672006275072,
+  "pe": 86.75855,
+  "forward_pe": 23.049273,
+  "pb": 9.736697,
+  "peg": 0.398,
+  "eps": 4.68,
+  "revenue": 45435998208,
+  "revenue_growth": 0.447,
+  "earnings_growth": 0.938,
+  "profit_margin": 0.16769,
+  "operating_margin": 0.17820999,
+  "roe": 0.1196,
+  "debt_to_equity": 0.13469,
+  "total_debt": 9210999808,
+  "total_cash": 15776000000,
+  "free_cashflow": 7357125120,
+  "operating_cashflow": 9123000320,
+  "dividend_yield": 0.0,
+  "payout_ratio": 0.0,
+  "beta": 2.542,
+  "analyst_target_mean": 649.8857,
+  "analyst_target_low": 525.0,
+  "analyst_target_high": 1250.0,
+  "analyst_count": 49,
+  "recommendation_mean": 1.33333,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.amd.com",
+  "summary": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 34639000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 25785000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 22680000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 23601000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 4335000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 1641000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 854000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1320000000.0
+   }
+  ],
+  "equity_ratio": 0.8189558796765722,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 6735000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 2405000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 1121000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 3115000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:32Z"
+ },
+ "ORCL": {
+  "name": "Oracle Corporation",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "country": "United States",
+  "market_cap": 323867508736,
+  "pe": 16.282131,
+  "forward_pe": 9.393415,
+  "pb": 5.0811973,
+  "peg": 0.5498,
+  "eps": 6.38,
+  "revenue": 71776002048,
+  "revenue_growth": 0.296,
+  "earnings_growth": 0.545,
+  "profit_margin": 0.2636,
+  "operating_margin": 0.34272,
+  "roe": 0.41192,
+  "debt_to_equity": 2.51716,
+  "total_debt": 169142992896,
+  "total_cash": 37077000192,
+  "free_cashflow": -45853626368,
+  "operating_cashflow": 46940000256,
+  "dividend_yield": 0.019299999999999998,
+  "payout_ratio": 0.31350002,
+  "beta": 1.778,
+  "analyst_target_mean": 236.184,
+  "analyst_target_low": 110.0,
+  "analyst_target_high": 400.0,
+  "analyst_count": 40,
+  "recommendation_mean": 1.5,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.oracle.com",
+  "summary": "Oracle Corporation offers products and services that build, run and support enterprise information technology frameworks worldwide. Its Oracle cloud software as a service offering includes various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also ",
+  "revenue_history": [
+   {
+    "date": "2026-05-31",
+    "value": 67357000000.0
+   },
+   {
+    "date": "2025-05-31",
+    "value": 57399000000.0
+   },
+   {
+    "date": "2024-05-31",
+    "value": 52961000000.0
+   },
+   {
+    "date": "2023-05-31",
+    "value": 49954000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-05-31",
+    "value": 17087000000.0
+   },
+   {
+    "date": "2025-05-31",
+    "value": 12443000000.0
+   },
+   {
+    "date": "2024-05-31",
+    "value": 10467000000.0
+   },
+   {
+    "date": "2023-05-31",
+    "value": 8503000000.0
+   }
+  ],
+  "equity_ratio": 0.16239365217623844,
+  "fcf_history": [
+   {
+    "date": "2026-05-31",
+    "value": -23686000000.0
+   },
+   {
+    "date": "2025-05-31",
+    "value": -394000000.0
+   },
+   {
+    "date": "2024-05-31",
+    "value": 11807000000.0
+   },
+   {
+    "date": "2023-05-31",
+    "value": 8470000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:33Z"
+ },
+ "CRM": {
+  "name": "Salesforce, Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "market_cap": 162303836160,
+  "pe": 18.043001,
+  "forward_pe": 12.3006315,
+  "pb": 4.22907,
+  "peg": 0.6448,
+  "eps": 10.93,
+  "revenue": 43938000896,
+  "revenue_growth": 0.108,
+  "earnings_growth": 1.189,
+  "profit_margin": 0.2199,
+  "operating_margin": 0.21519,
+  "roe": 0.19381,
+  "debt_to_equity": 1.10417,
+  "total_debt": 42375999488,
+  "total_cash": 11402999808,
+  "free_cashflow": 17731874816,
+  "operating_cashflow": 15749999616,
+  "dividend_yield": 0.0089,
+  "payout_ratio": 0.1566,
+  "beta": 1.233,
+  "analyst_target_mean": 282.3666,
+  "analyst_target_low": 165.0,
+  "analyst_target_high": 475.0,
+  "analyst_count": 53,
+  "recommendation_mean": 1.69091,
+  "recommendation_key": "buy",
+  "website": "https://www.salesforce.com",
+  "summary": "Salesforce, Inc. provides customer relationship management technology services that connect companies and customers together in the United States, Europe, and the Asia Pacific. The company offers Agentforce, which enables customers to build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling humans and agents to work together; Agentforce Sales, an integrated platform that brings together the power of humans with AI agents to help sales teams for selling, managing, and automating entire sales processes; Agentforce Service, which enables companies in every industry to b",
+  "revenue_history": [
+   {
+    "date": "2026-01-31",
+    "value": 41525000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 37895000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 34857000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 31352000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-01-31",
+    "value": 7457000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 6197000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 4136000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 208000000.0
+   }
+  ],
+  "equity_ratio": 0.5266194737545078,
+  "fcf_history": [
+   {
+    "date": "2026-01-31",
+    "value": 14402000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 12434000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 9498000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 6313000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:34Z"
+ },
+ "ADBE": {
+  "name": "Adobe Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "country": "United States",
+  "market_cap": 90617438208,
+  "pe": 13.0,
+  "forward_pe": 8.495219,
+  "pb": 7.7385583,
+  "peg": 0.5395,
+  "eps": 17.91,
+  "revenue": 25969999872,
+  "revenue_growth": 0.129,
+  "earnings_growth": 0.105,
+  "profit_margin": 0.28048,
+  "operating_margin": 0.36323002,
+  "roe": 0.61902,
+  "debt_to_equity": 0.5769299999999999,
+  "total_debt": 6786999808,
+  "total_cash": 5641999872,
+  "free_cashflow": 9345125376,
+  "operating_cashflow": 10805999616,
+  "dividend_yield": 0.0,
+  "payout_ratio": 0.0,
+  "beta": 1.383,
+  "analyst_target_mean": 266.9097,
+  "analyst_target_low": 140.0,
+  "analyst_target_high": 373.0,
+  "analyst_count": 33,
+  "recommendation_mean": 2.97436,
+  "recommendation_key": "hold",
+  "website": "https://www.adobe.com",
+  "summary": "Adobe Inc. operates as a technology company worldwide. The Digital Media segment offers products and services that enable individuals, teams, and enterprises to create, publish, and promote content. This segment serves photographers, video editors, graphic and experience designers, game developers, content creators, students, marketers, business owners, knowledge workers, and consumers. The Digital Experience segment provides an integrated platform; and products, services, and solutions that enable brands and businesses to create, manage, execute, measure, monetize, and optimize customer exper",
+  "revenue_history": [
+   {
+    "date": "2025-11-30",
+    "value": 23769000000.0
+   },
+   {
+    "date": "2024-11-30",
+    "value": 21505000000.0
+   },
+   {
+    "date": "2023-11-30",
+    "value": 19409000000.0
+   },
+   {
+    "date": "2022-11-30",
+    "value": 17606000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-11-30",
+    "value": 7130000000.0
+   },
+   {
+    "date": "2024-11-30",
+    "value": 5560000000.0
+   },
+   {
+    "date": "2023-11-30",
+    "value": 5428000000.0
+   },
+   {
+    "date": "2022-11-30",
+    "value": 4756000000.0
+   }
+  ],
+  "equity_ratio": 0.39405343097369133,
+  "fcf_history": [
+   {
+    "date": "2025-11-30",
+    "value": 9852000000.0
+   },
+   {
+    "date": "2024-11-30",
+    "value": 7873000000.0
+   },
+   {
+    "date": "2023-11-30",
+    "value": 6942000000.0
+   },
+   {
+    "date": "2022-11-30",
+    "value": 7396000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:35Z"
+ },
+ "NFLX": {
+  "name": "Netflix, Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "country": "United States",
+  "market_cap": 243956826112,
+  "pe": 17.17052,
+  "forward_pe": 15.7609625,
+  "pb": 8.330062,
+  "peg": 0.9051,
+  "eps": 3.46,
+  "revenue": 49734631424,
+  "revenue_growth": 0.118,
+  "earnings_growth": 0.475,
+  "profit_margin": 0.29691,
+  "operating_margin": 0.31296,
+  "roe": 0.53463,
+  "debt_to_equity": 0.59857,
+  "total_debt": 17529788416,
+  "total_cash": 8222952960,
+  "free_cashflow": 25475807232,
+  "operating_cashflow": 12307938304,
+  "dividend_yield": 0.0,
+  "payout_ratio": 0.0,
+  "beta": 1.606,
+  "analyst_target_mean": 84.54884,
+  "analyst_target_low": 57.0,
+  "analyst_target_high": 126.0,
+  "analyst_count": 43,
+  "recommendation_mean": 1.92157,
+  "recommendation_key": "buy",
+  "website": "https://www.netflix.com",
+  "summary": "Netflix, Inc. provides entertainment services worldwide. The company offers television (TV) series, documentaries, feature films, games, and live programming across various genres and languages. It also provides members the ability to receive streaming content through a host of internet-connected devices, including TVs, digital video players, TV set-top boxes, and mobile devices. Netflix, Inc. was incorporated in 1997 and is headquartered in Los Gatos, California.",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 45183036000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 39000966000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 33723297000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 31615550000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 10981201000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 8711631000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5407990000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4491924000.0
+   }
+  ],
+  "equity_ratio": 0.4787217179173701,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 9461053000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 6921826000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 6925749000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 1618528000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:37Z"
+ },
+ "JPM": {
+  "name": "JPMorgan Chase & Co.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "country": "United States",
+  "market_cap": 841137782784,
+  "pe": 13.286074,
+  "forward_pe": 12.385691,
+  "pb": 2.3941586,
+  "peg": 1.32,
+  "eps": 23.84,
+  "revenue": 190732992512,
+  "revenue_growth": 0.102,
+  "earnings_growth": 0.099,
+  "profit_margin": 0.34592,
+  "operating_margin": 0.44787997,
+  "roe": 0.18013,
+  "debt_to_equity": null,
+  "total_debt": 1335691968512,
+  "total_cash": 1591950966784,
+  "free_cashflow": null,
+  "operating_cashflow": -84158996480,
+  "dividend_yield": 0.0208,
+  "payout_ratio": 0.258,
+  "beta": 1.02,
+  "analyst_target_mean": 373.65216,
+  "analyst_target_low": 312.0,
+  "analyst_target_high": 425.0,
+  "analyst_count": 23,
+  "recommendation_mean": 2.03846,
+  "recommendation_key": "buy",
+  "website": "https://www.jpmorganchase.com",
+  "summary": "JPMorgan Chase & Co. operates as a bank and financial holding company in the United States, rest of North America, Europe, the Middle East, Africa, the Asia Pacific, Latin America, and the Caribbean. It operates in three segments: Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management. The company offers deposit, investment and lending products, and cash management; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit cards, payment solutions, travel services, merchant offers, lifestyle benefits, auto loans, a",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 181847000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 169439000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 154952000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 127727000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 57048000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 58471000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 49552000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 37676000000.0
+   }
+  ],
+  "equity_ratio": 0.08190874370042261,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": -147782000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": -42012000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 12974000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 107119000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:38Z"
+ },
+ "V": {
+  "name": "Visa Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "United States",
+  "market_cap": 791826923520,
+  "pe": 34.447243,
+  "forward_pe": 24.759634,
+  "pb": 22.141703,
+  "peg": 1.8189,
+  "eps": 12.32,
+  "revenue": 45902999552,
+  "revenue_growth": 0.132,
+  "earnings_growth": 0.219,
+  "profit_margin": 0.51203996,
+  "operating_margin": 0.66306996,
+  "roe": 0.63507,
+  "debt_to_equity": 0.63568,
+  "total_debt": 22954999808,
+  "total_cash": 14083000320,
+  "free_cashflow": 20983375872,
+  "operating_cashflow": 23728001024,
+  "dividend_yield": 0.0074,
+  "payout_ratio": 0.2175,
+  "beta": 0.786,
+  "analyst_target_mean": 454.10422,
+  "analyst_target_low": 330.0,
+  "analyst_target_high": 500.0,
+  "analyst_count": 38,
+  "recommendation_mean": 1.43902,
+  "recommendation_key": "strong_buy",
+  "website": "https://corporate.visa.com",
+  "summary": "Visa Inc. operates as a payments technology company in the United States and internationally. It operates VisaNet, a transaction processing network that enables authorization, clearing, and settlement of payment transactions. The company also offers credit, debit, and prepaid card products; tap to pay, tokenization, and click to pay services; Visa Direct, a platform which facilitates money movement, enabling clients to collect, hold, convert, and send funds across its network; and issuing solutions, such as airport lounge access, dining reservations, shopping experiences, event tickets, and se",
+  "revenue_history": [
+   {
+    "date": "2026-09-30",
+    "value": 45903000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 40000000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 35926000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 32653000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-09-30",
+    "value": 23504000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 20058000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 19743000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 17273000000.0
+   }
+  ],
+  "equity_ratio": 0.38269393810936836,
+  "fcf_history": [
+   {
+    "date": "2026-09-30",
+    "value": 22057000000.0
+   },
+   {
+    "date": "2025-09-30",
+    "value": 21577000000.0
+   },
+   {
+    "date": "2024-09-30",
+    "value": 18693000000.0
+   },
+   {
+    "date": "2023-09-30",
+    "value": 19696000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:39Z"
+ },
+ "MA": {
+  "name": "Mastercard Incorporated",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "country": "United States",
+  "market_cap": 574950080512,
+  "pe": 34.53532,
+  "forward_pe": 28.494944,
+  "pb": 85.2344,
+  "peg": 1.655,
+  "eps": 19.11,
+  "revenue": 36288000000,
+  "revenue_growth": 0.14,
+  "earnings_growth": 0.217,
+  "profit_margin": 0.46732,
+  "operating_margin": 0.60069,
+  "roe": 2.31366,
+  "debt_to_equity": 3.5516300000000003,
+  "total_debt": 23938000896,
+  "total_cash": 10464000000,
+  "free_cashflow": 16629250048,
+  "operating_cashflow": 16860999680,
+  "dividend_yield": 0.0053,
+  "payout_ratio": 0.17629999,
+  "beta": 0.77,
+  "analyst_target_mean": 722.72845,
+  "analyst_target_low": 550.0,
+  "analyst_target_high": 800.0,
+  "analyst_count": 39,
+  "recommendation_mean": 1.47619,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.mastercard.com",
+  "summary": "Mastercard Incorporated, a technology company, provides transaction processing and other payment-related products and services in the United States and internationally. The company offers products and services for account holders, merchants, financial institutions, digital partners, businesses, governments, and other organizations, such as programs that enable issuers to provide consumers with credits to defer payments; payment products and solutions that allow its customers to access funds in deposit and other accounts; prepaid programs services; consumer bill payment services; and commercial",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 32791000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 28167000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 25098000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 22237000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 14968000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 12874000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 11195000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 9930000000.0
+   }
+  ],
+  "equity_ratio": 0.1428624185239212,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 16433000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 13586000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 10892000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 10098000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:40Z"
+ },
+ "LLY": {
+  "name": "Eli Lilly and Company",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "market_cap": 1240112955392,
+  "pe": 45.187275,
+  "forward_pe": 27.367962,
+  "pb": 30.810188,
+  "peg": 1.245,
+  "eps": 30.81,
+  "revenue": 86461997056,
+  "revenue_growth": 0.386,
+  "earnings_growth": 0.163,
+  "profit_margin": 0.31898,
+  "operating_margin": 0.51254004,
+  "roe": 0.86024004,
+  "debt_to_equity": 1.22925,
+  "total_debt": 49502998528,
+  "total_cash": 4885000192,
+  "free_cashflow": 9343699968,
+  "operating_cashflow": 30645000192,
+  "dividend_yield": 0.5,
+  "payout_ratio": 0.2171,
+  "beta": 0.389,
+  "analyst_target_mean": 1470.0565,
+  "analyst_target_low": 940.0,
+  "analyst_target_high": 1700.0,
+  "analyst_count": 29,
+  "recommendation_mean": 1.64516,
+  "recommendation_key": "buy",
+  "website": "https://www.lilly.com",
+  "summary": "Eli Lilly and Company discovers, develops, manufactures, and markets human pharmaceutical products in the United States, Europe, China, Japan, and internationally. The company offers cardiometabolic health products, including Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, Humulin U-500 for diabetes; Jardiance, Mounjaro, and Trulicity for type 2 diabetes; and Zepbound for obesity. It also provides oncology products, such as Cyramza for the sec",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 65179000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 45043000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 34124000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 28541400000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 20640000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 10590000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 5240000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 6244800000.0
+   }
+  ],
+  "equity_ratio": 0.23591699562573348,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 5964000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 414000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": -3152000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 4600400000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:41Z"
+ },
+ "UNH": {
+  "name": "UnitedHealth Group Incorporated",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "country": "United States",
+  "market_cap": 310194077696,
+  "pe": 19.759703,
+  "forward_pe": 14.74802,
+  "pb": 3.1620722,
+  "peg": 0.8638,
+  "eps": 17.52,
+  "revenue": 450059010048,
+  "revenue_growth": -0.004,
+  "earnings_growth": 0.761,
+  "profit_margin": 0.03529,
+  "operating_margin": 0.058530003,
+  "roe": 0.15773,
+  "debt_to_equity": 0.70426,
+  "total_debt": 74330996736,
+  "total_cash": 28548999168,
+  "free_cashflow": 26501249024,
+  "operating_cashflow": 26194999296,
+  "dividend_yield": 0.0268,
+  "payout_ratio": 0.5171,
+  "beta": 0.52,
+  "analyst_target_mean": 478.48,
+  "analyst_target_low": 385.0,
+  "analyst_target_high": 531.0,
+  "analyst_count": 25,
+  "recommendation_mean": 1.5,
+  "recommendation_key": "strong_buy",
+  "website": "https://www.unitedhealthgroup.com",
+  "summary": "UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. It operates through four segments: Optum Health, Optum Insight, Optum Rx; and UnitedHealthcare. The Optum Health segment provides care delivery, care management, wellness and consumer engagement, and health financial services with patients, consumers, care delivery systems, providers, employers, payers, and public-sector entities. The Optum Insight segment offers software and information products, advisory consulting arrangements, and managed services outsourcing contracts to hospital sy",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 447567000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 400278000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 371622000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 324162000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 12056000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 14405000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 22381000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 20120000000.0
+   }
+  ],
+  "equity_ratio": 0.30399152402763735,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 16075000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 20705000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 25682000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 23404000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:42Z"
+ },
+ "JNJ": {
+  "name": "Johnson & Johnson",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "country": "United States",
+  "market_cap": 659458621440,
+  "pe": 41.569042,
+  "forward_pe": 23.591194,
+  "pb": 8.087984,
+  "peg": 3.0433,
+  "eps": 6.59,
+  "revenue": 99334995968,
+  "revenue_growth": 0.059,
+  "earnings_growth": -0.959,
+  "profit_margin": 0.16203,
+  "operating_margin": 0.26588,
+  "roe": 0.20018,
+  "debt_to_equity": 0.54767,
+  "total_debt": 44650999808,
+  "total_cash": 17227999232,
+  "free_cashflow": 18501875712,
+  "operating_cashflow": 26158999552,
+  "dividend_yield": 0.0196,
+  "payout_ratio": 0.80120003,
+  "beta": 0.2,
+  "analyst_target_mean": 279.84726,
+  "analyst_target_low": 190.0,
+  "analyst_target_high": 320.0,
+  "analyst_count": 22,
+  "recommendation_mean": 2.0,
+  "recommendation_key": "buy",
+  "website": "https://www.jnj.com",
+  "summary": "Johnson & Johnson, together with its subsidiaries, engages in the research and development, manufacture, and sale of a range of products in the healthcare field worldwide. It operates in two segments, Innovative Medicine and MedTech. The Innovative Medicine segment offers products for various therapeutic areas, such as oncology, immunology, neuroscience, pulmonary hypertension, infectious diseases, and cardiovascular and metabolism distributed through retailers, wholesalers, distributors, hospitals, and healthcare professionals for prescription use. The MedTech segment provides a portfolio of ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 94193000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 88821000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 85159000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 79990000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 26804000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 14066000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 35153000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 17941000000.0
+   }
+  ],
+  "equity_ratio": 0.4093368806786808,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 19313000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 18059000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 17778000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 17185000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:43Z"
+ },
+ "PG": {
+  "name": "The Procter & Gamble Company",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "country": "United States",
+  "market_cap": 401509548032,
+  "pe": 26.088856,
+  "forward_pe": 23.327435,
+  "pb": 7.3875217,
+  "peg": 4.3517,
+  "eps": 6.64,
+  "revenue": 87921999872,
+  "revenue_growth": 0.04,
+  "earnings_growth": 0.008,
+  "profit_margin": 0.18229,
+  "operating_margin": 0.24885,
+  "roe": 0.29609,
+  "debt_to_equity": 0.70343,
+  "total_debt": 38925000704,
+  "total_cash": 15365000192,
+  "free_cashflow": 12652999680,
+  "operating_cashflow": 19914999808,
+  "dividend_yield": 0.025099999999999997,
+  "payout_ratio": 0.6462,
+  "beta": 0.361,
+  "analyst_target_mean": 176.69565,
+  "analyst_target_low": 151.0,
+  "analyst_target_high": 197.0,
+  "analyst_count": 23,
+  "recommendation_mean": 2.12,
+  "recommendation_key": "buy",
+  "website": "https://www.pginvestor.com",
+  "summary": "The Procter & Gamble Company provides branded consumer packaged goods worldwide. It operates through five segments: Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The company offers conditioners, shampoos, styling aids, and treatments under the Head & Shoulders, Herbal Essences, Pantene, and Rejoice brands; antiperspirants, deodorants, and personal cleansing products under the Native, Old Spice, Safeguard, and Secret brands; and facial moisturizers, cleaners, and treatments under the Olay and SK-II brands. It also provides blades, razors, shave products, a",
+  "revenue_history": [
+   {
+    "date": "2026-06-30",
+    "value": 87032000000.0
+   },
+   {
+    "date": "2025-06-30",
+    "value": 84284000000.0
+   },
+   {
+    "date": "2024-06-30",
+    "value": 84039000000.0
+   },
+   {
+    "date": "2023-06-30",
+    "value": 82006000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-06-30",
+    "value": 16046000000.0
+   },
+   {
+    "date": "2025-06-30",
+    "value": 15974000000.0
+   },
+   {
+    "date": "2024-06-30",
+    "value": 14879000000.0
+   },
+   {
+    "date": "2023-06-30",
+    "value": 14653000000.0
+   }
+  ],
+  "equity_ratio": 0.42744682700895503,
+  "fcf_history": [
+   {
+    "date": "2026-06-30",
+    "value": 15147000000.0
+   },
+   {
+    "date": "2025-06-30",
+    "value": 14044000000.0
+   },
+   {
+    "date": "2024-06-30",
+    "value": 16524000000.0
+   },
+   {
+    "date": "2023-06-30",
+    "value": 13786000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:44Z"
+ },
+ "KO": {
+  "name": "The Coca-Cola Company",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "United States",
+  "market_cap": 419822632960,
+  "pe": 28.78761,
+  "forward_pe": 27.617414,
+  "pb": 11.234027,
+  "peg": 3.2427,
+  "eps": 3.39,
+  "revenue": 51053998080,
+  "revenue_growth": 0.074,
+  "earnings_growth": 0.083,
+  "profit_margin": 0.28654,
+  "operating_margin": 0.32172,
+  "roe": 0.40592998,
+  "debt_to_equity": 1.07449,
+  "total_debt": 42477998080,
+  "total_cash": 16595000320,
+  "free_cashflow": 4349000192,
+  "operating_cashflow": 16227000320,
+  "dividend_yield": 0.0217,
+  "payout_ratio": 0.6195,
+  "beta": 0.269,
+  "analyst_target_mean": 99.84,
+  "analyst_target_low": 88.0,
+  "analyst_target_high": 112.0,
+  "analyst_count": 25,
+  "recommendation_mean": 1.69231,
+  "recommendation_key": "buy",
+  "website": "https://www.coca-colacompany.com",
+  "summary": "The Coca-Cola Company, a beverage company, manufactures and sells various nonalcoholic beverages in the United States and internationally. The company provides Trademark Coca-Cola, sparkling soft drinks and flavors; water, sports, coffee, and tea; juice, value-added dairy, and plant-based beverages; and emerging beverages. It also offers beverage concentrates and syrups, as well as fountain syrups to fountain retailers comprising restaurants and convenience stores. The company sells its products under the Coca-Cola, Diet Coke/Coca-Cola Light, Coca-Cola Zero Sugar, caffeine free Diet Coke, Cher",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 47941000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 47061000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 45754000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 43004000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 13107000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 10631000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 10714000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 9542000000.0
+   }
+  ],
+  "equity_ratio": 0.30690925049610746,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 5296000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 4741000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 9747000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 9534000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:45Z"
+ },
+ "PEP": {
+  "name": "PepsiCo, Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "country": "United States",
+  "market_cap": 196139319296,
+  "pe": 18.104403,
+  "forward_pe": 16.748003,
+  "pb": 8.806828,
+  "peg": 1.3571,
+  "eps": 7.95,
+  "revenue": 98241003520,
+  "revenue_growth": 0.056,
+  "earnings_growth": 0.174,
+  "profit_margin": 0.11091,
+  "operating_margin": 0.16046,
+  "roe": 0.52187,
+  "debt_to_equity": 2.30716,
+  "total_debt": 51881000960,
+  "total_cash": 11162999808,
+  "free_cashflow": 9044249600,
+  "operating_cashflow": 14568999936,
+  "dividend_yield": 0.041100000000000005,
+  "payout_ratio": 0.7302,
+  "beta": 0.321,
+  "analyst_target_mean": 141.27274,
+  "analyst_target_low": 106.0,
+  "analyst_target_high": 165.0,
+  "analyst_count": 22,
+  "recommendation_mean": 2.76,
+  "recommendation_key": "hold",
+  "website": "https://www.pepsico.com",
+  "summary": "PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through six segments: PepsiCo Foods North America; PepsiCo Beverages North America; International Beverages Franchise; Europe, Middle East and Africa; Latin America Foods; and Asia Pacific Foods. It offers cereals, chips, dips, granola bars, oatmeal, pasta, rice, and syrups and mixes; refrigerated dips and spreads; beverage concentrates, fountain syrups, and finished goods; and ready-to-drink tea and coffee products. The company also provides Sod",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 93925000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 91854000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 91471000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 86392000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 8240000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 9578000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 9074000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 8910000000.0
+   }
+  ],
+  "equity_ratio": 0.19000176910399538,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 7672000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 7189000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 7924000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 5604000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:46Z"
+ },
+ "COST": {
+  "name": "Costco Wholesale Corporation",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "country": "United States",
+  "market_cap": 481597423616,
+  "pe": 52.35116,
+  "forward_pe": 43.36832,
+  "pb": 13.455448,
+  "peg": 4.3815,
+  "eps": 20.76,
+  "revenue": 303154003968,
+  "revenue_growth": 0.111,
+  "earnings_growth": 0.15,
+  "profit_margin": 0.03043,
+  "operating_margin": 0.03797,
+  "roe": 0.28402,
+  "debt_to_equity": 0.28436,
+  "total_debt": 10181000192,
+  "total_cash": 21301000192,
+  "free_cashflow": 6752750080,
+  "operating_cashflow": 15816999936,
+  "dividend_yield": 0.0054,
+  "payout_ratio": 0.2669,
+  "beta": 0.852,
+  "analyst_target_mean": 1083.6945,
+  "analyst_target_low": 770.0,
+  "analyst_target_high": 1315.0,
+  "analyst_count": 36,
+  "recommendation_mean": 2.0,
+  "recommendation_key": "buy",
+  "website": "https://www.costco.com",
+  "summary": "Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Sweden, Iceland, and New Zealand. It offers merchandise, including sundries, dry groceries, candies, coolers, freezers, liquor, and tobacco; non-food merchandise comprising consumer electronics, appliances, small electrics, health and beauty aids, hardware, lawn and garden, sporting goods, tires, toys and seasonal, automotive, stamps, tickets, apparel, furnitu",
+  "revenue_history": [
+   {
+    "date": "2026-08-31",
+    "value": 303154000000.0
+   },
+   {
+    "date": "2025-08-31",
+    "value": 275235000000.0
+   },
+   {
+    "date": "2024-08-31",
+    "value": 254453000000.0
+   },
+   {
+    "date": "2023-08-31",
+    "value": 242290000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-08-31",
+    "value": 9226000000.0
+   },
+   {
+    "date": "2025-08-31",
+    "value": 8099000000.0
+   },
+   {
+    "date": "2024-08-31",
+    "value": 7367000000.0
+   },
+   {
+    "date": "2023-08-31",
+    "value": 6292000000.0
+   }
+  ],
+  "equity_ratio": 0.4020776012128699,
+  "fcf_history": [
+   {
+    "date": "2026-08-31",
+    "value": 9382000000.0
+   },
+   {
+    "date": "2025-08-31",
+    "value": 7837000000.0
+   },
+   {
+    "date": "2024-08-31",
+    "value": 6629000000.0
+   },
+   {
+    "date": "2023-08-31",
+    "value": 6745000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:48Z"
+ },
+ "WMT": {
+  "name": "Walmart Inc.",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Consumer Defensive",
+  "industry": "Discount Stores",
+  "country": "United States",
+  "market_cap": 1046778478592,
+  "pe": 47.804348,
+  "forward_pe": 40.86981,
+  "pb": 10.66699,
+  "peg": 4.3453,
+  "eps": 2.76,
+  "revenue": 745178988544,
+  "revenue_growth": 0.052,
+  "earnings_growth": -0.195,
+  "profit_margin": 0.02802,
+  "operating_margin": 0.04453,
+  "roe": 0.20552999,
+  "debt_to_equity": 0.7601300000000001,
+  "total_debt": 81152000000,
+  "total_cash": 13432000512,
+  "free_cashflow": 6343374848,
+  "operating_cashflow": 43548999680,
+  "dividend_yield": 0.0075,
+  "payout_ratio": 0.3496,
+  "beta": 0.526,
+  "analyst_target_mean": 136.80489,
+  "analyst_target_low": 81.0,
+  "analyst_target_high": 155.0,
+  "analyst_count": 41,
+  "recommendation_mean": 1.54545,
+  "recommendation_key": "buy",
+  "website": "https://www.stock.walmart.com",
+  "summary": "Walmart Inc. engages in the operation of retail and wholesale stores and clubs, ecommerce websites, and mobile applications worldwide. The company operates through three segments: Walmart U.S., Walmart International, and Sam's Club U.S. It operates supercenters, supermarkets, warehouse clubs, cash and carry stores, and discount stores under Walmart and Walmart Neighborhood Market brands; membership-only warehouse clubs; and ecommerce websites, such as walmart.com.mx, walmart.ca, flipkart.com, PhonePe and other sites. It offers grocery items, including dry grocery, snacks, dairy, meat, produce,",
+  "revenue_history": [
+   {
+    "date": "2026-01-31",
+    "value": 713163000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 680985000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 648125000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 611289000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2026-01-31",
+    "value": 21893000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 19436000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 15511000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 11680000000.0
+   }
+  ],
+  "equity_ratio": 0.34994098388297945,
+  "fcf_history": [
+   {
+    "date": "2026-01-31",
+    "value": 14923000000.0
+   },
+   {
+    "date": "2025-01-31",
+    "value": 12660000000.0
+   },
+   {
+    "date": "2024-01-31",
+    "value": 15120000000.0
+   },
+   {
+    "date": "2023-01-31",
+    "value": 11984000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:49Z"
+ },
+ "XOM": {
+  "name": "ExxonMobil Holdings Corporation",
+  "currency": "USD",
+  "financial_currency": "USD",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "United States",
+  "market_cap": 644843503616,
+  "pe": 16.263374,
+  "forward_pe": 12.66135,
+  "pb": 2.42614,
+  "peg": 1.2356,
+  "eps": 9.72,
+  "revenue": 388231987200,
+  "revenue_growth": 0.326,
+  "earnings_growth": 1.114,
+  "profit_margin": 0.10463,
+  "operating_margin": 0.12875,
+  "roe": 0.15528,
+  "debt_to_equity": 0.12568,
+  "total_debt": 34250000384,
+  "total_cash": 12152999936,
+  "free_cashflow": 28318750720,
+  "operating_cashflow": 70588997632,
+  "dividend_yield": 0.0271,
+  "payout_ratio": 0.4239,
+  "beta": 0.141,
+  "analyst_target_mean": 184.18182,
+  "analyst_target_low": 160.0,
+  "analyst_target_high": 213.0,
+  "analyst_count": 22,
+  "recommendation_mean": 2.42308,
+  "recommendation_key": "buy",
+  "website": "https://corporate.exxonmobil.com",
+  "summary": "ExxonMobil Holdings Corporation engages in the exploration and production of crude oil and natural gas in the United States, Canada, and internationally. The company operates through Upstream, Energy Products, Chemical Products, and Specialty Products segments. Its Upstream segment explores for and produces crude oil and natural gas. The Energy Products segment offers fuels, aromatics, and catalysts, as well as licensing services. Its Chemical Products segment manufactures and sells olefins, polyolefins, and intermediates. The Specialty Products segment offers finished lubricants, basestocks, ",
+  "revenue_history": [
+   {
+    "date": "2025-12-31",
+    "value": 323905000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 339247000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 334697000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 398675000000.0
+   }
+  ],
+  "net_income_history": [
+   {
+    "date": "2025-12-31",
+    "value": 28844000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 33680000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 36010000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 55740000000.0
+   }
+  ],
+  "equity_ratio": 0.5777228384337832,
+  "fcf_history": [
+   {
+    "date": "2025-12-31",
+    "value": 23612000000.0
+   },
+   {
+    "date": "2024-12-31",
+    "value": 30716000000.0
+   },
+   {
+    "date": "2023-12-31",
+    "value": 33450000000.0
+   },
+   {
+    "date": "2022-12-31",
+    "value": 58390000000.0
+   }
+  ],
+  "_source": "Yahoo Finance",
+  "_fetched": "2026-11-26T16:23:50Z"
+ }
+}

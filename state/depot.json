@@ -1,0 +1,31 @@
+{
+ "created": "2026-11-26T16:22:15Z",
+ "start_capital": 10000.0,
+ "cash": 10000.0,
+ "positions": {},
+ "orders": [],
+ "transactions": [],
+ "tax": {
+  "year": 2026,
+  "allowance_used": 0.0,
+  "loss_pot_stocks": 0.0,
+  "loss_pot_other": 0.0,
+  "paid_total": 0.0,
+  "paid_year": 0.0
+ },
+ "equity": [
+  {
+   "time": "2026-11-26T16:22:15Z",
+   "value": 10000.0,
+   "cash": 10000.0,
+   "invested": 0.0
+  },
+  {
+   "time": "2026-11-26T16:25:38Z",
+   "value": 10000.0,
+   "cash": 10000.0,
+   "invested": 0.0
+  }
+ ],
+ "resets": []
+}
