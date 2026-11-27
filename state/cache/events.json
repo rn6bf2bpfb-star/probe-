@@ -2,6 +2,30 @@
  "SAP.DE": {
   "news": [
    {
+    "title": "SAP Stock Puts AI Software Leaders On Watch",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sap-stock-puts-ai-software-191301798.html",
+    "published": "2026-11-27T19:13:01Z",
+    "publisher": "Simply Wall St.",
+    "summary": "AI is forcing every large software player to rethink how products are built, sold and funded, and SAP’s plan for at least 10,000 job cuts tied to its AI push shows how intense that rethink has become. When a heavyweight like SAP leans into cloud and automation while tightening costs, it can ripple a",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "SAP Stocks Climb 2.06% Despite Confirmed Cybersecurity Incident",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sap-stocks-climb-2-06-183155845.html",
+    "published": "2026-11-27T18:31:55Z",
+    "publisher": "GuruFocus.com",
+    "summary": "SAP says it found suspicious activity but no evidence of access to customer business data, and has tightened GitHub controls.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "SAP (XTRA:SAP) Is Planning To Cut 10,000 Jobs",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sap-xtra-sap-planning-cut-181311391.html",
+    "published": "2026-11-27T18:13:11Z",
+    "publisher": "Simply Wall St.",
+    "summary": "SAP (XTRA:SAP) announced a plan to cut at least 10,000 roles as part of an AI driven restructuring affecting roughly 9% of staff. The reduction spans product development, engineering, and sales, reflecting a broad reallocation of resources toward AI focused projects. Management framed the overhaul a",
+    "via": "Yahoo Finance"
+   },
+   {
     "title": "SAP Weighs 10,000 Job Cuts as AI Restructuring Accelerates",
     "url": "https://finance.yahoo.com/technology/ai/articles/sap-weighs-10-000-job-170845834.html",
     "published": "2026-11-27T17:08:45Z",
@@ -55,30 +79,6 @@
     "published": "2026-11-26T16:15:48Z",
     "publisher": "Bloomberg",
     "summary": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Will Autonomous Retail Pilot Change SAP's (XTRA:SAP) Narrative",
-    "url": "https://finance.yahoo.com/technology/ai/articles/autonomous-retail-pilot-change-saps-171625672.html",
-    "published": "2026-11-24T17:16:25Z",
-    "publisher": "Simply Wall St.",
-    "summary": "SAP recently highlighted a series of AI centric moves, including the S.Fashion autonomous retail space with VF Corporation, expanded Business AI use cases, and partnerships that embed governed AI agents directly into core ERP platforms. In the same period, there was an executive transition, with Chi",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "What Is SAP (XTRA:SAP) Signaling With AI Investment And Possible Job Cuts?",
-    "url": "https://finance.yahoo.com/technology/ai/articles/sap-xtra-sap-signaling-ai-161352256.html",
-    "published": "2026-11-24T16:13:52Z",
-    "publisher": "Simply Wall St.",
-    "summary": "SAP (XTRA:SAP) CFO said AI driven productivity could slow hiring and potentially lead to workforce cuts as automation expands. Management plans to increase investment in AI through acquisitions and new product launches tied directly to artificial intelligence capabilities. The group is introducing a",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "AI productivity gains to slow headcount, SAP CFO predicts",
-    "url": "https://www.cfodive.com/news/ai-productivity-gains-slow-headcount-sap-cfo-predicts/875530/",
-    "published": "2026-11-23T19:54:33Z",
-    "publisher": "CFO Dive",
-    "summary": "SAP’s Dominik Asam also announced SAP will introduce a new KPI in the new year aimed at more clearly tracking AI’s financial impact.",
     "via": "Yahoo Finance"
    }
   ],
@@ -239,7 +239,7 @@
    "earnings_date": "2027-01-28",
    "ex_dividend_date": "2026-05-06"
   },
-  "_fetched": "2026-11-27T17:57:28Z"
+  "_fetched": "2026-11-27T22:14:17Z"
  },
  "SIE.DE": {
   "news": [
@@ -3590,7 +3590,7 @@
    "earnings_date": "2026-11-05",
    "ex_dividend_date": "2026-05-13"
   },
-  "_fetched": "2026-11-27T17:57:29Z"
+  "_fetched": "2026-11-27T22:14:19Z"
  },
  "ADS.DE": {
   "news": [
@@ -11252,6 +11252,14 @@
  "NVDA": {
   "news": [
    {
+    "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+    "url": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
+    "published": "2026-11-27T15:12:18Z",
+    "publisher": "Yahoo Finance",
+    "summary": "Wall Street is no longer running for the exits as chipmakers pull stocks off Wednesday's lows.",
+    "via": "Yahoo Finance"
+   },
+   {
     "title": "Why this portfolio manager says investors should 'avoid the neoclouds'",
     "url": "https://finance.yahoo.com/video/why-this-portfolio-manager-says-investors-should-avoid-the-neoclouds-160003179.html",
     "published": "2026-11-27T16:00:03Z",
@@ -11281,14 +11289,6 @@
     "published": "2026-11-27T15:22:36Z",
     "publisher": "Yahoo Finance Video",
     "summary": "Yahoo Finance Executive Editor Brian Sozzi shares a few thoughts on the latest flurry of Nvidia (NVDA)-related headlines.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
-    "url": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
-    "published": "2026-11-27T15:12:18Z",
-    "publisher": "Yahoo Finance",
-    "summary": "Wall Street is no longer running for the exits as chipmakers pull stocks off Wednesday's lows.",
     "via": "Yahoo Finance"
    },
    {
@@ -11561,7 +11561,7 @@
    "ex_dividend_date": "2026-12-02",
    "dividend_date": "2026-12-23"
   },
-  "_fetched": "2026-11-27T17:57:30Z"
+  "_fetched": "2026-11-27T22:14:20Z"
  },
  "AMZN": {
   "news": [

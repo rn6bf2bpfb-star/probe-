@@ -1,0 +1,114 @@
+{
+ "kind": "evening",
+ "title": "Abendbericht",
+ "date": "2026-11-27",
+ "time": "2026-11-27T22:14:27Z",
+ "sections": [
+  {
+   "title": "Zusammenfassung des Handelstages",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "DAX: +0,86 % (Woche +2,53 %)",
+    "MDAX: +1,60 % (Woche +3,45 %)",
+    "S&P 500: +1,69 % (Woche +1,79 %)",
+    "NASDAQ 100: +2,73 % (Woche +0,91 %)",
+    "Dow Jones: +1,24 % (Woche +3,48 %)",
+    "MSCI World: +0,94 % (Woche +3,50 %)",
+    "Gold: +3,93 % (Woche -0,29 %)",
+    "Silber: +9,63 % (Woche -0,92 %)",
+    "Öl (Brent): -4,77 % (Woche -2,04 %)",
+    "Bitcoin: -1,14 % (Woche -2,20 %)",
+    "Ethereum: -1,61 % (Woche -3,50 %)"
+   ]
+  },
+  {
+   "title": "Gewinner",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Tesla, Inc.: +5,32 %",
+    "Hensoldt AG: +4,89 %",
+    "Advanced Micro Devices, Inc.: +4,89 %",
+    "Amazon.com, Inc.: +4,01 %",
+    "Broadcom Inc.: +3,81 %"
+   ]
+  },
+  {
+   "title": "Verlierer",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Commerzbank AG: -2,49 %",
+    "Beiersdorf Aktiengesellschaft: -1,15 %",
+    "Hannover Rück SE: -0,94 %",
+    "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München: -0,68 %",
+    "Unilever PLC: -0,51 %"
+   ]
+  },
+  {
+   "title": "Dein virtuelles Depot",
+   "tag": "BESTÄTIGTE DATEN (Planspiel)",
+   "items": [
+    "Depotwert 10.000,00 € (+0,00 % seit Start), heute +0,00 €",
+    "Cash 10.000,00 €, 0 Positionen"
+   ]
+  },
+  {
+   "title": "Bewertung früherer Signale",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Heute wurden keine Signale fällig."
+   ]
+  },
+  {
+   "title": "Interessant für den nächsten Handelstag",
+   "tag": "EIGENE MODELLINTERPRETATION",
+   "items": [
+    "Apple Inc. (AAPL): STRONG BUY, Score 78, CRV 1.49, Unsicherheit niedrig",
+    "Costco Wholesale Corporation (COST): BUY, Score 73, CRV 1.34, Unsicherheit niedrig",
+    "MTU Aero Engines AG (MTX.DE): BUY, Score 72, CRV 2.0, Unsicherheit niedrig",
+    "Deutsche Börse AG (DB1.DE): BUY, Score 70, CRV 2.55, Unsicherheit niedrig",
+    "The Procter & Gamble Company (PG): BUY, Score 69, CRV 1.5, Unsicherheit niedrig",
+    "The Coca-Cola Company (KO): BUY, Score 69, CRV 0.91, Unsicherheit niedrig"
+   ]
+  }
+ ],
+ "environment": {
+  "verdict": "neutral",
+  "points": -0.3,
+  "explanation": "Gemischtes Bild: Es gibt Argumente in beide Richtungen. Selektiv vorgehen und Positionsgrößen vorsichtig wählen.",
+  "reasons": [
+   {
+    "text": "Eigener Stimmungsindikator bei 50/100 (neutral).",
+    "tag": "EIGENE MODELLINTERPRETATION",
+    "dir": "="
+   },
+   {
+    "text": "DAX: Trend seitwärts, Monat -2,3 %.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "="
+   },
+   {
+    "text": "S&P 500: Trend seitwärts, Monat -5,7 %.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "="
+   },
+   {
+    "text": "VIX 23,8 – Volatilität erhöht.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "="
+   },
+   {
+    "text": "EZB-Einlagesatz 2,50 % (Stand 2026-09-16, zuletzt erhöht).",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "-"
+   },
+   {
+    "text": "Inflation Euroraum 1,9 % (Ziel der EZB: 2 %, Stand 2025-12).",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "+"
+   }
+  ],
+  "tag": "EIGENE MODELLINTERPRETATION"
+ },
+ "demo": false,
+ "sources": []
+}
