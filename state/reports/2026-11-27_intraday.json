@@ -2,16 +2,16 @@
  "kind": "intraday",
  "title": "Zwischenbericht",
  "date": "2026-11-27",
- "time": "2026-11-27T17:05:53Z",
+ "time": "2026-11-27T17:57:37Z",
  "sections": [
   {
    "title": "Auffällige Kursbewegungen",
    "tag": "BESTÄTIGTE DATEN",
    "items": [
-    "▲ Tesla, Inc.: +5,00 %, Volumen 0,5×",
     "▲ Hensoldt AG: +4,89 %, Volumen 1,0×",
-    "▲ Amazon.com, Inc.: +3,79 %, Volumen 0,3×",
+    "▲ Tesla, Inc.: +4,83 %, Volumen 0,6×",
     "▲ Rheinmetall AG: +3,71 %, Volumen 1,1×",
+    "▲ Amazon.com, Inc.: +3,65 %, Volumen 0,4×",
     "▼ Commerzbank AG: -2,49 %, Volumen 3,6×",
     "▼ Beiersdorf Aktiengesellschaft: -1,15 %, Volumen 0,8×",
     "▼ Hannover Rück SE: -0,94 %, Volumen 0,5×",
@@ -22,20 +22,43 @@
    "title": "Neue Unternehmensnachrichten",
    "tag": "BESTÄTIGTE NACHRICHT",
    "items": [
-    "Keine neuen Meldungen für Depot und Watchlist."
+    {
+     "text": "NVDA: Why this portfolio manager says investors should 'avoid the neoclouds'",
+     "url": "https://finance.yahoo.com/video/why-this-portfolio-manager-says-investors-should-avoid-the-neoclouds-160003179.html",
+     "source": "Yahoo Finance Video"
+    },
+    {
+     "text": "NVDA: PacSun CEO talks brand resurgence, holiday shopping season boom",
+     "url": "https://finance.yahoo.com/video/pacsun-ceo-talks-brand-resurgence-holiday-shopping-season-boom-154316985.html",
+     "source": "Yahoo Finance Video"
+    },
+    {
+     "text": "NVDA: Can AI earn a spot in the creative world? Ja Rule think so.",
+     "url": "https://finance.yahoo.com/video/can-ai-earn-a-spot-in-the-creative-world-ja-rule-think-so-152828382.html",
+     "source": "Yahoo Finance Video"
+    },
+    {
+     "text": "NVDA: All these Nvidia headlines are just noise: Why you should keep watching AI spending",
+     "url": "https://finance.yahoo.com/video/all-these-nvidia-headlines-are-just-noise-why-you-should-keep-watching-ai-spending-152236102.html",
+     "source": "Yahoo Finance Video"
+    },
+    {
+     "text": "NVDA: Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+     "url": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html",
+     "source": "Yahoo Finance"
+    },
+    {
+     "text": "NVDA: Nvidia halts sales to SE Asia, SpaceX surges on Musk's share promise",
+     "url": "https://finance.yahoo.com/video/nvidia-halts-sales-to-se-asia-spacex-surges-on-musks-share-promise-151001061.html",
+     "source": "Yahoo Finance Video"
+    }
    ]
   },
   {
    "title": "Veränderte technische Lage & neue Signale",
    "tag": "EIGENE MODELLINTERPRETATION",
    "items": [
-    "Volkswagen AG (VOW3.DE, kurzfristig): HOLD → SELL",
-    "Siemens Energy AG (ENR.DE, kurzfristig): STRONG SELL → SELL",
-    "MTU Aero Engines AG (MTX.DE, kurzfristig): HOLD → BUY",
-    "HSBC Holdings plc (HSBA.L, kurzfristig): STRONG SELL → SELL",
-    "Apple Inc. (AAPL, kurzfristig): BUY → STRONG BUY",
-    "Oracle Corporation (ORCL, kurzfristig): STRONG SELL → SELL",
-    "Costco Wholesale Corporation (COST, kurzfristig): HOLD → BUY"
+    "Walmart Inc. (WMT, kurzfristig): HOLD → BUY"
    ]
   }
  ],
@@ -55,7 +78,7 @@
     "dir": "="
    },
    {
-    "text": "S&P 500: Trend seitwärts, Monat -6,0 %.",
+    "text": "S&P 500: Trend seitwärts, Monat -5,9 %.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "="
    },

@@ -1743,7 +1743,8 @@
   "risk_level": 254.6832448426763,
   "target_base": 229.36,
   "evaluations": {},
-  "status": "offen"
+  "status": "offen",
+  "stop_hit": "2026-11-27T00:00:00Z"
  },
  {
   "id": "AMZN|long|2026-11-26T16:25:38Z",
@@ -3848,6 +3849,24 @@
   "currency": "USD",
   "risk_level": 1078.1755343747989,
   "target_base": 1123.67,
+  "evaluations": {},
+  "status": "offen"
+ },
+ {
+  "id": "WMT|short|2026-11-27T17:57:36Z",
+  "symbol": "WMT",
+  "name": "Walmart Inc.",
+  "horizon": "short",
+  "rating": "BUY",
+  "prev_rating": "HOLD",
+  "score": 67,
+  "time": "2026-11-27T17:57:36Z",
+  "price": 132.9149932861328,
+  "price_time": "2026-11-27T17:45:00Z",
+  "price_quality": "verzögert",
+  "currency": "USD",
+  "risk_level": 130.1151857673065,
+  "target_base": 138.51460832378538,
   "evaluations": {},
   "status": "offen"
  }
