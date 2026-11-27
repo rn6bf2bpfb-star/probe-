@@ -2,20 +2,20 @@
  "kind": "intraday",
  "title": "Zwischenbericht",
  "date": "2026-11-27",
- "time": "2026-11-27T11:57:48Z",
+ "time": "2026-11-27T13:14:26Z",
  "sections": [
   {
    "title": "Auffällige Kursbewegungen",
    "tag": "BESTÄTIGTE DATEN",
    "items": [
-    "▲ Hensoldt AG: +4,89 %, Volumen 0,3×",
-    "▲ ASML Holding N.V.: +4,19 %, Volumen 0,2×",
-    "▲ Infineon Technologies AG: +3,53 %, Volumen 0,2×",
-    "▲ Rheinmetall AG: +3,46 %, Volumen 0,6×",
+    "▲ Hensoldt AG: +5,79 %, Volumen 0,4×",
+    "▲ ASML Holding N.V.: +4,43 %, Volumen 0,2×",
+    "▲ Infineon Technologies AG: +3,80 %, Volumen 0,2×",
+    "▲ Rheinmetall AG: +3,76 %, Volumen 0,7×",
     "▼ Oracle Corporation: -5,12 %, Volumen 0,9×",
     "▼ NVIDIA Corporation: -3,93 %, Volumen 1,1×",
-    "▼ Commerzbank AG: -3,27 %, Volumen 1,2×",
-    "▼ Amazon.com, Inc.: -3,19 %, Volumen 1,2×"
+    "▼ Amazon.com, Inc.: -3,19 %, Volumen 1,2×",
+    "▼ Alphabet Inc.: -2,18 %, Volumen 0,9×"
    ]
   },
   {
@@ -29,26 +29,23 @@
    "title": "Veränderte technische Lage & neue Signale",
    "tag": "EIGENE MODELLINTERPRETATION",
    "items": [
-    "Mercedes-Benz Group AG (MBG.DE, kurzfristig): SELL → STRONG SELL",
-    "Bayer Aktiengesellschaft (BAYN.DE, kurzfristig): BUY → HOLD",
-    "Deutsche Börse AG (DB1.DE, kurzfristig): HOLD → BUY",
-    "Siemens Energy AG (ENR.DE, kurzfristig): SELL → STRONG SELL",
-    "Symrise AG (SY1.DE, kurzfristig): STRONG BUY → BUY",
-    "LVMH Moët Hennessy - Louis Vuitton, Société Européenne (MC.PA, kurzfristig): HOLD → SELL",
-    "HSBC Holdings plc (HSBA.L, kurzfristig): SELL → STRONG SELL",
-    "Amazon.com, Inc. (AMZN, kurzfristig): HOLD → SELL",
-    "Broadcom Inc. (AVGO, kurzfristig): SELL → STRONG SELL",
-    "Advanced Micro Devices, Inc. (AMD, kurzfristig): HOLD → SELL"
+    "Mercedes-Benz Group AG (MBG.DE, kurzfristig): STRONG SELL → SELL",
+    "Bayer Aktiengesellschaft (BAYN.DE, kurzfristig): HOLD → BUY",
+    "Commerzbank AG (CBK.DE, kurzfristig): HOLD → SELL",
+    "Beiersdorf Aktiengesellschaft (BEI.DE, kurzfristig): HOLD → BUY",
+    "Advanced Micro Devices, Inc. (AMD, kurzfristig): SELL → HOLD",
+    "Oracle Corporation (ORCL, kurzfristig): SELL → STRONG SELL",
+    "Johnson & Johnson (JNJ, kurzfristig): HOLD → BUY"
    ]
   }
  ],
  "environment": {
   "verdict": "negativ",
-  "points": -1.58,
+  "points": -1.62,
   "explanation": "Das Umfeld ist angespannt: schwache Trends oder hohe Unsicherheit. Risiko reduzieren und Signale strenger prüfen.",
   "reasons": [
    {
-    "text": "Eigener Stimmungsindikator bei 43/100 (Angst).",
+    "text": "Eigener Stimmungsindikator bei 42/100 (Angst).",
     "tag": "EIGENE MODELLINTERPRETATION",
     "dir": "-"
    },
@@ -63,7 +60,7 @@
     "dir": "="
    },
    {
-    "text": "VIX 25,1 – Volatilität erhöht.",
+    "text": "VIX 25,2 – Volatilität erhöht.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "-"
    },

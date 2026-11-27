@@ -2836,5 +2836,73 @@
    "push",
    "dashboard"
   ]
+ },
+ {
+  "id": "sig|BEI.DE|short|BUY|2026-11-27|2026-11-27T13:14:26Z",
+  "dedupe": "sig|BEI.DE|short|BUY|2026-11-27",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "BEI.DE",
+  "name": "Beiersdorf Aktiengesellschaft",
+  "title": "AKTIENALARM – Beiersdorf Aktiengesellschaft",
+  "headline": "Neues Kaufszenario (kurzfristig): HOLD → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "BEI.DE",
+   "price": 82.4000015258789,
+   "currency": "EUR",
+   "time": "2026-11-27T12:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 83.54000091552734
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Trend aufwärts: Kurs 2,1 % über SMA 50, 5,4 % über SMA 200, SMA 20 bei 82,93; Golden Cross (SMA 50 über SMA 200) in den letzten 20 Tagen; RSI 52: positives Momentum ohne Überhitzung. Dagegen: Kurs direkt unter Widerstand 82,94 – Ausbruch noch nicht bestätigt.",
+  "risk": "Kurs direkt unter Widerstand 82,94 – Ausbruch noch nicht bestätigt.; Nächster Zahlentermin laut Yahoo: 2026-10-27 – Gap-Risiko.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-27T12:45:00Z",
+  "created": "2026-11-27T13:14:26Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "sig|JNJ|short|BUY|2026-11-27|2026-11-27T13:14:26Z",
+  "dedupe": "sig|JNJ|short|BUY|2026-11-27",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "JNJ",
+  "name": "Johnson & Johnson",
+  "title": "AKTIENALARM – Johnson & Johnson",
+  "headline": "Neues Kaufszenario (kurzfristig): HOLD → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "JNJ",
+   "price": 273.94000244140625,
+   "currency": "USD",
+   "time": "2026-11-25T20:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "Schlusskurs",
+   "prev_close": 276.4599914550781
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Trend aufwärts: Kurs 2,3 % über SMA 50, 9,0 % über SMA 200, SMA 20 bei 275,73; RSI 51: positives Momentum ohne Überhitzung; Relative Stärke 6 Monate: +23,7 % gegenüber dem Vergleichsindex. Dagegen: Kurs direkt unter Widerstand 275,53 – Ausbruch noch nicht bestätigt.",
+  "risk": "Kurs direkt unter Widerstand 275,53 – Ausbruch noch nicht bestätigt.; Nächster Zahlentermin laut Yahoo: 2027-01-26 – Gap-Risiko.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-25T20:45:00Z",
+  "created": "2026-11-27T13:14:26Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
  }
 ]

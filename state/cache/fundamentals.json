@@ -90,7 +90,7 @@
    }
   ],
   "_source": "Yahoo Finance",
-  "_fetched": "2026-11-26T16:22:32Z"
+  "_fetched": "2026-11-27T13:12:52Z"
  },
  "SIE.DE": {
   "name": "Siemens Aktiengesellschaft",
@@ -1308,10 +1308,10 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "country": "Germany",
-  "market_cap": 35925073920,
-  "pe": 27.086557,
-  "forward_pe": 15.73057,
-  "pb": 6.725552,
+  "market_cap": 37077778432,
+  "pe": 27.955666,
+  "forward_pe": 16.235306,
+  "pb": 6.94135,
   "peg": 0.3567,
   "eps": 28.42,
   "revenue": 12254000128,
@@ -1325,7 +1325,7 @@
   "total_cash": 636000000,
   "free_cashflow": 806515008,
   "operating_cashflow": 1412999936,
-  "dividend_yield": 0.015700000000000002,
+  "dividend_yield": 0.015600000000000001,
   "payout_ratio": 0.3976,
   "beta": 0.449,
   "analyst_target_mean": 1282.591,
@@ -1392,7 +1392,7 @@
    }
   ],
   "_source": "Yahoo Finance",
-  "_fetched": "2026-11-26T16:22:48Z"
+  "_fetched": "2026-11-27T13:12:53Z"
  },
  "ADS.DE": {
   "name": "adidas AG",
@@ -4461,7 +4461,7 @@
    }
   ],
   "_source": "Yahoo Finance",
-  "_fetched": "2026-11-26T16:23:25Z"
+  "_fetched": "2026-11-27T13:12:54Z"
  },
  "AMZN": {
   "name": "Amazon.com, Inc.",
