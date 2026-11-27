@@ -2,16 +2,16 @@
  "kind": "intraday",
  "title": "Zwischenbericht",
  "date": "2026-11-27",
- "time": "2026-11-27T09:02:43Z",
+ "time": "2026-11-27T10:06:16Z",
  "sections": [
   {
    "title": "Auffällige Kursbewegungen",
    "tag": "BESTÄTIGTE DATEN",
    "items": [
-    "▲ Hensoldt AG: +5,49 %, Volumen 0,1×",
-    "▲ Rheinmetall AG: +5,37 %, Volumen 0,2×",
-    "▲ ASML Holding N.V.: +5,07 %, Volumen 0,1×",
-    "▲ Infineon Technologies AG: +4,85 %, Volumen 0,1×",
+    "▲ Infineon Technologies AG: +5,16 %, Volumen 0,1×",
+    "▲ ASML Holding N.V.: +5,02 %, Volumen 0,1×",
+    "▲ Hensoldt AG: +4,69 %, Volumen 0,2×",
+    "▲ Siemens Energy AG: +4,05 %, Volumen 0,1×",
     "▼ Oracle Corporation: -5,12 %, Volumen 0,9×",
     "▼ NVIDIA Corporation: -3,92 %, Volumen 1,1×",
     "▼ Amazon.com, Inc.: -3,19 %, Volumen 1,2×",
@@ -29,31 +29,24 @@
    "title": "Veränderte technische Lage & neue Signale",
    "tag": "EIGENE MODELLINTERPRETATION",
    "items": [
-    "Allianz SE (ALV.DE, kurzfristig): BUY → HOLD",
-    "Mercedes-Benz Group AG (MBG.DE, kurzfristig): STRONG SELL → SELL",
-    "Volkswagen AG (VOW3.DE, kurzfristig): SELL → HOLD",
-    "Bayer Aktiengesellschaft (BAYN.DE, kurzfristig): HOLD → BUY",
-    "Rheinmetall AG (RHM.DE, kurzfristig): STRONG SELL → SELL",
-    "Deutsche Börse AG (DB1.DE, kurzfristig): HOLD → BUY",
-    "Siemens Energy AG (ENR.DE, kurzfristig): STRONG SELL → SELL",
-    "Beiersdorf Aktiengesellschaft (BEI.DE, kurzfristig): BUY → HOLD",
-    "PUMA SE (PUM.DE, kurzfristig): HOLD → SELL",
-    "Hensoldt AG (HAG.DE, langfristig): HOLD → BUY"
+    "Volkswagen AG (VOW3.DE, kurzfristig): HOLD → SELL",
+    "Commerzbank AG (CBK.DE, kurzfristig): SELL → HOLD",
+    "PUMA SE (PUM.DE, kurzfristig): SELL → HOLD"
    ]
   }
  ],
  "environment": {
   "verdict": "neutral",
-  "points": -0.54,
+  "points": -0.58,
   "explanation": "Gemischtes Bild: Es gibt Argumente in beide Richtungen. Selektiv vorgehen und Positionsgrößen vorsichtig wählen.",
   "reasons": [
    {
-    "text": "Eigener Stimmungsindikator bei 44/100 (Angst).",
+    "text": "Eigener Stimmungsindikator bei 43/100 (Angst).",
     "tag": "EIGENE MODELLINTERPRETATION",
     "dir": "-"
    },
    {
-    "text": "DAX: Trend seitwärts, Monat -2,3 %.",
+    "text": "DAX: Trend seitwärts, Monat -2,4 %.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "="
    },
@@ -63,7 +56,7 @@
     "dir": "="
    },
    {
-    "text": "VIX 24,7 – Volatilität erhöht.",
+    "text": "VIX 24,9 – Volatilität erhöht.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "="
    },
