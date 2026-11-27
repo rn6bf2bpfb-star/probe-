@@ -3869,5 +3869,23 @@
   "target_base": 138.51460832378538,
   "evaluations": {},
   "status": "offen"
+ },
+ {
+  "id": "MSFT|short|2026-11-27T18:57:13Z",
+  "symbol": "MSFT",
+  "name": "Microsoft Corporation",
+  "horizon": "short",
+  "rating": "BUY",
+  "prev_rating": "HOLD",
+  "score": 63,
+  "time": "2026-11-27T18:57:13Z",
+  "price": 493.3800048828125,
+  "price_time": "2026-11-27T17:45:00Z",
+  "price_quality": "verzögert",
+  "currency": "USD",
+  "risk_level": 476.87462570503027,
+  "target_base": 526.390763238377,
+  "evaluations": {},
+  "status": "offen"
  }
 ]

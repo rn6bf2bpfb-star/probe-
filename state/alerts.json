@@ -3995,5 +3995,105 @@
   "delivered": [
    "dashboard"
   ]
+ },
+ {
+  "id": "sig|MSFT|short|BUY|2026-11-27|2026-11-27T18:57:13Z",
+  "dedupe": "sig|MSFT|short|BUY|2026-11-27",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "MSFT",
+  "name": "Microsoft Corporation",
+  "title": "AKTIENALARM – Microsoft Corporation",
+  "headline": "Neues Kaufszenario (kurzfristig): HOLD → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "MSFT",
+   "price": 493.3800048828125,
+   "currency": "USD",
+   "time": "2026-11-27T17:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 489.92999267578125
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Relative Stärke 6 Monate: +13,2 % gegenüber dem Vergleichsindex; Kurs nahe Unterstützung 486,00 (0,4 ATR entfernt) – günstiges Chance-Risiko möglich; 10 Meldungen der letzten 7 Tage: 3 positiv, 0 negativ, Rest neutral (Stichwortanalyse). Dagegen: keine klaren negativen Faktoren.",
+  "risk": "Nächster Zahlentermin laut Yahoo: 2027-01-27 – Gap-Risiko.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-27T17:45:00Z",
+  "created": "2026-11-27T18:57:13Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "mv|AMZN|2026-11-27|up|2026-11-27T18:57:13Z",
+  "dedupe": "mv|AMZN|2026-11-27|up",
+  "kind": "strong_move",
+  "priority": "LOW",
+  "symbol": "AMZN",
+  "name": "Amazon.com, Inc.",
+  "title": "AKTIENALARM – Amazon.com, Inc.",
+  "headline": "Starke Kursbewegung: +4,0 % zum Vortag",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "AMZN",
+   "price": 254.24000549316406,
+   "currency": "USD",
+   "time": "2026-11-27T17:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 244.42999267578125
+  },
+  "reason": "Jüngste Meldung: „Does Qualcomm Stock Have A Future?“ (Trefis).",
+  "risk": "Starke Bewegungen setzen sich nicht zwingend fort; Kurslücken möglich.",
+  "todo": "Ursache in den Nachrichten prüfen, nicht impulsiv handeln.",
+  "source": "Yahoo Finance",
+  "info_time": "2026-11-27T17:45:00Z",
+  "created": "2026-11-27T18:57:13Z",
+  "tag": "BESTÄTIGTE DATEN",
+  "link": null,
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "mv|AMD|2026-11-27|up|2026-11-27T18:57:13Z",
+  "dedupe": "mv|AMD|2026-11-27|up",
+  "kind": "strong_move",
+  "priority": "LOW",
+  "symbol": "AMD",
+  "name": "Advanced Micro Devices, Inc.",
+  "title": "AKTIENALARM – Advanced Micro Devices, Inc.",
+  "headline": "Starke Kursbewegung: +4,9 % zum Vortag",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "AMD",
+   "price": 425.864990234375,
+   "currency": "USD",
+   "time": "2026-11-27T17:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 406.0299987792969
+  },
+  "reason": "Jüngste Meldung: „Broadcom Makes More AI Money Than AMD—So Why Is AMD’s Stock Crushing It?“ (24/7 Wall St.).",
+  "risk": "Starke Bewegungen setzen sich nicht zwingend fort; Kurslücken möglich.",
+  "todo": "Ursache in den Nachrichten prüfen, nicht impulsiv handeln.",
+  "source": "Yahoo Finance",
+  "info_time": "2026-11-27T17:45:00Z",
+  "created": "2026-11-27T18:57:13Z",
+  "tag": "BESTÄTIGTE DATEN",
+  "link": null,
+  "delivered": [
+   "dashboard"
+  ]
  }
 ]
