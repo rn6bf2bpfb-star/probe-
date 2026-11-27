@@ -1,0 +1,130 @@
+{
+ "kind": "morning",
+ "title": "Morgenbericht",
+ "date": "2026-11-27",
+ "time": "2026-11-27T07:16:25Z",
+ "sections": [
+  {
+   "title": "Was ist über Nacht passiert?",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "S&P 500: letzter Schluss -0,25 % (2026-11-25 20:45 UTC)",
+    "NASDAQ 100: letzter Schluss -0,63 % (2026-11-25 20:45 UTC)",
+    "Dow Jones: letzter Schluss +0,32 % (2026-11-25 20:45 UTC)"
+   ]
+  },
+  {
+   "title": "Internationale Märkte",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Nikkei 225: +2,12 %, Trend seitwärts",
+    "Hang Seng: +2,02 %, Trend abwärts",
+    "Shanghai Composite: +3,76 %, Trend abwärts",
+    "S&P-500-Future: +1,68 %, Trend seitwärts",
+    "Nasdaq-100-Future: +2,54 %, Trend seitwärts"
+   ]
+  },
+  {
+   "title": "Wichtige Nachrichten (Depot & Watchlist)",
+   "tag": "BESTÄTIGTE NACHRICHT",
+   "items": [
+    {
+     "text": "NVDA: The tiny Dutch town being overwhelmed by an AI boom",
+     "url": "https://www.telegraph.co.uk/business/2026/11/27/the-tiny-dutch-town-being-overwhelmed-by-an-ai-boom/",
+     "source": "The Telegraph"
+    },
+    {
+     "text": "NVDA: Morning Bid: Is this a dead turkey bounce?",
+     "url": "https://finance.yahoo.com/markets/articles/morning-bid-dead-turkey-bounce-053441037.html",
+     "source": "Reuters"
+    },
+    {
+     "text": "NVDA: Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html",
+     "source": "Simply Wall St."
+    },
+    {
+     "text": "NVDA: Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+     "source": "Investor's Business Daily"
+    },
+    {
+     "text": "NVDA: Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html",
+     "source": "Simply Wall St."
+    },
+    {
+     "text": "NVDA: Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+     "url": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html",
+     "source": "Investing.com"
+    }
+   ]
+  },
+  {
+   "title": "Aktien im Fokus",
+   "tag": "EIGENE MODELLINTERPRETATION",
+   "items": [
+    "Unilever PLC (ULVR.L): BUY kurzfristig, Score 72 – Trend aufwärts: Kurs 5,1 % über SMA 50, 9,1 % über SMA 200, SMA 20 bei 4.938,07.",
+    "Merck KGaA (MRK.DE): BUY kurzfristig, Score 68 – Trend aufwärts: Kurs 3,9 % über SMA 50, 13,1 % über SMA 200, SMA 20 bei 149,38.",
+    "Beiersdorf Aktiengesellschaft (BEI.DE): BUY kurzfristig, Score 67 – Trend aufwärts: Kurs 3,6 % über SMA 50, 6,5 % über SMA 200, SMA 20 bei 82,94.",
+    "Apple Inc. (AAPL): BUY kurzfristig, Score 66 – Trend aufwärts: Kurs 3,7 % über SMA 50, 16,8 % über SMA 200, SMA 20 bei 348,67.",
+    "The Procter & Gamble Company (PG): BUY kurzfristig, Score 66 – Trend aufwärts: Kurs 9,4 % über SMA 50, 15,1 % über SMA 200, SMA 20 bei 167,88.",
+    "The Coca-Cola Company (KO): BUY kurzfristig, Score 66 – Trend aufwärts: Kurs 5,7 % über SMA 50, 15,9 % über SMA 200, SMA 20 bei 96,62."
+   ]
+  },
+  {
+   "title": "Termine heute und morgen",
+   "tag": "BESTÄTIGTE DATEN",
+   "items": [
+    "Keine eingetragenen Termine."
+   ]
+  },
+  {
+   "title": "Mögliche Risiken heute",
+   "tag": "EIGENE MODELLINTERPRETATION",
+   "items": [
+    "VIX bei 26,8 – erhöhte Schwankungen möglich."
+   ]
+  }
+ ],
+ "environment": {
+  "verdict": "negativ",
+  "points": -1.66,
+  "explanation": "Das Umfeld ist angespannt: schwache Trends oder hohe Unsicherheit. Risiko reduzieren und Signale strenger prüfen.",
+  "reasons": [
+   {
+    "text": "Eigener Stimmungsindikator bei 41/100 (Angst).",
+    "tag": "EIGENE MODELLINTERPRETATION",
+    "dir": "-"
+   },
+   {
+    "text": "DAX: Trend seitwärts, Monat -1,8 %.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "="
+   },
+   {
+    "text": "S&P 500: Trend seitwärts, Monat -7,0 %.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "="
+   },
+   {
+    "text": "VIX 26,8 – Volatilität erhöht.",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "-"
+   },
+   {
+    "text": "EZB-Einlagesatz 2,50 % (Stand 2026-09-16, zuletzt erhöht).",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "-"
+   },
+   {
+    "text": "Inflation Euroraum 1,9 % (Ziel der EZB: 2 %, Stand 2025-12).",
+    "tag": "BESTÄTIGTE DATEN",
+    "dir": "+"
+   }
+  ],
+  "tag": "EIGENE MODELLINTERPRETATION"
+ },
+ "demo": false,
+ "sources": []
+}

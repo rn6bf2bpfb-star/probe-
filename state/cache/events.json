@@ -239,7 +239,7 @@
    "earnings_date": "2027-01-28",
    "ex_dividend_date": "2026-05-06"
   },
-  "_fetched": "2026-11-26T20:03:57Z"
+  "_fetched": "2026-11-27T07:16:16Z"
  },
  "SIE.DE": {
   "news": [
@@ -3353,6 +3353,14 @@
  "RHM.DE": {
   "news": [
    {
+    "title": "3 European Defense Stocks With Backlogs Built For Long Term Security Spending",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-european-defense-stocks-backlogs-061244848.html",
+    "published": "2026-11-27T06:12:44Z",
+    "publisher": "Simply Wall St.",
+    "summary": "Markets rarely get a clear signal on war and peace, yet the Trump-NATO statement on Russia, the high profile Trump-Putin-Xi meeting and renewed strikes on Ukrainian energy infrastructure have all landed at once. That mix of relief, doubt and hard reality is now being priced into European Defense and",
+    "via": "Yahoo Finance"
+   },
+   {
     "title": "European Indexes Open Sharply Higher After U.S. Recovery",
     "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?siteid=yhoof2&yptr=yahoo",
     "published": "2026-11-26T08:35:00Z",
@@ -3422,14 +3430,6 @@
     "published": "2026-11-05T16:15:12Z",
     "publisher": "MarketBeat",
     "summary": "Rheinmetall (ETR:RHM) reported third-quarter sales growth of 36% but lowered its full-year outlook as a major German vehicle contract and acceptance tests for artillery ammunition are expected to slip into 2027. Sales rose to more than €3.1 billion in the quarter, while operating profit increased 6",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Rheinmetall Stock Tumbles After Delays Prompt Another Guidance Cut",
-    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/rheinmetall-stock-tumbles-after-delays-prompt-another-guidance-cut-lxQVJMOzD5BQJ4IB8rvW?siteid=yhoof2&yptr=yahoo",
-    "published": "2026-11-05T11:10:54Z",
-    "publisher": "The Wall Street Journal",
-    "summary": "German weapons maker Rheinmetall warned of delays to a key order of armored vehicles, sending its share price sliding 16%.",
     "via": "Yahoo Finance"
    }
   ],
@@ -3590,7 +3590,7 @@
    "earnings_date": "2026-11-05",
    "ex_dividend_date": "2026-05-13"
   },
-  "_fetched": "2026-11-26T20:03:58Z"
+  "_fetched": "2026-11-27T07:16:17Z"
  },
  "ADS.DE": {
   "news": [
@@ -11252,83 +11252,83 @@
  "NVDA": {
   "news": [
    {
-    "title": "Will Jensen Huang's second act as Nvidia CEO be different?",
-    "url": "https://finance.yahoo.com/video/jensen-huangs-second-act-nvidia-140000599.html",
-    "published": "2026-11-26T14:00:00Z",
-    "publisher": "Yahoo Finance Video",
-    "summary": "In the Loop host Ejaaz Ahamadeen takes a look at the Nvidia (NVDA) leadership saga as Jensen Huang steps back into his CEO role. Ahamadeen explores how Huang's leadership style and strategic vision could evolve in his second act, and why the outlook for the AI chip giant remains bright.",
+    "title": "The tiny Dutch town being overwhelmed by an AI boom",
+    "url": "https://www.telegraph.co.uk/business/2026/11/27/the-tiny-dutch-town-being-overwhelmed-by-an-ai-boom/",
+    "published": "2026-11-27T06:00:00Z",
+    "publisher": "The Telegraph",
+    "summary": "Situated 80 miles south of Amsterdam and home to just 48,000 residents, Veldhoven may be unfamiliar to most Britons. But this tiny Dutch town is at the epicentre of Europe’s AI industry.",
     "via": "Yahoo Finance"
    },
    {
-    "title": "Jensen Huang 'absolutely could be fired again,' legal expert says",
-    "url": "https://finance.yahoo.com/video/jensen-huang-absolutely-could-fired-130000374.html",
-    "published": "2026-11-26T13:00:00Z",
-    "publisher": "Yahoo Finance Video",
-    "summary": "Gil Soffer of Katten Soffer speaks with Yahoo Finance Executive Editor Brian Sozzi about how the investigation into Nvidia CEO Jensen Huang could take, whether he could shut it down, and the worst-case outcomes he faces.",
+    "title": "The tiny Dutch town being overwhelmed by an AI boom",
+    "url": "https://uk.finance.yahoo.com/news/tiny-dutch-town-being-overwhelmed-060000999.html",
+    "published": "2026-11-27T06:00:00Z",
+    "publisher": "The Telegraph",
+    "summary": "Situated 80 miles south of Amsterdam and home to just 48,000 residents, Veldhoven may be unfamiliar to most Britons. But this tiny Dutch town is at the epicentre of Europe’s AI industry.",
     "via": "Yahoo Finance"
    },
    {
-    "title": "5 things I'm thankful for in AI",
-    "url": "https://finance.yahoo.com/video/5-things-im-thankful-ai-120000522.html",
-    "published": "2026-11-26T12:00:00Z",
-    "publisher": "Yahoo Finance Video",
-    "summary": "Happy Thanksgiving. Host Ejaaz Ahamadeen counts five things he's grateful for in AI: Jensen Huang back at Nvidia, open-source AI back on the table, Google breaking up the two-horse race, Anthropic's record-breaking IPO and how fast AI is getting smarter and cheaper. Then he gets to the part that wor",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?",
-    "url": "https://www.fool.com/investing/2026/11/26/anthropic-stock-is-now-trading-as-ant-should-you-buy-today-or-wait/",
-    "published": "2026-11-26T19:50:02Z",
-    "publisher": "Motley Fool",
-    "summary": "Tech stock IPOs have a long history of disappointing early investors.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "I'd Buy Anthropic Stock Early — but Only If I Liked the Answers to These 3 Questions",
-    "url": "https://www.fool.com/investing/2026/11/26/id-buy-anthropic-stock-on-day-1-but-only-if-you-can-answer-these-3-questions/",
-    "published": "2026-11-26T19:37:02Z",
-    "publisher": "Motley Fool",
-    "summary": "The AI lab's revenue is soaring, but the outlook for its profitability and valuation will determine whether the stock is worth buying at current prices.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Caterpillar's $78 Billion Backlog, Explained",
-    "url": "https://www.fool.com/investing/2026/11/26/caterpillar-s-usd78-billion-backlog-explained/",
-    "published": "2026-11-26T18:57:02Z",
-    "publisher": "Motley Fool",
-    "summary": "Caterpillar's order backlog nearly doubled over the past year, yet shares are trading at just 16.5 times forward earnings. See how this $78 billion unfilled order list sets up the industrial giant for long-term sales growth.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies",
-    "url": "https://www.fool.com/investing/2026/11/26/better-defense-stock-to-own-in-2027-lockheed-martin-vs-l3harris-technologies/",
-    "published": "2026-11-26T18:52:02Z",
-    "publisher": "Motley Fool",
-    "summary": "Lockheed Martin and L3Harris Technologies are defense contractors with huge backlogs.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips",
-    "url": "https://www.yahoo.com/news/articles/kazakhstan-boosts-ai-cooperation-russia-184835193.html",
-    "published": "2026-11-26T18:48:35Z",
+    "title": "Morning Bid: Is this a dead turkey bounce?",
+    "url": "https://finance.yahoo.com/markets/articles/morning-bid-dead-turkey-bounce-053441037.html",
+    "published": "2026-11-27T05:34:41Z",
     "publisher": "Reuters",
-    "summary": "By Gleb Bryanski MOSCOW, Nov 26 (Reuters) - Kazakhstan's President Kassym-Jomart Tokayev advanced his country's AI ambitions at Russia's main AI conference on Thursday, telling President Vladimir",
+    "summary": "A look at the day ahead in European and global markets from Stella Qiu With Wall Street off for Thanksgiving, Asian shares found some holiday cheer, bouncing back after a bruising month when investors",
     "via": "Yahoo Finance"
    },
    {
-    "title": "This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street",
-    "url": "https://www.fool.com/investing/2026/11/26/this-oversold-artificial-intelligence-ai-stock-will-skyrocket-123-in-2027-according-to-wall-street/",
-    "published": "2026-11-26T18:47:02Z",
+    "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html",
+    "published": "2026-11-27T05:14:09Z",
+    "publisher": "Simply Wall St.",
+    "summary": "Nvidia reinstated founder Jensen Huang as CEO and president in late November while multiple US investigations into export controls, governance and disclosure practices continue. Kioxia also announced a collaboration with Nvidia to use SCADA software and high performance SSDs to extend effective GPU ",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/?src=A00220&yptr=yahoo",
+    "published": "2026-11-27T04:23:58Z",
+    "publisher": "Investor's Business Daily",
+    "summary": "Futures rose on Thanksgiving after a wild market session, with the Nasdaq rallying off lows and Anthropic reversing higher.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html",
+    "published": "2026-11-27T04:23:01Z",
+    "publisher": "Simply Wall St.",
+    "summary": "Analysts have reset their fair value estimate for Nvidia from about US$320 to about US$242, which marks a clear change in how the stock’s long term potential is being framed. This shift comes alongside fresh Street research that points to renewed confidence in Jensen Huang’s leadership and AI execut",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+    "url": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html",
+    "published": "2026-11-27T04:14:19Z",
+    "publisher": "Investing.com",
+    "summary": "Investing.com-- Singapore has not yet confirmed whether Nvidia has stopped supplying advanced chips to the country, Deputy Prime Minister Gan Kim Yong said on Friday.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Neoclouds Told To Choose: Nvidia Chips Or Chinese Customers",
+    "url": "https://finance.yahoo.com/technology/articles/neoclouds-told-choose-nvidia-chips-041120920.html",
+    "published": "2026-11-27T04:11:20Z",
+    "publisher": "Benzinga",
+    "summary": "Nvidia Corp. (NASDAQ:NVDA) chip sellers are reportedly barring neoclouds from buying GPUs if Chinese firms rent any capacity, after a Commerce Department rule restricting remote access to AI chips took effect Nov. 19. Commerce Rule Targets Remote Access Loophole Chip sellers relayed the message to n",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130?",
+    "url": "https://www.fool.com/investing/2026/11/26/amazon-lost-40-satellites-on-a-boeing-lockheed-rocket-in-november-spacex-is-the-only-company-that-can-fix-amazon-s-problem-is-the-stock-a-buy-near-usd130/",
+    "published": "2026-11-27T03:53:02Z",
     "publisher": "Motley Fool",
-    "summary": "DigitalOcean's improving growth trajectory should translate into a big jump in the stock price next year.",
+    "summary": "The failed launch is a blow to Amazon's plans, but SpaceX isn't going out of its way to help other companies.",
     "via": "Yahoo Finance"
    },
    {
-    "title": "Arista Networks Stocks Fall 2.71% as AI Networking Gets Caught in Chip Rout",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stocks-fall-2-183806415.html",
-    "published": "2026-11-26T18:38:06Z",
-    "publisher": "GuruFocus.com",
-    "summary": "The data center switch maker slipped with semiconductors, while GuruFocus still rates it a perfect 100 and modestly undervalued.",
+    "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+    "url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
+    "published": "2026-11-27T03:21:49Z",
+    "publisher": "Insider Monkey",
+    "summary": "Quantum computing is entering a consequential period as technology companies work to turn experimental processors into systems capable of solving commercially relevant problems. The competition increasingly extends beyond building more qubits to improving their reliability, reducing error-correction",
     "via": "Yahoo Finance"
    }
   ],
@@ -11561,7 +11561,7 @@
    "ex_dividend_date": "2026-12-02",
    "dividend_date": "2026-12-23"
   },
-  "_fetched": "2026-11-26T20:03:59Z"
+  "_fetched": "2026-11-27T07:16:18Z"
  },
  "AMZN": {
   "news": [

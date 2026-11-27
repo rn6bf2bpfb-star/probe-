@@ -2788,5 +2788,41 @@
   "target_base": 56.64457936209382,
   "evaluations": {},
   "status": "offen"
+ },
+ {
+  "id": "BAYN.DE|short|2026-11-27T07:16:25Z",
+  "symbol": "BAYN.DE",
+  "name": "Bayer Aktiengesellschaft",
+  "horizon": "short",
+  "rating": "HOLD",
+  "prev_rating": "BUY",
+  "score": 62,
+  "time": "2026-11-27T07:16:25Z",
+  "price": 52.900001525878906,
+  "price_time": "2026-11-26T16:15:00Z",
+  "price_quality": "Schlusskurs",
+  "currency": "EUR",
+  "risk_level": 50.0759984035387,
+  "target_base": 56.59600791172412,
+  "evaluations": {},
+  "status": "nicht bewertet (HOLD)"
+ },
+ {
+  "id": "NVDA|short|2026-11-27T07:16:25Z",
+  "symbol": "NVDA",
+  "name": "NVIDIA Corporation",
+  "horizon": "short",
+  "rating": "SELL",
+  "prev_rating": "HOLD",
+  "score": 33,
+  "time": "2026-11-27T07:16:25Z",
+  "price": 149.2899932861328,
+  "price_time": "2026-11-25T20:45:00Z",
+  "price_quality": "Schlusskurs",
+  "currency": "USD",
+  "risk_level": 170.96151737238281,
+  "target_base": 122.52392379660157,
+  "evaluations": {},
+  "status": "offen"
  }
 ]
