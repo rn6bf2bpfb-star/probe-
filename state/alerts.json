@@ -2776,5 +2776,65 @@
   "delivered": [
    "dashboard"
   ]
+ },
+ {
+  "id": "sig|SY1.DE|short|BUY|2026-11-27|2026-11-27T11:57:47Z",
+  "dedupe": "sig|SY1.DE|short|BUY|2026-11-27",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "SY1.DE",
+  "name": "Symrise AG",
+  "title": "AKTIENALARM – Symrise AG",
+  "headline": "Neues Kaufszenario (kurzfristig): STRONG BUY → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "SY1.DE",
+   "price": 96.80000305175781,
+   "currency": "EUR",
+   "time": "2026-11-27T11:30:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 97.18000030517578
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Trend aufwärts: Kurs 1,7 % über SMA 50, 13,9 % über SMA 200, SMA 20 bei 95,71; RSI 54: positives Momentum ohne Überhitzung; MACD hat die Signallinie frisch nach oben gekreuzt. Dagegen: keine klaren negativen Faktoren.",
+  "risk": "Marktumfeld insgesamt negativ – Einzelwerte werden oft mitgerissen.; Chance-Risiko-Verhältnis nur 1,28 bis zum Basisszenario – wenig Puffer.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-27T11:30:00Z",
+  "created": "2026-11-27T11:57:47Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "env|negativ|2026-11-27|2026-11-27T11:57:47Z",
+  "dedupe": "env|negativ|2026-11-27",
+  "kind": "environment",
+  "priority": "MEDIUM",
+  "symbol": "MARKT",
+  "name": "Marktumfeld",
+  "title": "HINWEIS – Marktumfeld",
+  "headline": "Marktumfeld jetzt negativ (vorher neutral)",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": null,
+  "reason": "Das Umfeld ist angespannt: schwache Trends oder hohe Unsicherheit. Risiko reduzieren und Signale strenger prüfen.",
+  "risk": "Einschätzung aus Regeln; kann schnell wieder drehen.",
+  "todo": "Signale und Positionsgrößen strenger prüfen.",
+  "source": "eigene Berechnung",
+  "info_time": "2026-11-27T11:57:47Z",
+  "created": "2026-11-27T11:57:47Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
  }
 ]

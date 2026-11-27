@@ -2,72 +2,50 @@
  "kind": "intraday",
  "title": "Zwischenbericht",
  "date": "2026-11-27",
- "time": "2026-11-27T10:58:27Z",
+ "time": "2026-11-27T11:57:48Z",
  "sections": [
   {
    "title": "Auffällige Kursbewegungen",
    "tag": "BESTÄTIGTE DATEN",
    "items": [
-    "▲ ASML Holding N.V.: +5,15 %, Volumen 0,1×",
-    "▲ Hensoldt AG: +4,81 %, Volumen 0,3×",
-    "▲ Infineon Technologies AG: +4,66 %, Volumen 0,2×",
-    "▲ Siemens Energy AG: +3,62 %, Volumen 0,2×",
+    "▲ Hensoldt AG: +4,89 %, Volumen 0,3×",
+    "▲ ASML Holding N.V.: +4,19 %, Volumen 0,2×",
+    "▲ Infineon Technologies AG: +3,53 %, Volumen 0,2×",
+    "▲ Rheinmetall AG: +3,46 %, Volumen 0,6×",
     "▼ Oracle Corporation: -5,12 %, Volumen 0,9×",
     "▼ NVIDIA Corporation: -3,93 %, Volumen 1,1×",
-    "▼ Amazon.com, Inc.: -3,19 %, Volumen 1,2×",
-    "▼ Alphabet Inc.: -2,18 %, Volumen 0,9×"
+    "▼ Commerzbank AG: -3,27 %, Volumen 1,2×",
+    "▼ Amazon.com, Inc.: -3,19 %, Volumen 1,2×"
    ]
   },
   {
    "title": "Neue Unternehmensnachrichten",
    "tag": "BESTÄTIGTE NACHRICHT",
    "items": [
-    {
-     "text": "NVDA: Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-     "url": "https://stocktwits.com/news-articles/markets/equity/singapore-reportedly-in-talks-with-us-to-retain-advanced-ai-chip-access-as-washington-tightens-export-restrictions/cNbCpMoR9No",
-     "source": "Stocktwits"
-    },
-    {
-     "text": "NVDA: Warren Buffett Wrote in February 2009 That He Buys Stocks Like Socks, When They're Marked Down. The S&P 500 Gained 50% During the Next Year.",
-     "url": "https://www.fool.com/investing/2026/11/27/warren-buffett-wrote-in-february-2009-that-he-buys-stocks-like-socks-when-they-re-marked-down-the-s-and-p-500-gained-50-over-the-next-year/",
-     "source": "Motley Fool"
-    },
-    {
-     "text": "NVDA: Anthropic’s Lock-Up Expirations Start Dec. 15. Here’s What Investors Should Know Before Then.",
-     "url": "https://www.fool.com/investing/2026/11/27/anthropic-s-lock-up-expirations-start-dec-15-here-s-what-investors-should-know-before-then/",
-     "source": "Motley Fool"
-    },
-    {
-     "text": "NVDA: Does Bill Ackman Know Something Wall Street Doesn't? The Billionaire Investor Keeps Buying a Tech Stock That's Now Down 44% Over the Past Year.",
-     "url": "https://www.fool.com/investing/2026/11/27/does-bill-ackman-know-something-wall-street-doesn-t-the-billionaire-investor-keeps-buying-a-tech-stock-down-44-over-the-past-year/",
-     "source": "Motley Fool"
-    },
-    {
-     "text": "NVDA: Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
-     "url": "https://www.fool.com/investing/2026/11/27/warren-buffett-successor-greg-abel-has-47-berkshire-hathaway-346-billion-portfolio-invested-3-proven-winners/",
-     "source": "Motley Fool"
-    },
-    {
-     "text": "NVDA: SpaceX's AI Business Is Now Nearly Half of Revenue. Here's What Happens to the Stock if Google and Anthropic Both Renew.",
-     "url": "https://www.fool.com/investing/2026/11/27/spacexs-ai-business-is-now-nearly-half-of-revenue/",
-     "source": "Motley Fool"
-    }
+    "Keine neuen Meldungen für Depot und Watchlist."
    ]
   },
   {
    "title": "Veränderte technische Lage & neue Signale",
    "tag": "EIGENE MODELLINTERPRETATION",
    "items": [
-    "Deutsche Börse AG (DB1.DE, kurzfristig): BUY → HOLD",
-    "Symrise AG (SY1.DE, kurzfristig): BUY → STRONG BUY",
-    "NVIDIA Corporation (NVDA, kurzfristig): SELL → HOLD"
+    "Mercedes-Benz Group AG (MBG.DE, kurzfristig): SELL → STRONG SELL",
+    "Bayer Aktiengesellschaft (BAYN.DE, kurzfristig): BUY → HOLD",
+    "Deutsche Börse AG (DB1.DE, kurzfristig): HOLD → BUY",
+    "Siemens Energy AG (ENR.DE, kurzfristig): SELL → STRONG SELL",
+    "Symrise AG (SY1.DE, kurzfristig): STRONG BUY → BUY",
+    "LVMH Moët Hennessy - Louis Vuitton, Société Européenne (MC.PA, kurzfristig): HOLD → SELL",
+    "HSBC Holdings plc (HSBA.L, kurzfristig): SELL → STRONG SELL",
+    "Amazon.com, Inc. (AMZN, kurzfristig): HOLD → SELL",
+    "Broadcom Inc. (AVGO, kurzfristig): SELL → STRONG SELL",
+    "Advanced Micro Devices, Inc. (AMD, kurzfristig): HOLD → SELL"
    ]
   }
  ],
  "environment": {
-  "verdict": "neutral",
-  "points": -0.58,
-  "explanation": "Gemischtes Bild: Es gibt Argumente in beide Richtungen. Selektiv vorgehen und Positionsgrößen vorsichtig wählen.",
+  "verdict": "negativ",
+  "points": -1.58,
+  "explanation": "Das Umfeld ist angespannt: schwache Trends oder hohe Unsicherheit. Risiko reduzieren und Signale strenger prüfen.",
   "reasons": [
    {
     "text": "Eigener Stimmungsindikator bei 43/100 (Angst).",
@@ -75,7 +53,7 @@
     "dir": "-"
    },
    {
-    "text": "DAX: Trend seitwärts, Monat -2,3 %.",
+    "text": "DAX: Trend seitwärts, Monat -2,5 %.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "="
    },
@@ -85,9 +63,9 @@
     "dir": "="
    },
    {
-    "text": "VIX 24,6 – Volatilität erhöht.",
+    "text": "VIX 25,1 – Volatilität erhöht.",
     "tag": "BESTÄTIGTE DATEN",
-    "dir": "="
+    "dir": "-"
    },
    {
     "text": "EZB-Einlagesatz 2,50 % (Stand 2026-09-16, zuletzt erhöht).",
