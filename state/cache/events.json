@@ -2,6 +2,22 @@
  "SAP.DE": {
   "news": [
    {
+    "title": "SAP reportedly planning to cut 10,000 jobs",
+    "url": "https://www.verdict.co.uk/sap-plans-10000-roles-cut/",
+    "published": "2026-11-27T12:13:27Z",
+    "publisher": "Verdict",
+    "summary": "The anticipated staff cuts would account for a minimum of 9% of the German software group’s global headcount.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Salesforce Before Q3 Earnings Release: Should You Buy the Stock Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-q3-earnings-release-buy-110400855.html",
+    "published": "2026-11-27T11:04:00Z",
+    "publisher": "Zacks",
+    "summary": "Salesforce heads into Q3 earnings with strong AI and cloud demand, but lingering license revenue weakness raises questions about its near-term prospects.",
+    "via": "Yahoo Finance"
+   },
+   {
     "title": "German sofware giant SAP weighs at least 10,000 job cuts amid AI shift, reports say",
     "url": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
     "published": "2026-11-27T10:37:52Z",
@@ -63,22 +79,6 @@
     "published": "2026-11-21T10:05:45Z",
     "publisher": "Simply Wall St.",
     "summary": "V.F. Corporation set a revenue goal of at least US$9.8 billion for next year with an operating margin near 9%, while also outlining a medium term aim of 10% and a continued focus on debt reduction. The S.Fashion test store with SAP in Walldorf uses AI, RFID, robotics and SAP applications as a live l",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "SAP (XTRA:SAP) In Focus After Leadership Exit As Undervalued View Holds",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sap-xtra-sap-focus-leadership-151158564.html",
-    "published": "2026-11-18T15:11:58Z",
-    "publisher": "Simply Wall St.",
-    "summary": "SAP (XTRA:SAP) is back in focus after investors reacted to the planned exit of Chief Customer Officer and Executive Board member Thomas Saueressig. The share price declined 5.2%, and options activity turned bearish. The leadership news hits a stock that has already cooled after a strong run, with SA",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Docusign vs. Fastly: Which Technology Stock Is a Better Buy for 2027?",
-    "url": "https://www.fool.com/coverage/better-buy/2026/11/18/docusign-vs-fastly-which-technology-stock-is-a-better-buy-for-2027/",
-    "published": "2026-11-18T14:10:02Z",
-    "publisher": "Motley Fool",
-    "summary": "Docusign has moved far beyond e-signatures, but Fastly is growing revenue faster, and the valuation gap may tip the scales.",
     "via": "Yahoo Finance"
    }
   ],
@@ -239,7 +239,7 @@
    "earnings_date": "2027-01-28",
    "ex_dividend_date": "2026-05-06"
   },
-  "_fetched": "2026-11-27T10:58:18Z"
+  "_fetched": "2026-11-27T14:55:16Z"
  },
  "SIE.DE": {
   "news": [
@@ -3353,19 +3353,19 @@
  "RHM.DE": {
   "news": [
    {
+    "title": "Arms Maker Rheinmetall Slashes Midterm Forecasts After Order Setbacks",
+    "url": "https://www.wsj.com/business/earnings/arms-maker-rheinmetall-slashes-midterm-forecasts-after-order-setbacks-6f24dfad?siteid=yhoof2&yptr=yahoo",
+    "published": "2026-11-27T11:02:00Z",
+    "publisher": "The Wall Street Journal",
+    "summary": "The defense group lowered its sales and margin projections for the end of the decade after Germany canceled a big frigate order and delayed procurement of a lucrative combat-vehicle project.",
+    "via": "Yahoo Finance"
+   },
+   {
     "title": "Rheinmetall shares rise on €738 million Romanian vehicle order",
     "url": "https://finance.yahoo.com/markets/stocks/articles/rheinmetall-shares-rise-738-million-095731791.html",
     "published": "2026-11-27T09:57:31Z",
     "publisher": "Investing.com",
     "summary": "Investing.com -- Rheinmetall AG (ETR:RHMG) received an order from Romania’s Ministry of Defence for 66 Lynx combat vehicles, valued at approximately €738 million. The announcement sent shares of the German defense company up 4% on Friday.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Arms Maker Rheinmetall Slashes Midterm Forecasts After Order Setbacks",
-    "url": "https://www.wsj.com/business/earnings/arms-maker-rheinmetall-slashes-midterm-forecasts-after-order-setbacks-6f24dfad?siteid=yhoof2&yptr=yahoo",
-    "published": "2026-11-27T09:42:00Z",
-    "publisher": "The Wall Street Journal",
-    "summary": "The defense group lowered its sales and margin projections for the end of the decade after Germany canceled a big frigate order and delayed procurement of a lucrative combat-vehicle project.",
     "via": "Yahoo Finance"
    },
    {
@@ -3590,7 +3590,7 @@
    "earnings_date": "2026-11-05",
    "ex_dividend_date": "2026-05-13"
   },
-  "_fetched": "2026-11-27T10:58:19Z"
+  "_fetched": "2026-11-27T14:55:18Z"
  },
  "ADS.DE": {
   "news": [
@@ -11252,83 +11252,83 @@
  "NVDA": {
   "news": [
    {
-    "title": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-    "url": "https://stocktwits.com/news-articles/markets/equity/singapore-reportedly-in-talks-with-us-to-retain-advanced-ai-chip-access-as-washington-tightens-export-restrictions/cNbCpMoR9No",
-    "published": "2026-11-27T10:54:14Z",
+    "title": "How Leopold Aschenbrenner made a $225 million bet on AI infrastructure",
+    "url": "https://finance.yahoo.com/video/leopold-aschenbrenner-made-225-million-143000764.html",
+    "published": "2026-11-27T14:30:00Z",
+    "publisher": "Yahoo Finance Video",
+    "summary": "In the Loop Host Ejaaz Ahamadeen recounts how Situational Awareness founder Leopold Aschenbrenner received his initial investments of up to $225 million and bet big on the AI infrastructure build-out, giving a timeline of his firm's initial success and growth.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Nvidia freezing chip orders to four Southeast Asian countries",
+    "url": "https://finance.yahoo.com/video/nvidia-freezing-chip-orders-to-four-southeast-asian-countries-140011925.html",
+    "published": "2026-11-27T14:00:11Z",
+    "publisher": "Yahoo Finance Video",
+    "summary": "Nvidia (NVDA) has reportedly halted chip orders to Southeast Asia, according to the Financial Times, as US regulators aim to tighten export controls to China.\n\nThe 8:30 Hosts Julie Hyman and Jake Conley are joined by Washington Crossing Advisors senior portfolio manager Chad Morganlander to discuss ",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
+    "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-still-paying-the-price-for-the-jensen-huang-ceo-drama-124902053.html",
+    "published": "2026-11-27T12:49:02Z",
+    "publisher": "Yahoo Finance",
+    "summary": "Nvidia's stock will need some time to find solid footing.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "He was right about AI and still lost $35 billion",
+    "url": "https://finance.yahoo.com/video/ai-still-lost-35-billion-120000023.html",
+    "published": "2026-11-27T12:00:00Z",
+    "publisher": "Yahoo Finance Video",
+    "summary": "Leopold Aschenbrenner turned $225 million into a $45 billion fund in under two years by betting on everything AI would need. Then 4x leverage and a brutal July cost him $35 billion from the peak. Host Ejaaz Ahamadeen breaks down the essay, the bets, the margin calls and Citadel's block trade, and wh",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock",
+    "url": "https://www.fool.com/investing/2026/11/27/fire-sale-here-s-why-now-may-be-the-perfect-time-to-buy-nvidia-stock/",
+    "published": "2026-11-27T14:38:02Z",
+    "publisher": "Motley Fool",
+    "summary": "Nvidia's stock is trading at levels not seen in years.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq gain on Black Friday as AI jitters steady",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+    "published": "2026-11-27T09:11:52Z",
+    "publisher": "Yahoo Finance",
+    "summary": "Markets steadied going into a holiday-shortened trading day.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Jensen Huang Said Blackwell Racks Wouldn't Fit In A 'Pocket Or Backpack' But One Has Reportedly Turned Up in Shanghai",
+    "url": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-said-blackwell-racks-wouldn-t-fit-in-a-pocket-or-backpack-but-one-has-reportedly-turned-up-in-shanghai/cNbCwmzR9Vb",
+    "published": "2026-11-27T14:29:41Z",
     "publisher": "Stocktwits",
-    "summary": "Singapore is reviewing its procedures to prevent illicit semiconductor trading and will keep working with US authorities to address their concerns.",
+    "summary": "Nvidia's GB300 NVL72 rack, containing 72 Blackwell Ultra chips, was installed at a Shanghai data center despite U.S. export restrictions, according to a Bloomberg report.",
     "via": "Yahoo Finance"
    },
    {
-    "title": "Warren Buffett Wrote in February 2009 That He Buys Stocks Like Socks, When They're Marked Down. The S&P 500 Gained 50% During the Next Year.",
-    "url": "https://www.fool.com/investing/2026/11/27/warren-buffett-wrote-in-february-2009-that-he-buys-stocks-like-socks-when-they-re-marked-down-the-s-and-p-500-gained-50-over-the-next-year/",
-    "published": "2026-11-27T10:50:02Z",
+    "title": "Kioxia Stock Has Soared 21% in Two Days After an Nvidia SSD Test",
+    "url": "https://247wallst.com/investing/2026/11/27/kioxia-stock-has-soared-21-in-two-days-after-an-nvidia-ssd-test/",
+    "published": "2026-11-27T14:28:28Z",
+    "publisher": "24/7 Wall St.",
+    "summary": "Nvidia just showed flash drives doing a job reserved for GPU memory, and a Japanese chipmaker's shares erupted. The real money question runs through an American partner, a misread dividend, and one number that could break the whole thesis.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq",
+    "url": "https://investorshub.advfn.com/market-news/article/40808/wall-street-futures-signal-strong-opening-as-technology-stocks-continue-recovery-dow-jones-sp-nasdaq",
+    "published": "2026-11-27T14:15:58Z",
+    "publisher": "InvestorsHub",
+    "summary": "US stock index futures pointed to a sharply higher opening on Friday as trading resumed following the Thanksgiving holiday, with technology shares expected to extend their recent recovery amid continued market volatility. Nasdaq 100 futures advanced 2.",
+    "via": "Yahoo Finance"
+   },
+   {
+    "title": "Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock?",
+    "url": "https://www.fool.com/investing/2026/11/27/strategy-just-bought-bitcoin-for-the-4th-straight-week-so-why-aren-t-crypto-investors-bullish-on-mstr-stock/",
+    "published": "2026-11-27T14:03:12Z",
     "publisher": "Motley Fool",
-    "summary": "Downturns are the best time to get good stocks on the cheap.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Anthropic’s Lock-Up Expirations Start Dec. 15. Here’s What Investors Should Know Before Then.",
-    "url": "https://www.fool.com/investing/2026/11/27/anthropic-s-lock-up-expirations-start-dec-15-here-s-what-investors-should-know-before-then/",
-    "published": "2026-11-27T10:44:02Z",
-    "publisher": "Motley Fool",
-    "summary": "Anthropic could see a flood of selling over the next few months.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Does Bill Ackman Know Something Wall Street Doesn't? The Billionaire Investor Keeps Buying a Tech Stock That's Now Down 44% Over the Past Year.",
-    "url": "https://www.fool.com/investing/2026/11/27/does-bill-ackman-know-something-wall-street-doesn-t-the-billionaire-investor-keeps-buying-a-tech-stock-down-44-over-the-past-year/",
-    "published": "2026-11-27T10:40:02Z",
-    "publisher": "Motley Fool",
-    "summary": "Ackman and his team at Pershing Square Capital Management typically hold just 12 to 15 stocks in their portfolio at any one time.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
-    "url": "https://www.fool.com/investing/2026/11/27/warren-buffett-successor-greg-abel-has-47-berkshire-hathaway-346-billion-portfolio-invested-3-proven-winners/",
-    "published": "2026-11-27T10:26:02Z",
-    "publisher": "Motley Fool",
-    "summary": "Nearly $163 billion of Berkshire’s invested assets are concentrated in the Oracle of Omaha’s and Abel’s best ideas.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "SpaceX's AI Business Is Now Nearly Half of Revenue. Here's What Happens to the Stock if Google and Anthropic Both Renew.",
-    "url": "https://www.fool.com/investing/2026/11/27/spacexs-ai-business-is-now-nearly-half-of-revenue/",
-    "published": "2026-11-27T10:26:00Z",
-    "publisher": "Motley Fool",
-    "summary": "Huge deals with Anthropic and Alphabet have quickly made SpaceX a leader in the AI compute market.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
-    "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html",
-    "published": "2026-11-27T10:22:54Z",
-    "publisher": "MT Newswires",
-    "summary": "Nvidia (NVDA) has stopped some sales of its highest-end artificial intelligence microchips to Malays",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "Nvidia Forecast $130 Billion in Revenue and Added $150 Billion to Its Buyback. Should You Buy the Stock?",
-    "url": "https://www.fool.com/investing/2026/11/27/nvidia-forecast-usd130-billion-in-revenue-and-added-usd150-billion-to-its-buyback-should-you-buy-the-stock/",
-    "published": "2026-11-27T10:20:02Z",
-    "publisher": "Motley Fool",
-    "summary": "The market is unprepared if Nvidia ends up being fine.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "1 No-Brainer Stock to Buy and Hold for 10 Years",
-    "url": "https://www.fool.com/investing/2026/11/27/1-no-brainer-stock-to-buy-on-the-dip-and-hold-for-10-years/",
-    "published": "2026-11-27T10:13:02Z",
-    "publisher": "Motley Fool",
-    "summary": "The math on Vertex’s after-hours dip doesn’t add up.",
-    "via": "Yahoo Finance"
-   },
-   {
-    "title": "The S&P 500 Could Break Its Streak of Double-Digit Gains in 2026. History Says Here's What Happens Next",
-    "url": "https://www.fool.com/investing/2026/11/27/the-s-and-p-500-could-break-its-streak-of-double-digit-gains-in-2026-history-says-here-s-what-happens-next/",
-    "published": "2026-11-27T10:04:02Z",
-    "publisher": "Motley Fool",
-    "summary": "The S&P 500's hot streak may be ending.",
+    "summary": "Strategy's latest buying streak might not be enough to turn things around for its stock.",
     "via": "Yahoo Finance"
    }
   ],
@@ -11561,7 +11561,7 @@
    "ex_dividend_date": "2026-12-02",
    "dividend_date": "2026-12-23"
   },
-  "_fetched": "2026-11-27T10:58:20Z"
+  "_fetched": "2026-11-27T14:55:19Z"
  },
  "AMZN": {
   "news": [
