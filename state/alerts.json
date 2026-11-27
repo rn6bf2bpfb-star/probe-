@@ -3462,5 +3462,106 @@
   "delivered": [
    "dashboard"
   ]
+ },
+ {
+  "id": "sig|MTX.DE|short|BUY|2026-11-27|2026-11-27T17:05:53Z",
+  "dedupe": "sig|MTX.DE|short|BUY|2026-11-27",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "MTX.DE",
+  "name": "MTU Aero Engines AG",
+  "title": "AKTIENALARM – MTU Aero Engines AG",
+  "headline": "Neues Kaufszenario (kurzfristig): HOLD → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "MTX.DE",
+   "price": 352.20001220703125,
+   "currency": "EUR",
+   "time": "2026-11-27T16:15:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 344.1000061035156
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Trend aufwärts: Kurs 1,1 % über SMA 50, 4,2 % über SMA 200, SMA 20 bei 347,45; RSI 55: positives Momentum ohne Überhitzung; MACD hat die Signallinie frisch nach oben gekreuzt. Dagegen: Kurs direkt unter Widerstand 358,80 – Ausbruch noch nicht bestätigt.",
+  "risk": "Kurs direkt unter Widerstand 358,80 – Ausbruch noch nicht bestätigt.; Nächster Zahlentermin laut Yahoo: 2027-02-23 – Gap-Risiko.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-27T16:15:00Z",
+  "created": "2026-11-27T17:05:53Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "sig|AAPL|short|STRONG BUY|2026-11-27|2026-11-27T17:05:53Z",
+  "dedupe": "sig|AAPL|short|STRONG BUY|2026-11-27",
+  "kind": "buy_opportunity",
+  "priority": "HIGH",
+  "symbol": "AAPL",
+  "name": "Apple Inc.",
+  "title": "AKTIENALARM – Apple Inc.",
+  "headline": "Neues Kaufszenario (kurzfristig): BUY → STRONG BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (STRONG BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "AAPL",
+   "price": 357.5668029785156,
+   "currency": "USD",
+   "time": "2026-11-27T17:00:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 355.5799865722656
+  },
+  "reason": "Mehrere unabhängige Faktoren sprechen kurzfristig klar für die Aktie: Trend aufwärts: Kurs 4,1 % über SMA 50, 17,3 % über SMA 200, SMA 20 bei 349,11; RSI 59: positives Momentum ohne Überhitzung; MACD hat die Signallinie frisch nach oben gekreuzt.",
+  "risk": "Kurs direkt unter Widerstand 360,83 – Ausbruch noch nicht bestätigt.; Nächster Zahlentermin laut Yahoo: 2027-01-28 – Gap-Risiko.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-27T17:00:00Z",
+  "created": "2026-11-27T17:05:53Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "vol|CBK.DE|2026-11-27|2026-11-27T17:05:53Z",
+  "dedupe": "vol|CBK.DE|2026-11-27",
+  "kind": "volume_spike",
+  "priority": "LOW",
+  "symbol": "CBK.DE",
+  "name": "Commerzbank AG",
+  "title": "AKTIENALARM – Commerzbank AG",
+  "headline": "Ungewöhnlich hohes Handelsvolumen (3,6× Durchschnitt)",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "CBK.DE",
+   "price": 32.470001220703125,
+   "currency": "EUR",
+   "time": "2026-11-27T16:15:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 33.29999923706055
+  },
+  "reason": "Volumen deutlich über dem 20-Tage-Schnitt bei Tagesveränderung -1,9 %. Jüngste Meldung: „Treasuries Fall as US Equity Futures Recover, Oil Prices Edge Higher, Commerzbank Says“ (MT Newswires).",
+  "risk": "Hohes Volumen kann Trendwechsel oder Nachrichtenreaktion anzeigen – Richtung noch offen.",
+  "todo": "Beobachten, ob der Kurs die Bewegung am nächsten Tag bestätigt.",
+  "source": "Yahoo Finance",
+  "info_time": "2026-11-27T16:15:00Z",
+  "created": "2026-11-27T17:05:53Z",
+  "tag": "BESTÄTIGTE DATEN",
+  "link": null,
+  "delivered": [
+   "dashboard"
+  ]
  }
 ]
