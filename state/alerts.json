@@ -3362,5 +3362,105 @@
    "push",
    "dashboard"
   ]
+ },
+ {
+  "id": "sig|V|short|BUY|2026-11-27|2026-11-27T15:59:41Z",
+  "dedupe": "sig|V|short|BUY|2026-11-27",
+  "kind": "buy_opportunity",
+  "priority": "MEDIUM",
+  "symbol": "V",
+  "name": "Visa Inc.",
+  "title": "AKTIENALARM – Visa Inc.",
+  "headline": "Neues Kaufszenario (kurzfristig): HOLD → BUY",
+  "signal_label": "MÖGLICHES KAUFSZENARIO (BUY)",
+  "type_label": "MODELLSIGNAL – analytische Orientierung, keine Anlageberatung",
+  "is_signal": true,
+  "quote": {
+   "symbol": "V",
+   "price": 431.05999755859375,
+   "currency": "USD",
+   "time": "2026-11-27T15:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 424.3900146484375
+  },
+  "reason": "Kurzfristig überwiegen die positiven Faktoren: Trend aufwärts: Kurs 8,2 % über SMA 50, 22,8 % über SMA 200, SMA 20 bei 420,11; RSI 63: positives Momentum ohne Überhitzung; Relative Stärke 6 Monate: +36,2 % gegenüber dem Vergleichsindex. Dagegen: keine klaren negativen Faktoren.",
+  "risk": "Nächster Zahlentermin laut Yahoo: 2027-01-26 – Gap-Risiko.; Marktumfeld insgesamt negativ – Einzelwerte werden oft mitgerissen.",
+  "todo": "Aktie genauer beobachten und das Szenario anhand der aktuellen Daten überprüfen. Im Planspiel ggf. mit Stop-Loss testen.",
+  "source": "Yahoo Finance + eigene Analyse",
+  "info_time": "2026-11-27T15:45:00Z",
+  "created": "2026-11-27T15:59:41Z",
+  "tag": "EIGENE MODELLINTERPRETATION",
+  "link": null,
+  "delivered": [
+   "push",
+   "dashboard"
+  ]
+ },
+ {
+  "id": "mv|META|2026-11-27|up|2026-11-27T15:59:41Z",
+  "dedupe": "mv|META|2026-11-27|up",
+  "kind": "strong_move",
+  "priority": "LOW",
+  "symbol": "META",
+  "name": "Meta Platforms, Inc.",
+  "title": "AKTIENALARM – Meta Platforms, Inc.",
+  "headline": "Starke Kursbewegung: +4,1 % zum Vortag",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "META",
+   "price": 634.9149780273438,
+   "currency": "USD",
+   "time": "2026-11-27T15:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 609.8900146484375
+  },
+  "reason": "Jüngste Meldung: „Broadcom’s 2027 Bull Case: AI Revenue Doubles to $115B and $230B—Here’s What Finally Unlocks the Stock“ (24/7 Wall St.).",
+  "risk": "Starke Bewegungen setzen sich nicht zwingend fort; Kurslücken möglich.",
+  "todo": "Ursache in den Nachrichten prüfen, nicht impulsiv handeln.",
+  "source": "Yahoo Finance",
+  "info_time": "2026-11-27T15:45:00Z",
+  "created": "2026-11-27T15:59:41Z",
+  "tag": "BESTÄTIGTE DATEN",
+  "link": null,
+  "delivered": [
+   "dashboard"
+  ]
+ },
+ {
+  "id": "mv|TSLA|2026-11-27|up|2026-11-27T15:59:41Z",
+  "dedupe": "mv|TSLA|2026-11-27|up",
+  "kind": "strong_move",
+  "priority": "LOW",
+  "symbol": "TSLA",
+  "name": "Tesla, Inc.",
+  "title": "AKTIENALARM – Tesla, Inc.",
+  "headline": "Starke Kursbewegung: +4,8 % zum Vortag",
+  "signal_label": null,
+  "type_label": "BENACHRICHTIGUNG – keine Kaufempfehlung",
+  "is_signal": false,
+  "quote": {
+   "symbol": "TSLA",
+   "price": 398.4800109863281,
+   "currency": "USD",
+   "time": "2026-11-27T15:45:00Z",
+   "source": "Yahoo Finance",
+   "quality": "verzögert",
+   "prev_close": 380.1400146484375
+  },
+  "reason": "Jüngste Meldung: „SpaceX Cratered 13.5% This Month: Near 300% Returns to Materialize at Today’s Price According to this Pro Analyst“ (24/7 Wall St.).",
+  "risk": "Starke Bewegungen setzen sich nicht zwingend fort; Kurslücken möglich.",
+  "todo": "Ursache in den Nachrichten prüfen, nicht impulsiv handeln.",
+  "source": "Yahoo Finance",
+  "info_time": "2026-11-27T15:45:00Z",
+  "created": "2026-11-27T15:59:41Z",
+  "tag": "BESTÄTIGTE DATEN",
+  "link": null,
+  "delivered": [
+   "dashboard"
+  ]
  }
 ]

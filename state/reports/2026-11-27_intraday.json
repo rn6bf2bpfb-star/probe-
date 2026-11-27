@@ -2,93 +2,62 @@
  "kind": "intraday",
  "title": "Zwischenbericht",
  "date": "2026-11-27",
- "time": "2026-11-27T14:55:27Z",
+ "time": "2026-11-27T15:59:41Z",
  "sections": [
   {
    "title": "Auffällige Kursbewegungen",
    "tag": "BESTÄTIGTE DATEN",
    "items": [
-    "▲ Hensoldt AG: +4,26 %, Volumen 0,4×",
-    "▲ Tesla, Inc.: +3,64 %, Volumen 0,2×",
-    "▲ Rheinmetall AG: +3,34 %, Volumen 0,8×",
-    "▲ Meta Platforms, Inc.: +2,51 %, Volumen 0,1×",
-    "▼ Commerzbank AG: -3,18 %, Volumen 1,9×",
-    "▼ NVIDIA Corporation: -1,50 %, Volumen 0,1×",
-    "▼ Beiersdorf Aktiengesellschaft: -1,08 %, Volumen 0,3×",
-    "▼ adidas AG: -0,95 %, Volumen 0,3×"
+    "▲ Tesla, Inc.: +4,82 %, Volumen 0,4×",
+    "▲ Hensoldt AG: +4,26 %, Volumen 0,5×",
+    "▲ Meta Platforms, Inc.: +4,10 %, Volumen 0,3×",
+    "▲ Amazon.com, Inc.: +3,90 %, Volumen 0,2×",
+    "▼ Commerzbank AG: -3,45 %, Volumen 2,3×",
+    "▼ NVIDIA Corporation: -1,11 %, Volumen 0,3×",
+    "▼ Beiersdorf Aktiengesellschaft: -0,79 %, Volumen 0,4×",
+    "▼ Hannover Rück SE: -0,74 %, Volumen 0,3×"
    ]
   },
   {
    "title": "Neue Unternehmensnachrichten",
    "tag": "BESTÄTIGTE NACHRICHT",
    "items": [
-    {
-     "text": "NVDA: How Leopold Aschenbrenner made a $225 million bet on AI infrastructure",
-     "url": "https://finance.yahoo.com/video/leopold-aschenbrenner-made-225-million-143000764.html",
-     "source": "Yahoo Finance Video"
-    },
-    {
-     "text": "NVDA: Nvidia freezing chip orders to four Southeast Asian countries",
-     "url": "https://finance.yahoo.com/video/nvidia-freezing-chip-orders-to-four-southeast-asian-countries-140011925.html",
-     "source": "Yahoo Finance Video"
-    },
-    {
-     "text": "NVDA: Nvidia stock is still paying the price for the Jensen Huang CEO drama",
-     "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-still-paying-the-price-for-the-jensen-huang-ceo-drama-124902053.html",
-     "source": "Yahoo Finance"
-    },
-    {
-     "text": "NVDA: He was right about AI and still lost $35 billion",
-     "url": "https://finance.yahoo.com/video/ai-still-lost-35-billion-120000023.html",
-     "source": "Yahoo Finance Video"
-    },
-    {
-     "text": "NVDA: Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock",
-     "url": "https://www.fool.com/investing/2026/11/27/fire-sale-here-s-why-now-may-be-the-perfect-time-to-buy-nvidia-stock/",
-     "source": "Motley Fool"
-    },
-    {
-     "text": "NVDA: Stock market today: Dow, S&P 500, Nasdaq gain on Black Friday as AI jitters steady",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
-     "source": "Yahoo Finance"
-    }
+    "Keine neuen Meldungen für Depot und Watchlist."
    ]
   },
   {
    "title": "Veränderte technische Lage & neue Signale",
    "tag": "EIGENE MODELLINTERPRETATION",
    "items": [
-    "NVIDIA Corporation (NVDA, kurzfristig): HOLD → SELL",
-    "Amazon.com, Inc. (AMZN, kurzfristig): SELL → HOLD",
-    "Amazon.com, Inc. (AMZN, langfristig): HOLD → BUY",
-    "Broadcom Inc. (AVGO, kurzfristig): STRONG SELL → SELL",
-    "Adobe Inc. (ADBE, kurzfristig): HOLD → SELL",
-    "Visa Inc. (V, kurzfristig): BUY → HOLD"
+    "Volkswagen AG (VOW3.DE, kurzfristig): SELL → HOLD",
+    "LVMH Moët Hennessy - Louis Vuitton, Société Européenne (MC.PA, kurzfristig): SELL → HOLD",
+    "Adobe Inc. (ADBE, kurzfristig): SELL → STRONG SELL",
+    "Visa Inc. (V, kurzfristig): HOLD → BUY"
    ]
   }
  ],
  "environment": {
   "verdict": "negativ",
-  "points": -1.46,
+  "points": -1.38,
   "explanation": "Das Umfeld ist angespannt: schwache Trends oder hohe Unsicherheit. Risiko reduzieren und Signale strenger prüfen.",
   "reasons": [
    {
-    "text": "Eigener Stimmungsindikator bei 46/100 (neutral).",
+    "text": "Eigener Stimmungsindikator bei 48/100 (neutral).",
     "tag": "EIGENE MODELLINTERPRETATION",
     "dir": "="
    },
    {
-    "text": "DAX: Trend seitwärts, Monat -2,9 %.",
+    "text": "DAX: Trend seitwärts, Monat -2,3 %.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "="
    },
    {
-    "text": "S&P 500: Trend seitwärts, Monat -6,6 %.",
+    "text": "S&P 500: Trend seitwärts, Monat -6,1 %.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "="
    },
    {
-    "text": "VIX 27,1 – Volatilität erhöht.",
+    "text": "VIX 25,5 – Volatilität erhöht.",
     "tag": "BESTÄTIGTE DATEN",
     "dir": "-"
    },
