@@ -6,10 +6,10 @@
   "sector": "Technology",
   "industry": "Software - Application",
   "country": "Germany",
-  "market_cap": 224123387904,
-  "pe": 28.060692,
-  "forward_pe": 22.88226,
-  "pb": 4.859967,
+  "market_cap": 225808531456,
+  "pe": 28.271675,
+  "forward_pe": 23.054308,
+  "pb": 4.896508,
   "peg": 1.5908,
   "eps": 6.92,
   "revenue": 39387000832,
@@ -23,7 +23,7 @@
   "total_cash": 10997000192,
   "free_cashflow": 10038750208,
   "operating_cashflow": 9882999808,
-  "dividend_yield": 0.0132,
+  "dividend_yield": 0.0129,
   "payout_ratio": 0.36180001,
   "beta": 0.702,
   "analyst_target_mean": 243.54222,
@@ -90,7 +90,7 @@
    }
   ],
   "_source": "Yahoo Finance",
-  "_fetched": "2026-11-27T13:12:52Z"
+  "_fetched": "2026-11-28T10:55:19Z"
  },
  "SIE.DE": {
   "name": "Siemens Aktiengesellschaft",
@@ -1308,12 +1308,12 @@
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "country": "Germany",
-  "market_cap": 37077778432,
-  "pe": 27.955666,
-  "forward_pe": 16.235306,
-  "pb": 6.94135,
+  "market_cap": 36919103488,
+  "pe": 26.944822,
+  "forward_pe": 16.178274,
+  "pb": 6.911645,
   "peg": 0.3567,
-  "eps": 28.42,
+  "eps": 29.36,
   "revenue": 12254000128,
   "revenue_growth": 0.364,
   "earnings_growth": 0.927,
@@ -1325,10 +1325,10 @@
   "total_cash": 636000000,
   "free_cashflow": 806515008,
   "operating_cashflow": 1412999936,
-  "dividend_yield": 0.015600000000000001,
+  "dividend_yield": 0.015,
   "payout_ratio": 0.3976,
   "beta": 0.449,
-  "analyst_target_mean": 1282.591,
+  "analyst_target_mean": 1278.0454,
   "analyst_target_low": 900.0,
   "analyst_target_high": 1780.0,
   "analyst_count": 22,
@@ -1392,7 +1392,7 @@
    }
   ],
   "_source": "Yahoo Finance",
-  "_fetched": "2026-11-27T13:12:53Z"
+  "_fetched": "2026-11-28T10:55:20Z"
  },
  "ADS.DE": {
   "name": "adidas AG",
@@ -4377,12 +4377,12 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "country": "United States",
-  "market_cap": 3605147156480,
-  "pe": 16.03652,
-  "forward_pe": 8.991117,
-  "pb": 13.496655,
+  "market_cap": 3633882071040,
+  "pe": 16.04371,
+  "forward_pe": 9.06278,
+  "pb": 13.604231,
   "peg": 0.1519,
-  "eps": 9.31,
+  "eps": 9.38,
   "revenue": 361808003072,
   "revenue_growth": 1.032,
   "earnings_growth": 1.077,
@@ -4394,7 +4394,7 @@
   "total_cash": 97731002368,
   "free_cashflow": 99241377792,
   "operating_cashflow": 158862999552,
-  "dividend_yield": 0.0067,
+  "dividend_yield": 0.0066,
   "payout_ratio": 0.0354,
   "beta": 2.247,
   "analyst_target_mean": 242.4278,
@@ -4461,7 +4461,7 @@
    }
   ],
   "_source": "Yahoo Finance",
-  "_fetched": "2026-11-27T13:12:54Z"
+  "_fetched": "2026-11-28T10:55:22Z"
  },
  "AMZN": {
   "name": "Amazon.com, Inc.",
